@@ -108,7 +108,7 @@
 24	animo	animus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	28	nmod	_	LId=animus-1
 25	et	et	CONJ	c	_	23	cc	_	LId=et-1
 26	dignas	dignus	ADJ	a	Case=Acc|Gender=Fem|Number=Plur	23	conj	_	LId=dignus-1
-27	Iove	Iuppiter	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	26	dobj	_	LId=Iuppiter-1
+27	Iove	Iuppiter	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	26	dobj	_	LId=Iuppiter-1
 28	concipit	concipio	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	LId=concipio-1
 29	iras	ira	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	28	dobj	_	LId=ira-1
 30	,	comma	PUNCT	u	_	9	punct	_	LId=comma-1
@@ -185,7 +185,7 @@
 6	clari	clarus	ADJ	a	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	LId=clarus-1
 7	suos	suus	ADJ	a	Case=Acc|Gender=Masc|Number=Plur	9	amod	_	LId=suus-1
 8	posuere	pono	VERB	v	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=pono-1
-9	penates	Penates	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=Penates-1
+9	penates	Penates	PROPN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=Penates-1
 
 # sent_id a_tree-la-s12-root
 # orig_file_sentence 001#12
@@ -204,7 +204,7 @@
 13	timeam	timeo	VERB	v	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	LId=timeo-1
 14	magni	magnus	ADJ	a	Case=Gen|Gender=Neut|Number=Sing	17	amod	_	LId=magnus-1
 15	dixisse	dico	VERB	v	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	13	xcomp	_	LId=dico-2
-16	Palatia	Palatium	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	15	dobj	_	LId=Palatium-1
+16	Palatia	Palatium	PROPN	n	Case=Acc|Gender=Neut|Number=Plur	15	dobj	_	LId=Palatium-1
 17	caeli	caelum	NOUN	n	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	LId=caelum-1
 
 # sent_id a_tree-la-s13-root
@@ -300,7 +300,7 @@
 3	,	comma	PUNCT	u	_	7	punct	_	LId=comma-1
 4	qua	qua	ADV	d	_	7	mark	_	LId=qua-1
 5	totum	totus	ADJ	a	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	LId=totus-1
-6	Nereus	Nereus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=Nereus-1
+6	Nereus	Nereus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=Nereus-1
 7	circumsonat	circumsono	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	LId=circumsono-1
 8	orbem	orbis	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	7	dobj	_	LId=orbis-1
 9	,	comma	PUNCT	u	_	7	punct	_	LId=comma-1
@@ -353,12 +353,12 @@
 7	numina	numen	NOUN	n	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	LId=numen-1
 8	,	comma	PUNCT	u	_	2	punct	_	LId=comma-1
 9	nymphae	nympha	NOUN	n	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	LId=nympha-1
-10	faunique	Faunus	NOUN	n	Case=Nom|Gender=Masc|Number=Plur	9	conj	_	LId=Faunus-1
+10	faunique	Faunus	PROPN	n	Case=Nom|Gender=Masc|Number=Plur	9	conj	_	LId=Faunus-1
 11	que	que	CONJ	c	_	9	cc	_	LId=que-1
 12	satyri	satyrus	NOUN	n	Case=Nom|Gender=Masc|Number=Plur	9	conj	_	LId=satyrus-1
 13	et	et	CONJ	c	_	9	cc	_	LId=et-1
 14	monticolae	monticola	NOUN	n	Case=Nom|Gender=Masc|Number=Plur	15	nmod	_	LId=monticola-1
-15	silvani	Silvanus	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	9	conj	_	LId=Silvanus-1
+15	silvani	Silvanus	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	9	conj	_	LId=Silvanus-1
 
 # sent_id a_tree-la-s22-root
 # orig_file_sentence 001#22
@@ -404,9 +404,9 @@
 24	,	comma	PUNCT	u	_	21	punct	_	LId=comma-1
 25	struxerit	struo	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	advcl	_	LId=struo-1
 26	insidias	insidiae	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	25	dobj	_	LId=insidiae-1
-27	notus	Notus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	29	nmod	_	LId=Notus-2
+27	notus	Notus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	29	nmod	_	LId=Notus-2
 28	feritate	feritas	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	27	nmod	_	LId=feritas-1
-29	Lycaon	Lycaon	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	LId=Lycaon-1
+29	Lycaon	Lycaon	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	LId=Lycaon-1
 
 # sent_id a_tree-la-s24-root
 # orig_file_sentence 001#24
@@ -455,7 +455,7 @@
 5	minus	parvus	ADV	d	_	4	advmod	_	LId=parvus-1
 6	pietas	pietas	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=pietas-1
 7	,	comma	PUNCT	u	_	8	punct	_	LId=comma-1
-8	Auguste	Augustus	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LId=Augustus-2
+8	Auguste	Augustus	PROPN	n	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LId=Augustus-2
 9	,	comma	PUNCT	u	_	8	punct	_	LId=comma-1
 10	tuorum	tuor	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	LId=tuor-2
 11	est	sum	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	LId=sum-1
@@ -463,7 +463,7 @@
 13	quam	quam	CONJ	c	_	14	mark	_	LId=quam-1
 14	fuit	sum	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	LId=sum-1
 15	illa	ille	PRON	p	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	LId=ille-1
-16	Iovi	Iuppiter	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	14	dobj	_	LId=Iuppiter-1
+16	Iovi	Iuppiter	PROPN	n	Case=Dat|Gender=Masc|Number=Sing	14	dobj	_	LId=Iuppiter-1
 17	.	PERIOD	PUNCT	u	_	4	punct	_	LId=PERIOD-1
 18	Qui	qui	PRON	p	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	LId=qui-1
 19	postquam	postquam	ADV	d	_	24	advmod	_	LId=postquam-1
@@ -486,7 +486,7 @@
 5	gravitate	gravitas	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	4	dobj	_	LId=gravitas-1
 6	regentis	regens	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	LId=regens-1
 7	,	comma	PUNCT	u	_	1	punct	_	LId=comma-1
-8	Iuppiter	Iuppiter	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	LId=Iuppiter-1
+8	Iuppiter	Iuppiter	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	LId=Iuppiter-1
 9	hoc	hic	PRON	p	Case=Abl|Gender=Masc|Number=Sing	11	nmod	_	LId=hic-1
 10	iterum	iterum	ADV	d	_	13	advmod	_	LId=iterum-1
 11	sermone	sermo	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	13	nmod	_	LId=sermo-1
@@ -532,7 +532,7 @@
 3	falsam	falsus	ADJ	a	Case=Acc|Gender=Fem|Number=Sing	2	dep	_	LId=falsus-1
 4	summo	summus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	6	nmod	_	LId=summus-1
 5	delabor	delabor	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=delabor-1
-6	Olympo	Olympus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	LId=Olympus-1
+6	Olympo	Olympus	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	LId=Olympus-1
 7	et	et	CONJ	c	_	5	cc	_	LId=et-1
 8	deus	deus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	10	xcomp	_	LId=deus-1
 9	humana	humanus	ADJ	a	Case=Abl|Gender=Fem|Number=Sing	12	amod	_	LId=humanus-1
@@ -565,21 +565,21 @@
 
 # sent_id a_tree-la-s34-root
 # orig_file_sentence 001#34
-1	Maenala	Maenala	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	2	dobj	_	_
+1	Maenala	Maenala	PROPN	n	Case=Acc|Gender=Neut|Number=Plur	2	dobj	_	_
 2	transieram	transeo	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=transeo-1
 3	latebris	latebra	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	4	nmod	_	LId=latebra-1
 4	horrenda	horreo	VERB	t	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Gdv|Voice=Pass	1	acl	_	LId=horreo-1
 5	ferarum	fera	NOUN	n	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	LId=fera-1
 6	et	et	CONJ	c	_	1	cc	_	LId=et-1
 7	cum	cum	ADP	r	AdpType=Prep	8	case	_	LId=cum-1
-8	Cyllene	Cyllene	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	1	nmod	_	LId=Cyllene-1
+8	Cyllene	Cyllene	PROPN	n	Case=Abl|Gender=Fem|Number=Sing	1	nmod	_	LId=Cyllene-1
 9	gelidi	gelidus	ADJ	a	Case=Gen|Gender=Masc|Number=Sing	11	amod	_	LId=gelidus-1
 10	pineta	pinetum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	1	conj	_	LId=pinetum-1
-11	Lycaei	Lycaeus	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	LId=Lycaeus-1
+11	Lycaei	Lycaeus	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	LId=Lycaeus-1
 
 # sent_id a_tree-la-s35-root
 # orig_file_sentence 001#35
-1	Arcadis	Arcas	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	LId=Arcas-1
+1	Arcadis	Arcas	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	LId=Arcas-1
 2	hinc	hinc	ADV	d	_	8	advmod	_	LId=hinc-1
 3	sedes	sedes	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	8	dobj	_	LId=sedes-1
 4	et	et	CONJ	c	_	3	cc	_	LId=et-1
@@ -612,7 +612,7 @@
 2	primo	primo	ADV	d	_	1	advmod	_	LId=primo-1
 3	pia	pius	ADJ	a	Case=Acc|Gender=Neut|Number=Plur	4	amod	_	LId=pius-1
 4	vota	votum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	1	dobj	_	LId=votum-1
-5	Lycaon	Lycaon	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Lycaon-1
+5	Lycaon	Lycaon	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Lycaon-1
 6	,	comma	CONJ	c	_	1	cc	_	LId=comma-1
 7	mox	mox	ADV	d	_	8	advmod	_	LId=mox-1
 8	ait	aio	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=aio-1
@@ -704,7 +704,7 @@
 11	dignos	dignus	ADJ	a	Case=Acc|Gender=Masc|Number=Plur	14	amod	_	LId=dignus-1
 12	everti	everto	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	LId=everto-1
 13	tecta	tectum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	12	dobj	_	LId=tectum-1
-14	penates	Penates	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	12	dobj	_	LId=Penates-1
+14	penates	Penates	PROPN	n	Case=Acc|Gender=Masc|Number=Plur	12	dobj	_	LId=Penates-1
 
 # sent_id a_tree-la-s44-root
 # orig_file_sentence 001#44
@@ -807,7 +807,7 @@
 4	,	comma	PUNCT	u	_	3	punct	_	LId=comma-1
 5	fera	ferus	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	7	amod	_	LId=ferus-1
 6	regnat	regno	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=regno-1
-7	Erinys	Erinys	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=Erinys-1
+7	Erinys	Erinys	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=Erinys-1
 
 # sent_id a_tree-la-s52-root
 # orig_file_sentence 001#52
@@ -834,7 +834,7 @@
 # sent_id a_tree-la-s54-root
 # orig_file_sentence 001#54
 1	Dicta	dictum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	5	dobj	_	LId=dictum-1
-2	Iovis	Iuppiter	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	LId=Iuppiter-1
+2	Iovis	Iuppiter	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	LId=Iuppiter-1
 3	pars	pars	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LId=pars-1
 4	voce	vox	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	5	nmod	_	LId=vox-1
 5	probant	probo	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	LId=probo-1
@@ -970,7 +970,7 @@
 2	reponuntur	repono	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=repono-1
 3	manibus	manus	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	2	dobj	_	LId=manus-1
 4	fabricata	fabricor	VERB	t	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	LId=fabricor-1
-5	Cyclopum	Clycops	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	Cyclopum	Clycops	PROPN	n	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
 
 # sent_id a_tree-la-s61-root
 # orig_file_sentence 001#61
@@ -1006,12 +1006,12 @@
 12	nubes	nubes	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	9	dobj	_	LId=nubes-1
 13	que	que	CONJ	c	_	4	cc	_	LId=que-1
 14	emittit	emitto	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LId=emitto-1
-15	Notum	Notus	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	14	dobj	_	LId=Notus-2
+15	Notum	Notus	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	14	dobj	_	LId=Notus-2
 
 # sent_id a_tree-la-s63-root
 # orig_file_sentence 001#63
 1	Madidis	madidus	ADJ	a	Case=Abl|Gender=Fem|Number=Plur	4	amod	_	LId=madidus-1
-2	Notus	Notus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Notus-2
+2	Notus	Notus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Notus-2
 3	evolat	evolo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=evolo-1
 4	alis	ala	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	3	nmod	_	LId=ala-1
 5	,	comma	PUNCT	u	_	8	punct	_	LId=comma-1
@@ -1069,12 +1069,12 @@
 # sent_id a_tree-la-s68-root
 # orig_file_sentence 001#68
 1	Nuntia	nuntia	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	6	dep	_	LId=nuntia-1
-2	Iunonis	Juno	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	LId=Juno-1
+2	Iunonis	Juno	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	LId=Juno-1
 3	varios	varius	ADJ	a	Case=Acc|Gender=Masc|Number=Plur	5	amod	_	LId=varius-1
 4	induta	induo	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	LId=induo-1
 5	colores	color	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	4	dobj	_	LId=color-1
 6	concipit	concipio	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=concipio-1
-7	Iris	Iris	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	6	dep	_	LId=Iris-1
+7	Iris	Iris	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	6	dep	_	LId=Iris-1
 8	aquas	aqua	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	6	dobj	_	LId=aqua-1
 9	que	que	CONJ	c	_	6	cc	_	LId=que-1
 10	alimenta	alimentum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	12	dobj	_	LId=alimentum-1
@@ -1106,7 +1106,7 @@
 4	contenta	contineo	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LId=contineo-1
 5	suo	suus	ADJ	a	Case=Abl|Gender=Neut|Number=Sing	3	amod	_	LId=suus-1
 6	est	sum	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	LId=sum-1
-7	Iovis	Iuppiter	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	LId=Iuppiter-1
+7	Iovis	Iuppiter	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	LId=Iuppiter-1
 8	ira	ira	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=ira-1
 9	,	comma	PUNCT	u	_	4	punct	_	LId=comma-1
 10	sed	sed	CONJ	c	_	4	cc	_	LId=sed-1
@@ -1337,7 +1337,7 @@
 6	urbes	urbs	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	4	conj	_	LId=urbs-1
 7	que	que	CONJ	c	_	4	cc	_	LId=que-1
 8	domos	domus	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	4	conj	_	LId=domus-1
-9	Nereides	Nereis	NOUN	n	Case=Nom|Gender=Fem|Number=Plur	1	nsubjpass	_	LId=Nereis-1
+9	Nereides	Nereis	PROPN	n	Case=Nom|Gender=Fem|Number=Plur	1	nsubjpass	_	LId=Nereis-1
 10	,	comma	PUNCT	u	_	1	punct	_	LId=comma-1
 11	que	que	CONJ	c	_	1	cc	_	LId=que-1
 12	silvas	silva	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	13	dobj	_	LId=silva-1
@@ -1439,9 +1439,9 @@
 # sent_id a_tree-la-s93-root
 # orig_file_sentence 001#93
 1	Separat	separo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=separo-1
-2	Aonios	Aenoius	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	1	dobj	_	_
-3	Oetaeis	Oetaeus	NOUN	n	Case=Abl|Gender=Masc|Number=Plur	6	nmod	_	_
-4	Phocis	Phocis	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LId=Phocis-2
+2	Aonios	Aenoius	PROPN	n	Case=Acc|Gender=Masc|Number=Plur	1	dobj	_	_
+3	Oetaeis	Oetaeus	PROPN	n	Case=Abl|Gender=Masc|Number=Plur	6	nmod	_	_
+4	Phocis	Phocis	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LId=Phocis-2
 5	ab	ab	ADP	r	AdpType=Prep	6	case	_	LId=ab-1
 6	arvis	arvum	NOUN	n	Case=Abl|Gender=Neut|Number=Plur	1	iobj	_	LId=arvum-1
 7	,	comma	PUNCT	u	_	8	punct	_	LId=comma-1
@@ -1475,7 +1475,7 @@
 7	duobus	duo	ADJ	a	Case=Abl|Gender=Masc|Number=Plur	3	amod	_	LId=duo-1
 8	,	comma	PUNCT	u	_	9	punct	_	LId=comma-1
 9	nomine	nomen	NOUN	n	Case=Abl|Gender=Neut|Number=Sing	1	nmod	_	LId=nomen-1
-10	Parnasus	Parnasus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	LId=Parnasus-1
+10	Parnasus	Parnasus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	LId=Parnasus-1
 11	,	comma	PUNCT	u	_	4	punct	_	LId=comma-1
 12	que	que	CONJ	c	_	4	cc	_	LId=que-1
 13	superant	supero	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LId=supero-1
@@ -1486,7 +1486,7 @@
 # orig_file_sentence 001#95
 1	Hic	hic	ADV	d	_	16	advmod	_	LId=hic-1
 2	ubi	ubi	CONJ	c	_	23	mark	_	LId=ubi-1
-3	Deucalion	Deucalion	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	LId=Deucalion-1
+3	Deucalion	Deucalion	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	LId=Deucalion-1
 4	(	LPAREN	PUNCT	u	_	7	punct	_	LId=LPAREN-1
 5	nam	nam	CONJ	c	_	7	mark	_	LId=nam-1
 6	cetera	ceterum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	7	dobj	_	LId=ceterum-1
@@ -1509,7 +1509,7 @@
 23	adorant	adoro	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	LId=adoro-1
 24	que	que	CONJ	c	_	19	cc	_	LId=que-1
 25	fatidicam	fatidicus	ADJ	a	Case=Acc|Gender=Fem|Number=Sing	26	amod	_	LId=fatidicus-1
-26	Themin	Themis	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	19	conj	_	_
+26	Themin	Themis	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	19	conj	_	_
 27	,	comma	PUNCT	u	_	31	punct	_	LId=comma-1
 28	quae	qui	PRON	p	Case=Nom|Gender=Fem|Number=Sing	31	nsubj	_	LId=qui-1
 29	tunc	tunc	ADV	d	_	31	advmod	_	LId=tunc-1
@@ -1536,7 +1536,7 @@
 
 # sent_id a_tree-la-s97-root
 # orig_file_sentence 001#97
-1	Iuppiter	Iuppiter	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	LId=Iuppiter-1
+1	Iuppiter	Iuppiter	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	LId=Iuppiter-1
 2	ut	ut	CONJ	c	_	18	mark	_	LId=ut-1
 3	liquidis	liquidus	ADJ	a	Case=Abl|Gender=Fem|Number=Plur	5	amod	_	LId=liquidus-1
 4	stagnare	stagno	VERB	v	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	LId=stagno-1
@@ -1607,7 +1607,7 @@
 22	murice	murex	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	23	nmod	_	LId=murex-1
 23	tectum	tego	VERB	t	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	conj	_	LId=tego-1
 24	caeruleum	caeruleus	ADJ	a	Case=Acc|Gender=Masc|Number=Sing	25	amod	_	LId=caeruleus-1
-25	Tritona	Triton	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	26	dobj	_	_
+25	Tritona	Triton	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	26	dobj	_	_
 26	vocat	voco	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	LId=voco-1
 27	que	que	CONJ	c	_	5	cc	_	LId=que-1
 28	conchae	concha	NOUN	n	Case=Dat|Gender=Fem|Number=Sing	30	dobj	_	LId=concha-1
@@ -1655,7 +1655,7 @@
 28	sub	sub	ADP	r	AdpType=Prep	31	case	_	LId=sub-1
 29	utroque	utroque	ADV	d	_	31	nmod	_	LId=utroque-1
 30	iacentia	jaceo	VERB	t	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	25	acl	_	LId=jaceo-1
-31	Phoebo	Phoebus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	30	nmod	_	LId=Phoebus-1
+31	Phoebo	Phoebus	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	30	nmod	_	LId=Phoebus-1
 
 # sent_id a_tree-la-s100-root
 # orig_file_sentence 001#100
@@ -1753,10 +1753,10 @@
 9	silentia	silentium	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	7	nsubj	_	LId=silentium-1
 10	terras	terra	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	7	dobj	_	LId=terra-1
 11	,	comma	PUNCT	u	_	3	punct	_	LId=comma-1
-12	Deucalion	Deucalion	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	16	nsubjpass	_	LId=Deucalion-1
+12	Deucalion	Deucalion	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	16	nsubjpass	_	LId=Deucalion-1
 13	lacrimis	lacrima	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	17	nsubjpass	_	LId=lacrima-1
 14	ita	ita	ADV	d	_	16	advmod	_	LId=ita-1
-15	Pyrrham	Pyrrha	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	16	dobj	_	LId=Pyrrha-1
+15	Pyrrham	Pyrrha	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	16	dobj	_	LId=Pyrrha-1
 16	adfatur	affor	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=affor-1
 17	obortis	oborior	VERB	t	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	_	LId=oborior-1
 
@@ -2033,7 +2033,7 @@
 33	,	comma	PUNCT	u	_	30	punct	_	LId=comma-1
 34	dic	dico	VERB	v	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	22	ccomp	_	LId=dico-2
 35	,	comma	PUNCT	u	_	36	punct	_	LId=comma-1
-36	Themi	Themis	NOUN	n	Case=Voc|Gender=Fem|Number=Sing	34	vocative	_	_
+36	Themi	Themis	PROPN	n	Case=Voc|Gender=Fem|Number=Sing	34	vocative	_	_
 37	,	comma	PUNCT	u	_	36	punct	_	LId=comma-1
 38	qua	qui	PRON	p	Case=Abl|Gender=Fem|Number=Sing	43	nmod	_	LId=qui-1
 39	generis	genus	NOUN	n	Case=Gen|Gender=Neut|Number=Sing	40	nmod	_	LId=genus-1
@@ -2089,7 +2089,7 @@
 5	rumpit	rumpo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=rumpo-1
 6	silentia	silentium	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	5	dobj	_	LId=silentium-1
 7	voce	vox	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	5	nmod	_	LId=vox-1
-8	Pyrrha	Pyrrha	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LId=Pyrrha-1
+8	Pyrrha	Pyrrha	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LId=Pyrrha-1
 9	prior	prior	ADJ	a	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	5	advmod	_	LId=prior-1
 10	que	que	CONJ	c	_	1	cc	_	LId=que-1
 11	iussis	jussum	NOUN	n	Case=Abl|Gender=Neut|Number=Plur	13	nmod	_	LId=jussum-1
@@ -2132,9 +2132,9 @@
 # sent_id a_tree-la-s24-root
 # orig_file_sentence 002#24
 1	Inde	inde	ADV	d	_	6	advmod	_	LId=inde-1
-2	Promethides	Promethides	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	Promethides	Promethides	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 3	placidis	placidus	ADJ	a	Case=Abl|Gender=Neut|Number=Plur	5	amod	_	LId=placidus-1
-4	Epimethida	Epimethis	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	_
+4	Epimethida	Epimethis	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	_
 5	dictis	dictum	NOUN	n	Case=Abl|Gender=Neut|Number=Plur	6	nmod	_	LId=dictum-1
 6	mulcet	mulceo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=mulceo-1
 7	et	et	CONJ	c	_	6	cc	_	LId=et-1
@@ -2185,7 +2185,7 @@
 1	Coniugis	conjunx	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=conjunx-1
 2	augurio	augurium	NOUN	n	Case=Abl|Gender=Neut|Number=Sing	5	dobj	_	LId=augurium-1
 3	quamquam	quamquam	CONJ	c	_	5	mark	_	LId=quamquam-1
-4	Titania	Titania	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	5	nsubjpass	_	_
+4	Titania	Titania	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	5	nsubjpass	_	_
 5	mota	moveo	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	LId=moveo-1
 6	est	sum	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	auxpass	_	LId=sum-1
 7	,	comma	PUNCT	u	_	5	punct	_	LId=comma-1
@@ -2434,7 +2434,7 @@
 4	madidos	madidus	ADJ	a	Case=Acc|Gender=Masc|Number=Plur	6	amod	_	LId=madidus-1
 5	septemfluus	septemfluus	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	LId=septemfluus-1
 6	agros	ager	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	3	dobj	_	LId=ager-1
-7	Nilus	Nilus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Nilus-1
+7	Nilus	Nilus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Nilus-1
 8	et	et	CONJ	c	_	3	cc	_	LId=et-1
 9	antiquo	antiquus	ADJ	a	Case=Dat|Gender=Masc|Number=Sing	13	amod	_	LId=antiquus-1
 10	sua	suus	ADJ	a	Case=Acc|Gender=Neut|Number=Plur	11	amod	_	LId=suus-1
@@ -2573,7 +2573,7 @@
 7	quoque	quoque	ADV	d	_	6	advmod:emph	_	LId=quoque-1
 8	,	comma	PUNCT	u	_	10	punct	_	LId=comma-1
 9	maxime	magnus	ADJ	a	Case=Voc|Gender=Masc|Number=Sing	10	amod	_	LId=magnus-1
-10	Python	Python	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	13	vocative	_	LId=Python-1
+10	Python	Python	PROPN	n	Case=Voc|Gender=Masc|Number=Sing	13	vocative	_	LId=Python-1
 11	,	comma	PUNCT	u	_	10	punct	_	LId=comma-1
 12	tum	tum	ADV	d	_	13	advmod	_	LId=tum-1
 13	genuit	gigno	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	LId=gigno-1
@@ -2643,7 +2643,7 @@
 11	certamine	certamen	NOUN	n	Case=Abl|Gender=Neut|Number=Sing	8	nmod	_	LId=certamen-1
 12	ludos	ludus	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=ludus-1
 13	,	comma	PUNCT	u	_	18	punct	_	LId=comma-1
-14	Pythia	Pythia	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	17	xcomp	_	LId=Pythia-1
+14	Pythia	Pythia	PROPN	n	Case=Acc|Gender=Neut|Number=Plur	17	xcomp	_	LId=Pythia-1
 15	perdomitae	perdomo	VERB	t	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	LId=perdomo-1
 16	serpentis	serpens	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	LId=serpens-1
 17	nomine	nomen	NOUN	n	Case=Abl|Gender=Neut|Number=Sing	12	nmod	_	LId=nomen-1
@@ -2681,13 +2681,13 @@
 11	de	de	ADP	r	AdpType=Prep	13	case	_	LId=de-1
 12	qualibet	qualibet	PRON	p	Case=Abl|Gender=Fem|Number=Sing	13	nmod	_	LId=qualibet-1
 13	arbore	arbor	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	10	nmod	_	LId=arbor-1
-14	Phoebus	Phoebus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LId=Phoebus-1
+14	Phoebus	Phoebus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LId=Phoebus-1
 
 # sent_id a_tree-la-s51-root
 # orig_file_sentence 002#51
 1	Primus	primus	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	LId=primus-1
 2	amor	amor	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LId=amor-1
-3	Phoebi	Phoebus	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=Phoebus-1
+3	Phoebi	Phoebus	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=Phoebus-1
 4	Daphne	daphne	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	2	dep	_	LId=daphne-1
 5	Peneia	Peneius	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	LId=Peneius-1
 6	,	comma	PUNCT	u	_	11	punct	_	LId=comma-1
@@ -2762,7 +2762,7 @@
 27	stravimus	sterno	VERB	v	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	LId=sterno-1
 28	innumeris	innumerus	ADJ	a	Case=Abl|Gender=Fem|Number=Plur	31	amod	_	LId=innumerus-1
 29	tumidum	tumidus	ADJ	a	Case=Acc|Gender=Masc|Number=Sing	30	amod	_	LId=tumidus-1
-30	Pythona	Python	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	27	dobj	_	_
+30	Pythona	Python	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	27	dobj	_	_
 31	sagittis	sagitta	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	27	nmod	_	LId=sagitta-1
 
 # sent_id a_tree-la-s54-root
@@ -2787,13 +2787,13 @@
 # orig_file_sentence 002#55
 1	Filius	filius	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LId=filius-1
 2	huic	hic	PRON	p	Case=Dat|Gender=Masc|Number=Sing	1	dep	_	LId=hic-1
-3	Veneris	Venus	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	LId=Venus-1
+3	Veneris	Venus	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	LId=Venus-1
 4	"	QUOTE	PUNCT	u	_	5	punct	_	LId=QUOTE-1
 5	figat	figo	VERB	v	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	dep	_	LId=figo-1
 6	tuus	tuus	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	5	dep	_	LId=tuus-1
 7	omnia	omnia	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	5	dobj	_	LId=omnia-1
 8	,	comma	PUNCT	u	_	9	punct	_	LId=comma-1
-9	Phoebe	Phoebus	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LId=Phoebus-1
+9	Phoebe	Phoebus	PROPN	n	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LId=Phoebus-1
 10	,	comma	PUNCT	u	_	5	punct	_	LId=comma-1
 11	te	tu	PRON	p	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	LId=tu-1
 12	meus	meus	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	13	amod	_	LId=meus-1
@@ -2826,7 +2826,7 @@
 6	pennis	penna	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	4	nsubjpass	_	LId=penna-1
 7	inpiger	impiger	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	10	advmod	_	LId=impiger-1
 8	umbrosa	umbrosus	ADJ	a	Case=Abl|Gender=Fem|Number=Sing	11	amod	_	LId=umbrosus-1
-9	Parnasi	Parnasus	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	LId=Parnasus-1
+9	Parnasi	Parnasus	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	LId=Parnasus-1
 10	constitit	consto	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	LId=consto-1
 11	arce	arx	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	10	nmod	_	LId=arx-1
 12	eque	unknown	X	-	_	1	cc	_	LId=unknown-1
@@ -2878,7 +2878,7 @@
 2	deus	deus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LId=deus-1
 3	in	in	ADP	r	AdpType=Prep	4	case	_	LId=in-1
 4	nympha	nympha	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	6	dep	_	LId=nympha-1
-5	Peneide	Peneis	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	4	dep	_	LId=Peneis-1
+5	Peneide	Peneis	PROPN	n	Case=Abl|Gender=Fem|Number=Sing	4	dep	_	LId=Peneis-1
 6	fixit	figo	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=figo-1
 7	,	comma	PUNCT	u	_	6	punct	_	LId=comma-1
 8	at	at	CONJ	c	_	6	cc	_	LId=at-1
@@ -2910,7 +2910,7 @@
 16	que	que	CONJ	c	_	15	cc	_	LId=que-1
 17	innuptae	innubo	VERB	t	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	LId=innubo-1
 18	aemula	aemulus	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	LId=aemulus-1
-19	Phoebes	Phoebe	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	18	dobj	_	LId=Phoebe-1
+19	Phoebes	Phoebe	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	18	dobj	_	LId=Phoebe-1
 
 # sent_id a_tree-la-s63-root
 # orig_file_sentence 002#63
@@ -2941,7 +2941,7 @@
 16	c	que	CONJ	c	_	3	cc	_	LId=que-1
 17	ne	ne	CONJ	c	_	27	neg	_	LId=ne-1
 18	quid	quis	PRON	p	Case=Nom|Gender=Neut|Number=Sing	27	dep	_	LId=quis-2
-19	Hymen	Hymen	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	LId=Hymen-1
+19	Hymen	Hymen	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	LId=Hymen-1
 20	,	comma	PUNCT	u	_	18	punct	_	LId=comma-1
 21	quid	quis	PRON	p	Case=Nom|Gender=Neut|Number=Sing	18	conj	_	LId=quis-1
 22	Amor	amor	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	LId=amor-1
@@ -3017,7 +3017,7 @@
 2	hoc	hic	PRON	p	Case=Acc|Gender=Neut|Number=Sing	1	dobj	_	LId=hic-1
 3	pater	pater	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=pater-1
 4	ante	ante	ADV	d	_	1	advmod	_	LId=ante-1
-5	Dianae	Diana	NOUN	n	Case=Dat|Gender=Fem|Number=Sing	1	iobj	_	LId=Diana-1
+5	Dianae	Diana	PROPN	n	Case=Dat|Gender=Fem|Number=Sing	1	iobj	_	LId=Diana-1
 
 # sent_id a_tree-la-s68-root
 # orig_file_sentence 002#68
@@ -3045,7 +3045,7 @@
 
 # sent_id a_tree-la-s70-root
 # orig_file_sentence 002#70
-1	Phoebus	Phoebus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LId=Phoebus-1
+1	Phoebus	Phoebus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LId=Phoebus-1
 2	amat	amo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=amo-1
 3	que	que	CONJ	c	_	2	cc	_	LId=que-1
 4	visae	video	VERB	t	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	LId=video-1
@@ -3188,7 +3188,7 @@
 2	,	comma	PUNCT	u	_	1	punct	_	LId=comma-1
 3	precor	precor	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=precor-1
 4	,	comma	PUNCT	u	_	3	punct	_	LId=comma-1
-5	Penei	Peneus	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	3	dep	_	LId=Peneus-1
+5	Penei	Peneus	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	3	dep	_	LId=Peneus-1
 6	,	comma	PUNCT	u	_	3	punct	_	LId=comma-1
 7	mane	maneo	VERB	v	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LId=maneo-1
 
@@ -3215,7 +3215,7 @@
 7	leonem	leo	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	LId=leo-2
 8	,	comma	PUNCT	u	_	1	punct	_	LId=comma-1
 9	sic	sic	ADV	d	_	12	advmod	_	LId=sic-1
-10	aquilam	Aquila	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	12	dobj	_	LId=Aquila-2
+10	aquilam	Aquila	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	12	dobj	_	LId=Aquila-2
 11	penna	penna	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	13	nsubj	_	LId=penna-1
 12	fugiunt	fugio	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=fugio-1
 13	trepidante	trepido	VERB	t	Case=Abl|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	LId=trepido-1
@@ -3329,15 +3329,15 @@
 2	Delphica	Delphicus	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	tellus	tellus	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	LId=tellus-1
 4	et	et	CONJ	c	_	3	cc	_	LId=et-1
-5	Claros	Claros	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	LId=Claros-1
+5	Claros	Claros	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	LId=Claros-1
 6	et	et	CONJ	c	_	3	cc	_	LId=et-1
-7	Tenedos	Tenedos	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	LId=Tenedos-1
+7	Tenedos	Tenedos	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	LId=Tenedos-1
 8	que	que	CONJ	c	_	3	cc	_	LId=que-1
 9	Patarea	Patareus	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	10	amod	_	_
 10	regia	regia	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	LId=regia-1
 11	servit	servio	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=servio-1
 12	,	comma	PUNCT	u	_	11	punct	_	LId=comma-1
-13	Iuppiter	Iuppiter	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	LId=Iuppiter-1
+13	Iuppiter	Iuppiter	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	LId=Iuppiter-1
 14	est	sum	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	LId=sum-1
 15	genitor	genitor	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	LId=genitor-1
 
@@ -3638,7 +3638,7 @@
 # orig_file_sentence 003#8
 1	Hanc	hic	PRON	p	Case=Acc|Gender=Fem|Number=Sing	4	dobj	_	LId=hic-1
 2	quoque	quoque	ADV	d	_	1	advmod:emph	_	LId=quoque-1
-3	Phoebus	Phoebus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Phoebus-1
+3	Phoebus	Phoebus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Phoebus-1
 4	amat	amo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=amo-1
 5	,	comma	PUNCT	u	_	4	punct	_	LId=comma-1
 6	que	que	CONJ	c	_	4	cc	_	LId=que-1
@@ -3725,13 +3725,13 @@
 11	et	et	CONJ	c	_	10	cc	_	LId=et-1
 12	visent	viso	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	conj	_	LId=viso-1
 13	longas	longus	ADJ	a	Case=Acc|Gender=Fem|Number=Plur	15	amod	_	LId=longus-1
-14	Capitolia	Capitolium	NOUN	n	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	LId=Capitolium-1
+14	Capitolia	Capitolium	PROPN	n	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	LId=Capitolium-1
 15	pompas	pompa	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	12	dobj	_	LId=pompa-1
 
 # sent_id a_tree-la-s13-root
 # orig_file_sentence 003#13
 1	postibus	postis	NOUN	n	Case=Dat|Gender=Masc|Number=Plur	8	nmod	_	LId=postis-1
-2	Augustis	Augustus	NOUN	n	Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	LId=Augustus-2
+2	Augustis	Augustus	PROPN	n	Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	LId=Augustus-2
 3	eadem	eadem	ADV	d	_	8	advmod	_	LId=eadem-1
 4	fidissima	fidus	ADJ	a	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	5	amod	_	LId=fidus-1
 5	custos	custos	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	8	xcomp	_	LId=custos-1
@@ -3763,7 +3763,7 @@
 # sent_id a_tree-la-s14-root
 # orig_file_sentence 003#14
 1	Finierat	finio	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=finio-1
-2	Paean	Paean	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Paean-1
+2	Paean	Paean	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Paean-1
 
 # sent_id a_tree-la-s15-root
 # orig_file_sentence 003#15
@@ -3784,7 +3784,7 @@
 # orig_file_sentence 003#16
 1	Est	sum	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=sum-1
 2	nemus	nemus	NOUN	n	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	LId=nemus-1
-3	Haemoniae	Haemonia	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LId=Haemonia-1
+3	Haemoniae	Haemonia	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LId=Haemonia-1
 4	,	comma	PUNCT	u	_	8	punct	_	LId=comma-1
 5	praerupta	praeruptus	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	9	amod	_	LId=praeruptus-1
 6	quod	qui	PRON	p	Case=Acc|Gender=Neut|Number=Sing	8	dobj	_	LId=qui-1
@@ -3795,17 +3795,17 @@
 # sent_id a_tree-la-s17-root
 # orig_file_sentence 003#17
 1	vocant	voco	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=voco-1
-2	Tempe	Tempe	NOUN	n	Gender=Neut|Number=Sing	1	dobj	_	_
+2	Tempe	Tempe	PROPN	n	Gender=Neut|Number=Sing	1	dobj	_	_
 
 # sent_id a_tree-la-s18-root
 # orig_file_sentence 003#18
 1	Per	per	ADP	r	AdpType=Prep	2	case	_	LId=per-1
 2	quae	quis	PRON	p	Case=Acc|Gender=Neut|Number=Plur	6	nmod	_	LId=quis-2
-3	Peneus	Peneus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	6	nsubjpass	_	LId=Peneus-1
+3	Peneus	Peneus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	6	nsubjpass	_	LId=Peneus-1
 4	ab	ab	ADP	r	AdpType=Prep	7	case	_	LId=ab-1
 5	imo	imus	ADJ	a	Case=Abl|Gender=Masc|Number=Sing	7	amod	_	LId=imus-1
 6	effusus	effundo	VERB	t	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	LId=effundo-1
-7	Pindo	Pindus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	6	dobj	_	LId=Pindus-1
+7	Pindo	Pindus	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	6	dobj	_	LId=Pindus-1
 8	spumosis	spumosus	ADJ	a	Case=Abl|Gender=Fem|Number=Plur	10	amod	_	LId=spumosus-1
 9	volvitur	volvo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=volvo-1
 10	undis	unda	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	9	nmod	_	LId=unda-1
@@ -3878,18 +3878,18 @@
 12	parentem	parens	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	9	dobj	_	LId=parens-2
 13	,	comma	PUNCT	u	_	15	punct	_	LId=comma-1
 14	populifer	populifer	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	LId=populifer-1
-15	Sperchios	Spercheos	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	LId=Spercheos-1
+15	Sperchios	Spercheos	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	LId=Spercheos-1
 16	et	et	CONJ	c	_	15	cc	_	LId=et-1
 17	inrequietus	irrequietus	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	18	amod	_	LId=irrequietus-1
-18	Enipeus	Enipeus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Enipeus-1
+18	Enipeus	Enipeus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Enipeus-1
 19	que	que	CONJ	c	_	15	cc	_	LId=que-1
-20	Apidanus	Apidanus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Apidanus-1
+20	Apidanus	Apidanus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Apidanus-1
 21	senex	senex	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	20	amod	_	LId=senex-1
 22	que	que	CONJ	c	_	15	cc	_	LId=que-1
 23	lenis	lenis	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	24	amod	_	LId=lenis-1
-24	Amphrysos	Amphrysus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Amphrysus-1
+24	Amphrysos	Amphrysus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Amphrysus-1
 25	et	et	CONJ	c	_	15	cc	_	LId=et-1
-26	Aeas	Aeas	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Aeas-1
+26	Aeas	Aeas	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Aeas-1
 27	,	comma	PUNCT	u	_	15	punct	_	LId=comma-1
 28	que	que	CONJ	c	_	15	cc	_	LId=que-1
 29	mox	mox	ADV	d	_	30	advmod:emph	_	LId=mox-1
@@ -3912,7 +3912,7 @@
 
 # sent_id a_tree-la-s22-root
 # orig_file_sentence 003#22
-1	Inachus	Inachus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Inachus-1
+1	Inachus	Inachus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Inachus-1
 2	unus	unus	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	LId=unus-1
 3	abest	absum	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=absum-1
 4	que	que	CONJ	c	_	3	cc	_	LId=que-1
@@ -3925,7 +3925,7 @@
 11	que	que	CONJ	c	_	3	cc	_	LId=que-1
 12	natam	nata	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	15	dep	_	LId=nata-1
 13	miserrimus	miser	ADJ	a	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	1	xcomp	_	LId=miser-1
-14	Io	Io	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	15	dep	_	_
+14	Io	Io	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	15	dep	_	_
 15	luget	lugeo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LId=lugeo-1
 16	ut	ut	CONJ	c	_	17	mark	_	LId=ut-1
 17	amissam	amitto	VERB	t	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	LId=amitto-1
@@ -3941,7 +3941,7 @@
 7	an	an	CONJ	c	_	5	cc	_	LId=an-1
 8	sit	sum	VERB	v	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	LId=sum-1
 9	apud	apud	ADP	r	AdpType=Prep	10	case	_	LId=apud-1
-10	manes	Manes	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=Manes-1
+10	manes	Manes	PROPN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=Manes-1
 
 # sent_id a_tree-la-s24-root
 # orig_file_sentence 003#24
@@ -3967,14 +3967,14 @@
 2	a	ab	ADP	r	AdpType=Prep	7	case	_	LId=ab-1
 3	patrio	patrius	ADJ	a	Case=Abl|Gender=Neut|Number=Sing	7	amod	_	LId=patrius-1
 4	redeuntem	redeo	VERB	t	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	LId=redeo-1
-5	Iuppiter	Iuppiter	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Iuppiter-1
+5	Iuppiter	Iuppiter	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Iuppiter-1
 6	illam	ille	PRON	p	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	LId=ille-1
 7	flumine	flumen	NOUN	n	Case=Abl|Gender=Neut|Number=Sing	4	dobj	_	LId=flumen-1
 8	et	et	CONJ	c	_	1	cc	_	LId=et-1
 9	"	QUOTE	PUNCT	u	_	22	punct	_	LId=QUOTE-1
 10	o	O	INTJ	e	_	11	advmod:emph	_	LId=O-1
 11	virgo	virgo	NOUN	n	Case=Voc|Gender=Fem|Number=Sing	22	vocative	_	LId=virgo-1
-12	Iove	Iuppiter	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	13	dobj	_	LId=Iuppiter-1
+12	Iove	Iuppiter	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	13	dobj	_	LId=Iuppiter-1
 13	digna	dignus	ADJ	a	Case=Voc|Gender=Fem|Number=Sing	11	amod	_	LId=dignus-1
 14	que	que	CONJ	c	_	13	cc	_	LId=que-1
 15	tuo	tuus	ADJ	a	Case=Abl|Gender=Masc|Number=Sing	20	amod	_	LId=tuus-1
@@ -4061,7 +4061,7 @@
 # orig_file_sentence 003#30
 1	Iam	jam	ADV	d	_	8	advmod	_	LId=jam-1
 2	pascua	pascuus	ADJ	a	Case=Acc|Gender=Neut|Number=Plur	8	dobj	_	LId=pascuus-1
-3	Lernae	Lerna	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LId=Lerna-1
+3	Lernae	Lerna	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LId=Lerna-1
 4	que	que	CONJ	c	_	2	cc	_	LId=que-1
 5	consita	consero	VERB	t	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	LId=consero-1
 6	arboribus	arbor	NOUN	n	Case=Abl|Gender=Masc|Number=Plur	5	nmod	_	LId=arbor-1
@@ -4087,7 +4087,7 @@
 # orig_file_sentence 003#31
 1	Interea	interea	ADV	d	_	4	advmod	_	LId=interea-1
 2	medios	medius	ADJ	a	Case=Acc|Gender=Masc|Number=Plur	6	amod	_	LId=medius-1
-3	Iuno	Juno	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=Juno-1
+3	Iuno	Juno	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=Juno-1
 4	despexit	despicio	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=despicio-1
 5	in	in	ADP	r	AdpType=Prep	6	case	_	LId=in-1
 6	agros	ager	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	4	nmod	_	LId=ager-1
@@ -4171,7 +4171,7 @@
 3	praesenserat	praesentio	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=praesentio-1
 4	inque	in	CONJ	c	_	3	cc	_	LId=in-1
 5	nitentem	niteo	VERB	t	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	LId=niteo-1
-6	Inachidos	Inachus	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+6	Inachidos	Inachus	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
 7	vultus	vultus	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=vultus-1
 8	mutaverat	muto	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	3	conj	_	LId=muto-1
 9	ille	ille	PRON	p	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	LId=ille-1
@@ -4187,7 +4187,7 @@
 # sent_id a_tree-la-s36-root
 # orig_file_sentence 003#36
 1	Speciem	species	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	LId=species-1
-2	Saturnia	Saturnia	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=Saturnia-1
+2	Saturnia	Saturnia	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=Saturnia-1
 3	vaccae	vacca	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	LId=vacca-1
 4	,	comma	PUNCT	u	_	6	punct	_	LId=comma-1
 5	quamquam	quamquam	CONJ	c	_	6	mark	_	LId=quamquam-1
@@ -4286,23 +4286,23 @@
 8	metum	metus	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	LId=metus-1
 9	que	que	CONJ	c	_	5	cc	_	LId=que-1
 10	timuit	timeo	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	LId=timeo-1
-11	Iovem	Iuppiter	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	10	dobj	_	LId=Iuppiter-1
+11	Iovem	Iuppiter	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	10	dobj	_	LId=Iuppiter-1
 12	et	et	CONJ	c	_	5	cc	_	LId=et-1
 13	fuit	sum	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	LId=sum-1
 14	anxia	anxius	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	LId=anxius-1
 15	furti	furtum	NOUN	n	Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	LId=furtum-1
 16	,	comma	PUNCT	u	_	20	punct	_	LId=comma-1
 17	donec	donec	CONJ	c	_	20	mark	_	LId=donec-1
-18	Arestoridae	Arestorides	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	20	dep	_	LId=Arestorides-1
+18	Arestoridae	Arestorides	PROPN	n	Case=Dat|Gender=Masc|Number=Sing	20	dep	_	LId=Arestorides-1
 19	servandam	servo	VERB	t	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Gdv|Voice=Pass	20	ccomp	_	LId=servo-1
 20	tradidit	trado	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	LId=trado-1
-21	Argo	Argus	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	20	dep	_	LId=Argus-1
+21	Argo	Argus	PROPN	n	Case=Dat|Gender=Masc|Number=Sing	20	dep	_	LId=Argus-1
 22	.	PERIOD	PUNCT	u	_	5	punct	_	LId=PERIOD-1
 23	Centum	centum	NUM	m	_	24	nummod	_	LId=centum-1
 24	luminibus	lumen	NOUN	n	Case=Abl|Gender=Neut|Number=Plur	25	dobj	_	LId=lumen-1
 25	cinctum	cingo	VERB	t	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	26	acl	_	LId=cingo-1
 26	caput	caput	NOUN	n	Case=Acc|Gender=Neut|Number=Sing	28	dobj	_	LId=caput-1
-27	Argus	Argus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	LId=Argus-1
+27	Argus	Argus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	LId=Argus-1
 28	habebat	habeo	VERB	v	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	5	parataxis	_	LId=habeo-1
 
 # sent_id a_tree-la-s44-root
@@ -4329,13 +4329,13 @@
 4	,	comma	PUNCT	u	_	1	punct	_	LId=comma-1
 5	spectabat	specto	VERB	v	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	LId=specto-1
 6	ad	ad	ADP	r	AdpType=Prep	7	case	_	LId=ad-1
-7	Io	Io	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	LId=Io-1
+7	Io	Io	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	LId=Io-1
 
 # sent_id a_tree-la-s46-root
 # orig_file_sentence 003#46
 1	ante	ante	ADP	r	AdpType=Prep	2	case	_	LId=ante-1
 2	oculos	oculus	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	8	iobj	_	LId=oculus-1
-3	Io	Io	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	8	dobj	_	LId=Io-1
+3	Io	Io	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	8	dobj	_	LId=Io-1
 4	,	comma	PUNCT	u	_	6	punct	_	LId=comma-1
 5	quamvis	quamvis	ADV	d	_	6	mark	_	LId=quamvis-1
 6	aversus	averto	VERB	t	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	LId=averto-1
@@ -4393,7 +4393,7 @@
 1	Illa	ille	PRON	p	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	LId=ille-1
 2	etiam	etiam	ADV	d	_	7	cc	_	LId=etiam-1
 3	supplex	supplex	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	1	xcomp	_	LId=supplex-1
-4	Argo	Argus	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	LId=Argus-1
+4	Argo	Argus	PROPN	n	Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	LId=Argus-1
 5	cum	cum	CONJ	c	_	7	mark	_	LId=cum-1
 6	bracchia	bracchium	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	8	dobj	_	LId=bracchium-1
 7	vellet	volo	VERB	v	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	11	advcl	_	LId=volo-1
@@ -4405,7 +4405,7 @@
 13	quae	qui	PRON	p	Case=Acc|Gender=Neut|Number=Plur	15	nsubj	_	LId=qui-1
 14	bracchia	bracchium	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	11	dobj	_	LId=bracchium-1
 15	tenderet	tendo	VERB	v	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	14	acl	_	LId=tendo-1
-16	Argo	Argus	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	15	dobj	_	LId=Argus-1
+16	Argo	Argus	PROPN	n	Case=Dat|Gender=Masc|Number=Sing	15	dobj	_	LId=Argus-1
 17	,	comma	PUNCT	u	_	15	punct	_	LId=comma-1
 18	et	et	CONJ	c	_	11	cc	_	LId=et-1
 19	conata	conor	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	advcl	_	LId=conor-1
@@ -4455,12 +4455,12 @@
 
 # sent_id a_tree-la-s53-root
 # orig_file_sentence 003#53
-1	Naides	Naides	NOUN	n	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	LId=Naides-1
+1	Naides	Naides	PROPN	n	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	LId=Naides-1
 2	ignorant	ignoro	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ignoro-1
 3	,	comma	PUNCT	u	_	2	punct	_	LId=comma-1
 4	ignorat	ignoro	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LId=ignoro-1
 5	et	et	CONJ	c	_	2	cc	_	LId=et-1
-6	Inachus	Inachus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Inachus-1
+6	Inachus	Inachus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Inachus-1
 7	ipse	ipse	PRON	p	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	LId=ipse-1
 8	,	comma	PUNCT	u	_	10	punct	_	LId=comma-1
 9	quae	qui	PRON	p	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	LId=qui-1
@@ -4488,7 +4488,7 @@
 1	Decerptas	decerpo	VERB	t	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	LId=decerpo-1
 2	senior	seni	ADJ	a	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	4	amod	_	LId=seni-1
 3	porrexerat	porrigo	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=porrigo-1
-4	Inachus	Inachus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Inachus-1
+4	Inachus	Inachus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Inachus-1
 5	herbas	herba	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	3	dobj	_	LId=herba-1
 
 # sent_id a_tree-la-s56-root
@@ -4548,7 +4548,7 @@
 # orig_file_sentence 003#59
 1	exclamat	exclamo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=exclamo-1
 2	pater	pater	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	LId=pater-1
-3	Inachus	Inachus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	LId=Inachus-1
+3	Inachus	Inachus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	LId=Inachus-1
 4	inque	in	CONJ	c	_	1	cc	_	LId=in-1
 5	gementis	gemo	VERB	t	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	LId=gemo-1
 6	cornibus	cornu	NOUN	n	Case=Abl|Gender=Neut|Number=Plur	1	nmod	_	LId=cornu-1
@@ -4680,7 +4680,7 @@
 2	maerentem	maereo	VERB	t	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	ccomp	_	LId=maereo-1
 3	stellatus	stellatus	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	LId=stellatus-1
 4	submovet	submoveo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=submoveo-1
-5	Argus	Argus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Argus-1
+5	Argus	Argus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Argus-1
 6	que	que	CONJ	c	_	4	cc	_	LId=que-1
 7	ereptam	eripio	VERB	t	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	LId=eripio-1
 8	patri	pater	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	7	dobj	_	LId=pater-1
@@ -4714,7 +4714,7 @@
 4	rector	rector	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LId=rector-1
 5	mala	malum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	9	dobj	_	LId=malum-1
 6	tanta	tantus	ADJ	a	Case=Acc|Gender=Neut|Number=Plur	5	amod	_	LId=tantus-1
-7	Phoronidos	Phoronidos	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	LId=Phoronidos-1
+7	Phoronidos	Phoronidos	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	LId=Phoronidos-1
 8	ultra	ultra	ADV	d	_	9	advmod	_	LId=ultra-1
 9	ferre	fero	VERB	v	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	LId=fero-1
 10	potest	possum	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=possum-1
@@ -4725,7 +4725,7 @@
 15	quem	qui	PRON	p	Case=Acc|Gender=Masc|Number=Sing	19	dobj	_	LId=qui-1
 16	lucida	lucidus	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	18	amod	_	LId=lucidus-1
 17	partu	partus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	19	nmod	_	LId=partus-2
-18	Pleias	Pleias	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	19	nsubjpass	_	LId=Pleias-1
+18	Pleias	Pleias	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	19	nsubjpass	_	LId=Pleias-1
 19	enixa	enitor	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	LId=enitor-1
 20	est	sum	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	auxpass	_	LId=sum-1
 21	,	comma	PUNCT	u	_	10	punct	_	LId=comma-1
@@ -4733,7 +4733,7 @@
 23	leto	letum	NOUN	n	Case=Dat|Gender=Neut|Number=Sing	24	iobj	_	LId=letum-1
 24	det	do	VERB	v	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	ccomp	_	LId=do-1
 25	imperat	impero	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	LId=impero-1
-26	Argum	Argus	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	24	dobj	_	LId=Argus-1
+26	Argum	Argus	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	24	dobj	_	LId=Argus-1
 
 # sent_id a_tree-la-s69-root
 # orig_file_sentence 003#69
@@ -4759,7 +4759,7 @@
 3	disposuit	dispono	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	LId=dispono-1
 4	,	comma	PUNCT	u	_	3	punct	_	LId=comma-1
 5	patria	patrius	ADJ	a	Case=Abl|Gender=Fem|Number=Sing	9	amod	_	LId=patrius-2
-6	Iove	Iuppiter	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	7	nmod	_	LId=Iuppiter-1
+6	Iove	Iuppiter	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	7	nmod	_	LId=Iuppiter-1
 7	natus	nascor	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LId=nascor-1
 8	ab	ab	ADP	r	AdpType=Prep	9	case	_	LId=ab-1
 9	arce	arx	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	10	nmod	_	LId=arx-1
@@ -4825,7 +4825,7 @@
 17	saxo	saxum	NOUN	n	Case=Abl|Gender=Neut|Number=Sing	16	nmod	_	LId=saxum-1
 18	,	comma	PUNCT	u	_	21	punct	_	LId=comma-1
 19	"	QUOTE	PUNCT	u	_	7	punct	_	LId=QUOTE-1
-20	Argus	Argus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	21	dep	_	LId=Argus-1
+20	Argus	Argus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	21	dep	_	LId=Argus-1
 21	ait	aio	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=aio-1
 22	,	comma	PUNCT	u	_	21	punct	_	LId=comma-1
 23	"	QUOTE	PUNCT	u	_	28	punct	_	LId=QUOTE-1
@@ -4848,7 +4848,7 @@
 # sent_id a_tree-la-s74-root
 # orig_file_sentence 003#74
 1	Sedit	sedeo	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=sedeo-1
-2	Atlantiades	Atlantiades	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Atlantiades-1
+2	Atlantiades	Atlantiades	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Atlantiades-1
 3	et	et	CONJ	c	_	1	cc	_	LId=et-1
 4	euntem	eo	VERB	t	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	LId=eo-1
 5	multa	multa	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	6	dobj	_	LId=multa-1
@@ -4909,7 +4909,7 @@
 1	Tum	tum	ADV	d	_	9	advmod	_	LId=tum-1
 2	deus	deus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	LId=deus-1
 3	"	QUOTE	PUNCT	u	_	17	punct	_	LId=QUOTE-1
-4	Arcadiae	Arcadia	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	LId=Arcadia-1
+4	Arcadiae	Arcadia	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	LId=Arcadia-1
 5	gelidis	gelidus	ADJ	a	Case=Abl|Gender=Masc|Number=Plur	7	amod	_	LId=gelidus-1
 6	in	in	ADP	r	AdpType=Prep	7	case	_	LId=in-1
 7	montibus	mons	NOUN	n	Case=Abl|Gender=Masc|Number=Plur	17	nmod	_	LId=mons-1
@@ -4920,14 +4920,14 @@
 12	hamadryadas	hamadryadas	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	13	nmod	_	LId=hamadryadas-1
 13	celeberrima	celeber	ADJ	a	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	15	amod	_	LId=celeber-1
 14	Nonacrinas	Nonacrinus	ADJ	a	Case=Acc|Gender=Fem|Number=Plur	12	amod	_	LId=Nonacrinus-1
-15	naias	Naias	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	LId=Naias-1
+15	naias	Naias	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	LId=Naias-1
 16	una	unus	ADJ	a	Case=Nom|Gender=Fem|Number=Sing	15	amod	_	LId=unus-1
 17	fuit	sum	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	LId=sum-1
 
 # sent_id a_tree-la-s78-root
 # orig_file_sentence 003#78
 1	nymphae	nympha	NOUN	n	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	LId=nympha-1
-2	Syringa	Syrinx	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	LId=Syrinx-1
+2	Syringa	Syrinx	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	LId=Syrinx-1
 3	vocabant	voco	VERB	v	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	LId=voco-1
 
 # sent_id a_tree-la-s79-root
@@ -4952,7 +4952,7 @@
 
 # sent_id a_tree-la-s80-root
 # orig_file_sentence 003#80
-1	Ortygiam	Ortygia	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	5	dep	_	LId=Ortygia-2
+1	Ortygiam	Ortygia	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	5	dep	_	LId=Ortygia-2
 2	studiis	studium	NOUN	n	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	LId=studium-1
 3	que	que	CONJ	c	_	2	cc	_	LId=que-1
 4	ipsa	ipse	PRON	p	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LId=ipse-1
@@ -4965,12 +4965,12 @@
 1	Ritu	ritus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	3	nmod	_	LId=ritus-1
 2	quoque	quoque	ADV	d	_	3	advmod:emph	_	LId=quoque-1
 3	cincta	cingo	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	LId=cingo-1
-4	Dianae	Diana	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	LId=Diana-1
+4	Dianae	Diana	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	LId=Diana-1
 5	falleret	fallo	VERB	v	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	LId=fallo-1
 6	et	et	CONJ	c	_	5	cc	_	LId=et-1
 7	posset	possum	VERB	v	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	5	conj	_	LId=possum-1
 8	credi	credo	VERB	v	Tense=Pres|VerbForm=Inf|Voice=Pass	7	xcomp	_	LId=credo-1
-9	Latonia	Latonia	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	8	dep	_	LId=Latonia-1
+9	Latonia	Latonia	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	8	dep	_	LId=Latonia-1
 10	,	comma	PUNCT	u	_	13	punct	_	LId=comma-1
 11	si	si	CONJ	c	_	13	mark	_	LId=si-1
 12	non	non	ADV	d	_	13	neg	_	LId=non-1
@@ -4995,7 +4995,7 @@
 1	Redeuntem	redeo	VERB	t	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	LId=redeo-1
 2	colle	collis	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	1	nmod	_	LId=collis-1
 3	Lycaeo	Lycaeus	ADJ	a	Case=Abl|Gender=Masc|Number=Sing	2	amod	_	LId=Lycaeus-1
-4	Pan	Pan	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LId=Pan-1
+4	Pan	Pan	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LId=Pan-1
 5	videt	video	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	LId=video-1
 6	hanc	hic	PRON	p	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	LId=hic-1
 7	que	que	CONJ	c	_	5	cc	_	LId=que-1
@@ -5022,7 +5022,7 @@
 28	donec	donec	CONJ	c	_	34	mark	_	LId=donec-1
 29	harenosi	harenosus	ADJ	a	Case=Gen|Gender=Masc|Number=Sing	31	amod	_	LId=harenosus-1
 30	placidum	placidus	ADJ	a	Case=Acc|Gender=Masc|Number=Sing	33	amod	_	LId=placidus-1
-31	Ladonis	Ladon	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	LId=Ladon-1
+31	Ladonis	Ladon	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	LId=Ladon-1
 32	ad	ad	ADP	r	AdpType=Prep	33	case	_	LId=ad-1
 33	amnem	amnis	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	34	dobj	_	LId=amnis-1
 34	venerit	venio	VERB	v	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	advcl	_	LId=venio-1
@@ -5048,7 +5048,7 @@
 17	prensam	prendo	X	-	_	21	dobj	_	LId=prendo-1
 18	sibi	sui	PRON	p	Case=Dat|Gender=Masc|Number=Sing	17	nmod	_	LId=sui-1
 19	iam	jam	ADV	d	_	17	advmod	_	LId=jam-1
-20	Syringa	Syrinx	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	17	nsubj	_	LId=Syrinx-1
+20	Syringa	Syrinx	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	17	nsubj	_	LId=Syrinx-1
 21	putaret	puto	VERB	v	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	27	advcl	_	LId=puto-1
 22	,	comma	PUNCT	u	_	21	punct	_	LId=comma-1
 23	corpore	corpus	NOUN	n	Case=Abl|Gender=Neut|Number=Sing	26	nmod	_	LId=corpus-1
@@ -5115,7 +5115,7 @@
 1	Talia	talis	ADJ	a	Case=Acc|Gender=Neut|Number=Plur	2	dobj	_	LId=talis-1
 2	dicturus	dico	VERB	t	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	4	xcomp	_	LId=dico-2
 3	vidit	video	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=video-1
-4	Cyllenius	Cyllenius	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Cyllenius-1
+4	Cyllenius	Cyllenius	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=Cyllenius-1
 5	omnes	omnis	ADJ	a	Case=Acc|Gender=Masc|Number=Plur	7	amod	_	LId=omnis-1
 6	succubuisse	succumbo	VERB	v	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	3	xcomp	_	LId=succumbo-1
 7	oculos	oculus	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	6	nsubj	_	LId=oculus-1
@@ -5166,7 +5166,7 @@
 
 # sent_id a_tree-la-s91-root
 # orig_file_sentence 003#91
-1	Arge	Argus	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	LId=Argus-1
+1	Arge	Argus	PROPN	n	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	LId=Argus-1
 2	,	comma	PUNCT	u	_	1	punct	_	LId=comma-1
 3	iaces	jaceo	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=jaceo-1
 4	,	comma	PUNCT	u	_	10	punct	_	LId=comma-1
@@ -5194,7 +5194,7 @@
 3	que	que	CONJ	c	_	1	cc	_	LId=que-1
 4	volucris	volucris	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	LId=volucris-1
 5	suae	suus	ADJ	a	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	LId=suus-1
-6	Saturnia	Saturnia	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+6	Saturnia	Saturnia	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 7	pennis	penna	NOUN	n	Case=Dat|Gender=Fem|Number=Plur	8	dobj	_	LId=penna-1
 8	collocat	colloco	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=colloco-1
 9	et	et	CONJ	c	_	1	cc	_	LId=et-1
@@ -5218,7 +5218,7 @@
 11	que	que	CONJ	c	_	10	cc	_	LId=que-1
 12	animo	animus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	10	conj	_	LId=animus-1
 13	obiecit	objacio	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	LId=objacio-1
-14	Erinyn	Erinys	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	13	dobj	_	LId=Erinys-1
+14	Erinyn	Erinys	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	13	dobj	_	LId=Erinys-1
 15	paelicis	paelicis	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	LId=paelicis-1
 16	Argolicae	Argolicus	ADJ	a	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	LId=Argolicus-1
 17	que	que	CONJ	c	_	2	cc	_	LId=que-1
@@ -5240,7 +5240,7 @@
 2	inmenso	immensus	ADJ	a	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	LId=immensus-1
 3	restabas	resto	VERB	v	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	LId=resto-1
 4	,	comma	PUNCT	u	_	5	punct	_	LId=comma-1
-5	Nile	Nilus	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	LId=Nilus-1
+5	Nile	Nilus	PROPN	n	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	LId=Nilus-1
 6	,	comma	PUNCT	u	_	5	punct	_	LId=comma-1
 7	labori	labor	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	LId=labor-2
 
@@ -5278,7 +5278,7 @@
 30	luctisono	luctisonus	ADJ	a	Case=Abl|Gender=Masc|Number=Sing	31	amod	_	LId=luctisonus-1
 31	mugitu	mugitus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	26	conj	_	LId=mugitus-1
 32	cum	cum	ADP	r	AdpType=Prep	33	case	_	LId=cum-1
-33	Iove	Iuppiter	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	35	nmod	_	LId=Iuppiter-1
+33	Iove	Iuppiter	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	35	nmod	_	LId=Iuppiter-1
 34	visa	video	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	conj	_	LId=video-1
 35	queri	queror	VERB	v	Tense=Pres|VerbForm=Inf|Voice=Pass	34	xcomp	_	LId=queror-1
 36	que	que	CONJ	c	_	35	cc	_	LId=que-1
@@ -5425,7 +5425,7 @@
 6	turba	turba	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	4	dobj	_	LId=turba-1
 7	,	comma	PUNCT	u	_	15	punct	_	LId=comma-1
 8	nunc	nunc	ADV	d	_	15	advmod	_	LId=nunc-1
-9	Epaphus	Epaphus	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	15	nsubjpass	_	LId=Epaphus-1
+9	Epaphus	Epaphus	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	15	nsubjpass	_	LId=Epaphus-1
 10	magni	magnus	ADJ	a	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	LId=magnus-1
 11	genitus	gigno	VERB	t	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	ccomp	_	LId=gigno-1
 12	de	de	ADP	r	AdpType=Prep	13	case	_	LId=de-1
@@ -5433,7 +5433,7 @@
 14	tandem	tandem	ADV	d	_	11	advmod	_	LId=tandem-1
 15	creditur	credo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	LId=credo-1
 16	esse	sum	AUX	v	Tense=Pres|VerbForm=Inf|Voice=Act	11	auxpass	_	LId=sum-1
-17	Iovis	Iuppiter	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	LId=Iuppiter-1
+17	Iovis	Iuppiter	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	LId=Iuppiter-1
 18	,	comma	PUNCT	u	_	4	punct	_	LId=comma-1
 19	que	que	CONJ	c	_	4	cc	_	LId=que-1
 20	per	per	ADP	r	AdpType=Prep	21	case	_	LId=per-1
@@ -5453,7 +5453,7 @@
 6	annis	annus	NOUN	n	Case=Abl|Gender=Masc|Number=Plur	3	conj	_	LId=annus-1
 7	Sole	sol	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	8	dobj	_	LId=sol-1
 8	satus	sero	VERB	t	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	LId=sero-1
-9	Phaethon	Phaethon	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Phaethon-1
+9	Phaethon	Phaethon	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Phaethon-1
 
 # sent_id a_tree-la-s5-root
 # orig_file_sentence 004#5
@@ -5466,12 +5466,12 @@
 7	sibi	sui	PRON	p	Case=Dat|Gender=Masc|Number=Sing	8	dobj	_	LId=sui-1
 8	cedentem	cedo	VERB	t	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	LId=cedo-1
 9	que	que	CONJ	c	_	4	cc	_	LId=que-1
-10	Phoebo	Phoebus	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	12	dep	_	LId=Phoebus-1
+10	Phoebo	Phoebus	PROPN	n	Case=Abl|Gender=Masc|Number=Sing	12	dep	_	LId=Phoebus-1
 11	parente	parens	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	12	dep	_	LId=parens-2
 12	superbum	superbus	ADJ	a	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	LId=superbus-1
 13	non	non	ADV	d	_	14	neg	_	LId=non-1
 14	tulit	fero	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=fero-1
-15	Inachides	Inachides	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+15	Inachides	Inachides	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 16	,	comma	PUNCT	u	_	14	punct	_	LId=comma-1
 17	"	QUOTE	PUNCT	u	_	25	punct	_	LId=QUOTE-1
 18	matri	mater	NOUN	n	Case=Dat|Gender=Fem|Number=Sing	25	iobj	_	LId=mater-1
@@ -5492,7 +5492,7 @@
 # sent_id a_tree-la-s6-root
 # orig_file_sentence 004#6
 1	Erubuit	erubesco	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=erubesco-1
-2	Phaethon	Phaethon	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Phaethon-1
+2	Phaethon	Phaethon	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Phaethon-1
 3	que	que	CONJ	c	_	1	cc	_	LId=que-1
 4	iram	ira	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	LId=ira-1
 5	pudore	pudor	NOUN	n	Case=Abl|Gender=Masc|Number=Sing	6	nmod	_	LId=pudor-1
@@ -5500,8 +5500,8 @@
 7	et	et	CONJ	c	_	1	cc	_	LId=et-1
 8	tulit	fero	VERB	v	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	LId=fero-1
 9	ad	ad	ADP	r	AdpType=Prep	10	case	_	LId=ad-1
-10	Clymenen	Clymene	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	8	dep	_	LId=Clymene-1
-11	Epaphi	Epaphus	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	LId=Epaphus-1
+10	Clymenen	Clymene	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	8	dep	_	LId=Clymene-1
+11	Epaphi	Epaphus	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	LId=Epaphus-1
 12	convicia	convicium	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	8	dobj	_	LId=convicium-1
 13	matrem	mater	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	10	dep	_	LId=mater-1
 
@@ -5589,10 +5589,10 @@
 # orig_file_sentence 004#11
 1	Ambiguum	ambiguus	ADJ	a	Case=Nom|Gender=Neut|Number=Sing	17	dep	_	LId=ambiguus-1
 2	,	comma	PUNCT	u	_	3	punct	_	LId=comma-1
-3	Clymene	Clymene	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	LId=Clymene-1
+3	Clymene	Clymene	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	LId=Clymene-1
 4	,	comma	PUNCT	u	_	3	punct	_	LId=comma-1
 5	precibus	prex	NOUN	n	Case=Abl|Gender=Fem|Number=Plur	9	dobj	_	LId=prex-1
-6	Phaethontis	Phaethon	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	LId=Phaethon-1
+6	Phaethontis	Phaethon	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	LId=Phaethon-1
 7	an	an	CONJ	c	_	5	cc	_	LId=an-1
 8	ira	ira	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	5	conj	_	LId=ira-1
 9	mota	moveo	VERB	t	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	dep	_	LId=moveo-1
@@ -5678,7 +5678,7 @@
 6	est	sum	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=sum-1
 7	tibi	tu	PRON	p	Case=Dat|Gender=Masc|Number=Sing	3	dobj	_	LId=tu-1
 8	nosse	nosco	VERB	v	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	3	csubj	_	LId=nosco-1
-9	penates	Penates	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=Penates-1
+9	penates	Penates	PROPN	n	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	LId=Penates-1
 
 # sent_id a_tree-la-s14-root
 # orig_file_sentence 004#14
@@ -5714,19 +5714,19 @@
 6	matris	mater	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	LId=mater-1
 7	dicta	dictum	NOUN	n	Case=Acc|Gender=Neut|Number=Plur	1	nmod	_	LId=dictum-1
 8	suae	suus	ADJ	a	Case=Gen|Gender=Fem|Number=Sing	6	amod	_	LId=suus-1
-9	Phaethon	Phaethon	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Phaethon-1
+9	Phaethon	Phaethon	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Phaethon-1
 10	et	et	CONJ	c	_	1	cc	_	LId=et-1
 11	concipit	concipio	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=concipio-1
 12	aethera	aether	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	11	dobj	_	LId=aether-1
 13	mente	mens	NOUN	n	Case=Abl|Gender=Fem|Number=Sing	11	nmod	_	LId=mens-1
 14	,	comma	PUNCT	u	_	11	punct	_	LId=comma-1
-15	Aethiopasque	Aethiopus	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	23	dobj	_	LId=Aethiopus-1
+15	Aethiopasque	Aethiopus	PROPN	n	Case=Acc|Gender=Masc|Number=Plur	23	dobj	_	LId=Aethiopus-1
 16	suos	suus	ADJ	a	Case=Acc|Gender=Masc|Number=Plur	15	amod	_	LId=suus-1
 17	que	que	CONJ	c	_	15	cc	_	LId=que-1
 18	positos	pono	VERB	t	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	LId=pono-1
 19	sub	sub	ADP	r	AdpType=Prep	20	case	_	LId=sub-1
 20	ignibus	ignis	NOUN	n	Case=Abl|Gender=Masc|Number=Plur	18	dobj	_	LId=ignis-1
-21	Indos	Indus	NOUN	n	Case=Acc|Gender=Masc|Number=Plur	15	conj	_	LId=Indus-2
+21	Indos	Indus	PROPN	n	Case=Acc|Gender=Masc|Number=Plur	15	conj	_	LId=Indus-2
 22	sidereis	sidereus	ADJ	a	Case=Abl|Gender=Masc|Number=Plur	20	amod	_	LId=sidereus-1
 23	transit	transeo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=transeo-1
 24	que	que	CONJ	c	_	1	cc	_	LId=que-1
