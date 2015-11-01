@@ -1,15 +1,16 @@
 # UD_Latin
 
-The data comes from a conversion of the Latin Dependency Treebank 1.5 (plus two new texts, i.e., 
-Phaedrus ans Suetonius), currently developed at the Humboldt Chair in DH (Prof. Gregory Crane), 
-Leipzig University. The treebank contains literary texts of different genres. 
-The original annotations and full documentation concerning texts, tagsets, 
+The data is a result of a conversion of the Latin Dependency Treebank 1.5 
+(plus two new texts, i.e., Phaedrus ans Suetonius) 
+currently developed at the Humboldt Chair in DH (Prof. Gregory Crane), 
+Leipzig University. The data have been converted by Giuseppe G. A. Celano. 
+The treebank contains literary texts of different genres. 
+The original annotations and documentation concerning texts, tagsets, 
 and guidelines can be found at:
 
 https://github.com/PerseusDL/treebank_data/tree/master/v2.0
 
-The data have been converted by Giuseppe G. A. Celano. The present release 
-contains parts of the following texts: 
+The present release contains parts of the following texts: 
 
 Caesar, Commentarii de Bello Gallico
 Cicero, In Catilinam
@@ -29,9 +30,9 @@ The data have been roughly divided thus: 80% training set, 10% dev set, and
 
 BASIC STATISTICS
 
-Tree count:  3171
-Word count:  45150
-Token count: 45150
+Tree count: 3269
+Word count: 47303
+Token count: 47303
 Dep. relations: 26 of which 0 language specific
 POS tags: 12
 Category=value feature pairs: 35
@@ -43,6 +44,18 @@ Authors of the annotations are (in alphabetical order):
 James Artz, Calliopi Dourou, Ivana Drmić, J. F. Gentile, Kenny Hickman, Alex Lessie,
 Viet Luong, Anastasia Mellano, Meg Luthin, Molly Miller, Robin Ngo, Skylar Neil, the
 Tufts University LAT-181 class (Spring 2008).
+
+Bridget Almas has provided invaluable help for the annotation environment
+(http://sosol.perseids.org/)
+
+REFERENCES TO USE:
+
+Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency 
+Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou 
+(eds.), Language Technology for Cultural Heritage, 79-98.
+
+Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014. 
+The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusDL/treebank_data
 
 === Machine-readable metadata =================================================
 Documentation status: stub
