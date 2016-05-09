@@ -1,16 +1,16 @@
 # UD_Latin
 
-The data is a result of a conversion of the Latin Dependency Treebank 1.5 
-(plus two new texts, i.e., Phaedrus ans Suetonius) 
-currently developed at the Humboldt Chair in DH (Prof. Gregory Crane), 
-Leipzig University. The data have been converted by Giuseppe G. A. Celano. 
-The treebank contains literary texts of different genres. 
-The original annotations and documentation concerning texts, tagsets, 
+The data is a result of a conversion of the Latin Dependency Treebank 1.5
+(plus two new texts, i.e., Phaedrus ans Suetonius)
+currently developed at the Humboldt Chair in DH (Prof. Gregory Crane),
+Leipzig University. The data have been converted by Giuseppe G. A. Celano.
+The treebank contains literary texts of different genres.
+The original annotations and documentation concerning texts, tagsets,
 and guidelines can be found at:
 
 https://github.com/PerseusDL/treebank_data/tree/master/v2.0
 
-The present release contains parts of the following texts: 
+The present release contains parts of the following texts:
 
 Caesar, Commentarii de Bello Gallico
 Cicero, In Catilinam
@@ -25,8 +25,8 @@ Suetonius, Life of Augustus
 
 DATA SPLIT
 
-The data have been roughly divided thus: 80% training set, 10% dev set, and 
-10% test set. 
+The data have been roughly divided thus: 80% training set, 10% dev set, and
+10% test set.
 
 BASIC STATISTICS
 
@@ -50,12 +50,16 @@ Bridget Almas has provided invaluable help for the annotation environment
 
 REFERENCES TO USE:
 
-Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency 
-Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou 
+Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency
+Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou
 (eds.), Language Technology for Cultural Heritage, 79-98.
 
-Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014. 
+Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014.
 The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusDL/treebank_data
+
+## Changelog
+
+No change since UD v1.2.
 
 === Machine-readable metadata =================================================
 Documentation status: stub
