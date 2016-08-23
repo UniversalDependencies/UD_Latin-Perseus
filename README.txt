@@ -68,4 +68,5 @@ Data available since: UD v1.2
 License: CC BY-NC-SA 2.5
 Genre: fiction nonfiction bible
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
+Contact:
 ===============================================================================
