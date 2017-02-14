@@ -8,10 +8,11 @@ The treebank contains literary texts of different genres.
 The original annotations and documentation concerning texts, tagsets,
 and guidelines can be found at:
 
-https://github.com/PerseusDL/treebank_data/tree/master/v2.0
+https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Latin
 
 The present release contains parts of the following texts:
 
+Augustus, Res Gestae
 Caesar, Commentarii de Bello Gallico
 Cicero, In Catilinam
 Jerome, Vulgata
@@ -22,11 +23,7 @@ Phaerus, Fabulae
 Propertius, Elegies
 Sallust, Bellum Catilinae
 Suetonius, Life of Augustus
-
-DATA SPLIT
-
-The data have been roughly divided thus: 80% training set, 10% dev set, and
-10% test set.
+Tacitus, Historiae
 
 BASIC STATISTICS
 
@@ -59,14 +56,14 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 ## Changelog
 
-No change since UD v1.2.
+Since UD v1.2 new texts have been added. More information on the changes in the official github repository (see link above).
 
 === Machine-readable metadata =================================================
-Documentation status: stub
+Documentation status: partial
 Data source: automatic
-Data available since: UD v1.2
+Data available since: UD v2.0
 License: CC BY-NC-SA 2.5
 Genre: fiction nonfiction bible
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
-Contact:
+Contact: celano@informatik.uni-leipzig.de
 ===============================================================================
