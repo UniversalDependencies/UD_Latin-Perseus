@@ -1,7 +1,6 @@
 # UD_Latin
 
-The data is a result of a conversion of the Latin Dependency Treebank 1.5
-(plus two new texts, i.e., Phaedrus ans Suetonius)
+The data is a result of a conversion of the Latin Dependency Treebank 2.1
 currently developed at the Humboldt Chair in DH (Prof. Gregory Crane),
 Leipzig University. The data have been converted by Giuseppe G. A. Celano.
 The treebank contains literary texts of different genres.
