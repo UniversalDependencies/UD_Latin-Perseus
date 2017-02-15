@@ -9,7 +9,7 @@ and guidelines can be found at:
 
 https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Latin
 
-The present release contains parts of the following texts:
+The present release contains parts automatically selected from the following texts:
 
 Augustus, Res Gestae
 Caesar, Commentarii de Bello Gallico
@@ -26,12 +26,12 @@ Tacitus, Historiae
 
 BASIC STATISTICS
 
-Tree count: 3269
-Word count: 47303
-Token count: 47303
-Dep. relations: 26 of which 0 language specific
+Tree count:  2273
+Word count:  29138
+Token count: 29138
+Dep. relations: 24 of which 0 language specific
 POS tags: 12
-Category=value feature pairs: 35
+Category=value feature pairs: 34
 
 ACKNOWLEDGEMENTS
 
