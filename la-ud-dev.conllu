@@ -1,3 +1,4 @@
+# newdoc id = phi0448.phi001.perseus-lat1.tb.xml
 # sent_id = phi0448.phi001.perseus-lat1.tb.xml@5
 # text = qui minus facile eam rem imperio nostro consequi poterant.
 1	qui	qui1	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
@@ -422,6 +423,7 @@
 22	vendidit	vendo1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 23	.	punc1	PUNCT	u--------	_	22	punct	_	_
 
+# newdoc id = phi0474.phi013.perseus-lat1.tb.xml
 # sent_id = phi0474.phi013.perseus-lat1.tb.xml@1
 # text = quo usque tandem abutere, Catilina, patientia nostra?
 1	quo	quo1	ADV	d--------	_	4	advmod	_	_
@@ -2730,6 +2732,7 @@
 17	debeo	debeo1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 18	.	punc1	PUNCT	u--------	_	17	punct	_	_
 
+# newdoc id = phi0620.phi001.perseus-lat1.tb.xml
 # sent_id = phi0620.phi001.perseus-lat1.tb.xml@1
 # text = Cynthia prima suis miserum me cepit ocellis, contactum nullis ante cupidinibus.
 1	Cynthia	Cynthia1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -6178,6 +6181,7 @@
 13	mea	meus	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	SpaceAfter=No
 14	.	punc1	PUNCT	u--------	_	11	punct	_	_
 
+# newdoc id = phi0631.phi001.perseus-lat1.tb.xml
 # sent_id = phi0631.phi001.perseus-lat1.tb.xml@3
 # text = animi imperio, corporis servitio magis utimur;
 1	animi	animus1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -12185,6 +12189,7 @@
 13	agitabantur	agito1	VERB	v3piip---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 14	.	punc1	PUNCT	u--------	_	13	punct	_	_
 
+# newdoc id = phi0690.phi003.perseus-lat1.tb.xml
 # sent_id = phi0690.phi003.perseus-lat1.tb.xml@2
 # text = Obvertunt pelago proras;
 1	Obvertunt	obverto1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
