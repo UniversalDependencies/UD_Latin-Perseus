@@ -1,30 +1,66 @@
-# UD_Latin
+# Summary
 
-The data is a result of a conversion of the Latin Dependency Treebank 2.1
-currently developed at the Humboldt Chair in DH (Prof. Gregory Crane),
-Leipzig University. The data have been converted by Giuseppe G. A. Celano.
-The treebank contains literary texts of different genres.
-The original annotations and documentation concerning texts, tagsets,
-and guidelines can be found at:
+This Universal Dependencies Latin Treebank consists of an automatic 
+conversion of a selection of passages from the Ancient Greek and Latin 
+Dependency Treebank 2.1
 
-https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Latin
+# Introduction
 
-The present release contains parts automatically selected from the following texts:
+The current UD treebank derives from texts taken from 
+the Ancient Greek and Latin Dependency Treebank 2.1 available at
 
-Augustus, Res Gestae
-Caesar, Commentarii de Bello Gallico
-Cicero, In Catilinam
-Jerome, Vulgata
-Vergil, Aeneid
-Ovid, Metamorphoses
-Petronius, Satyricon
-Phaerus, Fabulae
-Propertius, Elegies
-Sallust, Bellum Catilinae
-Suetonius, Life of Augustus
-Tacitus, Historiae
+* https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Latin
 
-BASIC STATISTICS
+The original data have been semi-automatically annotated. More precisely,
+morphological annotation and lemmatization have been performed with the help of
+the Morpheus morphological analyzer, while syntactic annotation has been done 
+manually. The following guidelines have been followed:
+
+* http://nlp.perseus.tufts.edu/syntax/treebank/ldt/1.5/docs/guidelines.pdf
+
+Further details can be found at:
+
+* https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Latin
+
+This UD release contains parts of the following works:
+
+| author | work |
+| --- | --- |
+| Augustus | Res Gestae |
+| Cicero | In Catilinam |
+| Jerome | Vulgata |
+| Vergil | Aeneid |
+| Ovid | Metamorphoses |
+| Petronius | Satyricon |
+| Phaerus | Fabulae |
+| Propertius | Elegies |
+| Sallust | Bellum Catilinae |
+| Suetonius | Life of Augustus |
+| Tacitus | Historiae |
+
+
+# Acknowledgement
+
+The current UD data has been converted by Giuseppe G. A. Celano. 
+
+The Ancient Greek and Latin treebank is a result of a joint effort between
+Tufts University and Leipzig University (DH) under the supervision of Prof.
+Gregory Crane. Current editors of the treebank are Giuseppe G. A. Celano, 
+Gregory Crane, and Bridget Almas. 
+
+Authors of the annotations are (in alphabetical order):
+
+Giuseppe G. A. Celano, J. F. Gentile, Robert Gorman, Vanessa Gorman,
+Jordan Hawkesworth, Yoana Ivanova, Tovah Keynton, Florin Leonte, Alex Lessie,
+Daniel Lim Libatique, Meg Luthin, Francesco Mambrini, George Matthews,
+Jack Mitchell, Molly Miller, Jessica Nord, Sean Stewart, Anthony D. Yates,
+Polina Yordanova, and Sam Zukoff.
+
+Further details can be found at:
+
+* http://perseusdl.github.io/treebank_data/
+
+# Basic statistics
 
 Tree count:  2273
 Word count:  29138
@@ -33,18 +69,7 @@ Dep. relations: 24 of which 0 language specific
 POS tags: 12
 Category=value feature pairs: 34
 
-ACKNOWLEDGEMENTS
-
-Authors of the annotations are (in alphabetical order):
-
-James Artz, Calliopi Dourou, Ivana Drmić, J. F. Gentile, Kenny Hickman, Alex Lessie,
-Viet Luong, Anastasia Mellano, Meg Luthin, Molly Miller, Robin Ngo, Skylar Neil, the
-Tufts University LAT-181 class (Spring 2008).
-
-Bridget Almas has provided invaluable help for the annotation environment
-(http://sosol.perseids.org/)
-
-REFERENCES TO USE:
+# References:
 
 Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency
 Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou
@@ -53,7 +78,7 @@ Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou
 Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014.
 The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusDL/treebank_data
 
-## Changelog
+# Changelog
 
 Since UD v1.2 new texts have been added. More information on the changes in the official github repository (see link above).
 
