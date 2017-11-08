@@ -41,7 +41,7 @@ This UD release contains parts of the following works:
 
 # Acknowledgement
 
-The current UD data has been converted by Giuseppe G. A. Celano. 
+The current UD data have been converted by Giuseppe G. A. Celano. 
 
 The Ancient Greek and Latin treebank is a result of a joint effort between
 Tufts University and Leipzig University (DH) under the supervision of Prof.
