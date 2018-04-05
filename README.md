@@ -86,12 +86,21 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 * Since UD v1.2 new texts have been added. More information on the changes in the official github repository (see link above).
 
-=== Machine-readable metadata =================================================
-Documentation status: partial
-Data source: automatic
+
+
+<pre>
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.0
 License: CC BY-NC-SA 2.5
+Includes text: yes
 Genre: fiction nonfiction bible
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: manual native
+Features: converted from manual
+Relations: converted from manual
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
+Contributing: elsewhere
 Contact: celano@informatik.uni-leipzig.de
 ===============================================================================
+</pre>
