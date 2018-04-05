@@ -7,23 +7,23 @@
   <size>
     <total><sentences>2273</sentences><tokens>29138</tokens><words>29138</words><fused>0</fused></total>
   </size>
-  <lemmas unique="6026" /><!-- punc1, comma1, et1, ,, qui1, ., sum1, in1, que1, ego1, non1, ille1, hic1, et, is1 -->
+  <lemmas unique="4635" /><!-- ,, ., et, qui, in, sum, :, que, ;, ego, non, hic, ille, is, tu -->
   <forms unique="9994" /><!-- ,, ., et, in, :, ;, que, non, ut, cum, qui, ad, ne, ?, si -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="12">
-    <tag name="ADJ">2779</tag><!-- magnus1, omnis1, suus1, meus1, alius2, multus1, malus1, publicus1, bonus1, novus1 -->
-    <tag name="ADP">1329</tag><!-- in1, in, ad1, ab1, de1, ex1, per1, ab, cum1, ad -->
-    <tag name="ADV">2203</tag><!-- non1, jam1, ne1, non, ita1, tamen1, nunc1, sic1, etiam1, modo1 -->
-    <tag name="CCONJ">1694</tag><!-- et1, que1, et, atque1, sed1, neque, aut1, atque, etiam, que -->
-    <tag name="INTJ">43</tag><!-- Hercules1, o2, ah, Hercules, O1, vae1, heu!, ecce1, hei, heu1 -->
-    <tag name="NOUN">7040</tag><!-- res1, terra1, manus1, vox1, amor1, deus1, Catilina1, animus1, res, homo1 -->
-    <tag name="NUM">186</tag><!-- unus, septem1, quattuor1, primus, mille1, mille, singuli, tres1, centum1, viginti1 -->
-    <tag name="PRON">2459</tag><!-- qui1, ego1, ille1, hic1, is1, tu1, quis1, sui1, nos1, hic -->
-    <tag name="PUNCT">4467</tag><!-- punc1, comma1, ,, ., :, ;, QUOTE1, PERIOD1, ?, ' -->
-    <tag name="SCONJ">724</tag><!-- si1, ut1, cum1, ne1, ut, quod1, cum, si, dum1, ubi1 -->
-    <tag name="VERB">6160</tag><!-- sum1, dico2, habeo1, video1, facio1, possum1, volo1, venio1, do1, facio -->
-    <tag name="X">54</tag><!-- comma1, que1, C1, L1, M1, unknown1, Aefulanus, Aulus1, Cn1, Q1 -->
+    <tag name="ADJ">2779</tag><!-- magnus, omnis, suus, meus, multus, publicus, alius, bonus, malus, tantus -->
+    <tag name="ADP">1329</tag><!-- in, ad, ab, de, ex, per, cum, super, pro, inter -->
+    <tag name="ADV">2203</tag><!-- non, jam, ne, ita, tamen, quam, nunc, sic, modo, etiam -->
+    <tag name="CCONJ">1694</tag><!-- et, que, atque, sed, aut, neque, nam, etiam, autem, at -->
+    <tag name="INTJ">43</tag><!-- Hercules, o, ah, vae, heu!, ecce, hei, heu, heus!, io -->
+    <tag name="NOUN">7040</tag><!-- res, vox, terra, homo, manus, animus, dies, amor, deus, bellum -->
+    <tag name="NUM">186</tag><!-- unus, mille, septem, quattuor, primus, tres, singuli, viginti, centum, decem -->
+    <tag name="PRON">2459</tag><!-- qui, ego, hic, ille, is, tu, quis, sui, ipse, nos -->
+    <tag name="PUNCT">4467</tag><!-- ,, ., :, ;, ?, ', !, (, ), punc -->
+    <tag name="SCONJ">724</tag><!-- ut, si, cum, ne, quod, dum, nisi, enim, ubi, quia -->
+    <tag name="VERB">6160</tag><!-- sum, dico, habeo, facio, video, possum, do, volo, venio, coepio -->
+    <tag name="X">54</tag><!-- ,, que, C, L, M, unknown, Aefulanus, Aulus, Cn, Q -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="34">
