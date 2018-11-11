@@ -90,7 +90,7 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.0
+Data available since: UD v1.2
 License: CC BY-NC-SA 2.5
 Includes text: yes
 Genre: fiction nonfiction bible
