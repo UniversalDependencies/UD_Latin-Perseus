@@ -1,10 +1,10 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 87d374bbd458d29331d76014d05c52eaac32518d
+commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:21:53 2018 +0200
+Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Latin-Perseus:
-commit be9fceb908708e7f12954993a8c4b1d6bb78c9c6
-Merge: 3b5e624 3b6ad0c
+commit f8d0111f99e4d36474a83a9a748fd920257a3f6e
+Merge: de2e82c 160c6b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 29138 of 29138 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.74408632846361.
@@ -21,20 +21,20 @@ Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi: found 3685 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 29138 words.
-Genres: found 3 out of 14 known.
+Genres: found 3 out of 17 known.
 validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-test.conllu
 *** PASSED ***
 validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-train.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.214285714285714) = 0.0164835164835165
+(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.488153246321818) = 0.125167499056876
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.564705882352941) = 0.0434389140271493
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.518918918918919) = 0.0399168399168399
-(TOTAL score=0.385519589997203) * (availability=1) * (validity=1) = 0.385519589997203
+(TOTAL score=0.38261073414717) * (availability=1) * (validity=1) = 0.38261073414717
 STARS = 2
-UD_Latin-Perseus	0.385519589997203	2
+UD_Latin-Perseus	0.38261073414717	2
