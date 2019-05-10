@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>2273</sentences><tokens>29138</tokens><words>29138</words><fused>0</fused></total>
+    <train><sentences>1334</sentences><tokens>18184</tokens><words>18184</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>939</sentences><tokens>10954</tokens><words>10954</words><fused>0</fused></test>
   </size>
   <lemmas unique="4635" /><!-- ,, ., et, qui, in, sum, :, que, ;, ego, non, hic, ille, is, tu -->
   <forms unique="9994" /><!-- ,, ., et, in, :, ;, que, non, ut, cum, qui, ad, ne, ?, si -->
