@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Latin-Perseus:
-commit 2a6f88f00b4a65c833706fa314bc14d73010b1a0
+commit e62f804cca5674bd373774516496a3252b81f587
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:27:46 2019 +0100
+Date:   Sun May 10 18:25:23 2020 +0200
 Size: counted 29138 of 29138 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.74408632846361.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,30 +25,30 @@ Genres: found 3 out of 17 known.
 validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-test.conllu
 [Line 8 Sent phi0690.phi003.perseus-lat1.tb.xml@41 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 41 Sent phi0690.phi003.perseus-lat1.tb.xml@45 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 58 Sent phi0690.phi003.perseus-lat1.tb.xml@46 Node 12]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [13]
 [Line 111 Sent phi0690.phi003.perseus-lat1.tb.xml@55 Node 8]: [L3 Syntax too-many-subjects] Node has more than one subject: [2, 6, 10]
 [Line 120 Sent phi0690.phi003.perseus-lat1.tb.xml@56 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 185 Sent phi0690.phi003.perseus-lat1.tb.xml@64 Node 9]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [3, 4, 5, 6, 7]
+[Line 185 Sent phi0690.phi003.perseus-lat1.tb.xml@64 Node 9]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [3, 4, 5, 6, 7, 8]
 [Line 196 Sent phi0690.phi003.perseus-lat1.tb.xml@66 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 197 Sent phi0690.phi003.perseus-lat1.tb.xml@66 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
 [Line 220 Sent phi0690.phi003.perseus-lat1.tb.xml@72 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ'
-[Line 230 Sent phi0690.phi003.perseus-lat1.tb.xml@72 Node 11]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4, 5, 6, 7, 8, 9]
 ...suppressing further errors regarding Syntax
-Syntax errors: 783
-*** FAILED *** with 783 errors
+Syntax errors: 797
+*** FAILED *** with 797 errors
 Exit code: 1
 validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-train.conllu
 [Line 7 Sent phi0975.phi001.perseus-lat1.tb.xml@226 Node 4]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
-[Line 9 Sent phi0975.phi001.perseus-lat1.tb.xml@226 Node 6]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4]
-[Line 95 Sent phi0975.phi001.perseus-lat1.tb.xml@238 Node 6]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4]
-[Line 99 Sent phi0975.phi001.perseus-lat1.tb.xml@238 Node 10]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4, 5, 7, 8]
+[Line 9 Sent phi0975.phi001.perseus-lat1.tb.xml@226 Node 6]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4, 5]
+[Line 16 Sent phi0975.phi001.perseus-lat1.tb.xml@226 Node 13]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [12]
+[Line 81 Sent phi0975.phi001.perseus-lat1.tb.xml@235 Node 6]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [7]
+[Line 95 Sent phi0975.phi001.perseus-lat1.tb.xml@238 Node 6]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4, 5]
+[Line 99 Sent phi0975.phi001.perseus-lat1.tb.xml@238 Node 10]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4, 5, 7, 8, 9]
 [Line 100 Sent phi0975.phi001.perseus-lat1.tb.xml@238 Node 11]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ'
 [Line 101 Sent phi0975.phi001.perseus-lat1.tb.xml@238 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 116 Sent phi0975.phi001.perseus-lat1.tb.xml@239 Node 10]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 135 Sent phi0975.phi001.perseus-lat1.tb.xml@240 Node 8]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [5, 6]
-[Line 155 Sent phi0975.phi001.perseus-lat1.tb.xml@243 Node 11]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [12]
 ...suppressing further errors regarding Syntax
-Syntax errors: 1131
-*** FAILED *** with 1131 errors
+Syntax errors: 1151
+*** FAILED *** with 1151 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
