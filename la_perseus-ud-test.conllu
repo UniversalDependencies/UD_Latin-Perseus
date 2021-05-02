@@ -7364,7 +7364,7 @@
 4	iussit	jubeo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=jubeo1
 5	illum	ille	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	nsubj	_	LId=ille1
 6	Caesar	Caesar	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Caesar1
-7	decollari	decollo	X	---pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	4	obj	_	SpaceAfter=No|LId=decollo1
+7	decollari	decollo	VERB	---pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	SpaceAfter=No|LId=decollo1
 8	:	:	PUNCT	u--------	_	4	punct	_	LId=punc1
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@499
@@ -12096,7 +12096,7 @@
 # text = Qui pretium meriti ab improbis desiderat, Bis peccat:
 1	Qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LId=qui1
 2	pretium	pretium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
-3	meriti	mereo	NOUN	n-srppng-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	nmod	_	_
+3	meriti	mereo	NOUN	n-srppng-	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part	2	nmod	_	_
 4	ab	ab	ADP	r--------	_	5	case	_	_
 5	improbis	improbus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	_
 6	desiderat	desidero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No
