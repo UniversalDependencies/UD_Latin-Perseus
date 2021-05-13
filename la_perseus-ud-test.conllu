@@ -6579,7 +6579,7 @@
 # text = Dedit gladiatores sestertiarios iam decrepitos, quos si sufflasses, cecidissent;
 1	Dedit	dedo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=dedo1
 2	gladiatores	gladiator	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	LId=gladiator1
-3	sestertiarios	sestertiarios	X	--p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	_
+3	sestertiarios	sestertiarios	NOUN	--p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	_
 4	iam	jam	ADV	d--------	_	5	advmod	_	LId=jam1
 5	decrepitos	decrepitus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	amod	_	SpaceAfter=No|LId=decrepitus1
 6	,	,	PUNCT	u--------	_	11	punct	_	LId=comma1
@@ -7364,7 +7364,7 @@
 4	iussit	jubeo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=jubeo1
 5	illum	ille	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	nsubj	_	LId=ille1
 6	Caesar	Caesar	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Caesar1
-7	decollari	decollo	X	---pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	4	obj	_	SpaceAfter=No|LId=decollo1
+7	decollari	decollo	VERB	---pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	SpaceAfter=No|LId=decollo1
 8	:	:	PUNCT	u--------	_	4	punct	_	LId=punc1
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@499
@@ -9482,7 +9482,7 @@
 14	paene	paene	ADV	d--------	_	17	advmod	_	LId=paene1
 15	intestina	intestinum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	obj	_	LId=intestinum1
 16	sua	suum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	15	nmod	_	LId=suum1
-17	vomuit	vomo	X	-3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
+17	vomuit	vomo	VERB	-3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
 18	;	;	PUNCT	u--------	_	3	punct	_	LId=punc1
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@837
@@ -11373,7 +11373,7 @@
 2	viperam	vipera	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	LId=vipera1
 3	sub	sub	ADP	r--------	_	4	case	_	LId=sub1
 4	ala	ala	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	LId=ala1
-5	nutricas	nurtico	X	-2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=nurtico1
+5	nutricas	nurtico	VERB	-2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=nurtico1
 6	'	'	PUNCT	u--------	_	5	punct	_	LId=QUOTE1
 7	et	et	CCONJ	c--------	_	5	cc	_	SpaceAfter=No|LId=et1
 8	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
@@ -12096,7 +12096,7 @@
 # text = Qui pretium meriti ab improbis desiderat, Bis peccat:
 1	Qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LId=qui1
 2	pretium	pretium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
-3	meriti	mereo	NOUN	n-srppng-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	nmod	_	_
+3	meriti	mereo	NOUN	n-srppng-	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part	2	nmod	_	_
 4	ab	ab	ADP	r--------	_	5	case	_	_
 5	improbis	improbus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	_
 6	desiderat	desidero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No
@@ -13174,7 +13174,7 @@
 
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@164
 # text = Multum falleris.
-1	Multum	multus	ADV	d-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	advmod	_	_
+1	Multum	multus	ADV	d-s---na-	_	2	advmod	_	_
 2	falleris	fallo	VERB	v2spip---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	u--------	_	2	punct	_	_
 
