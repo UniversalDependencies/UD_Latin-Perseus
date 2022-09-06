@@ -2860,7 +2860,7 @@
 # text = Cui deus ' at quoniam coniunx mea non potes esse, arbor eris certe ' dixit ' mea.
 1	Cui	qui	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing	16	iobj	_	LId=qui1
 2	deus	deus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	LId=deus1
-3	'	'	PUNCT	u--------	_	12	punct	_	LId=QUOTE1
+3	'	'	PUNCT	u--------	_	4	punct	_	LId=QUOTE1
 4	at	at	CCONJ	c--------	_	12	advmod	_	LId=at1
 5	quoniam	quoniam	SCONJ	c--------	_	6	mark	_	LId=quoniam1
 6	coniunx	conjunx	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	LId=conjunx1
