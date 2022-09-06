@@ -1088,7 +1088,7 @@
 1	An	an	SCONJ	c--------	_	9	cc	_	LId=an1
 2	satis	satis	ADV	d--------	_	7	advmod	_	SpaceAfter=No|LId=satis1
 3	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
-4	o	O	INTJ	e--------	_	5	advmod	_	LId=O1
+4	o	O	INTJ	e--------	_	5	discourse	_	LId=O1
 5	superi	superi	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	SpaceAfter=No|LId=superi1
 6	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
 7	tutos	tueor	VERB	v-prppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	ccomp	_	LId=tueor1
@@ -1887,7 +1887,7 @@
 
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@112
 # text = O utinam possim populos reparare paternis artibus atque animas formatae infundere terrae!
-1	O	O	INTJ	e--------	_	3	advmod	_	LId=O1
+1	O	O	INTJ	e--------	_	3	discourse	_	LId=O1
 2	utinam	utinam	ADV	d--------	_	3	advmod	_	LId=utinam1
 3	possim	possum	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=possum1
 4	populos	populus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	LId=populus1
@@ -3012,7 +3012,7 @@
 7	flumine	flumen	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LId=flumen1
 8	et	et	CCONJ	c--------	_	1	advmod	_	LId=et1
 9	'	'	PUNCT	u--------	_	22	punct	_	LId=QUOTE1
-10	o	O	INTJ	e--------	_	11	advmod	_	LId=O1
+10	o	O	INTJ	e--------	_	11	discourse	_	LId=O1
 11	virgo	virgo	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	22	vocative	_	LId=virgo1
 12	Iove	Iuppiter	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	13	obj	_	LId=Iuppiter1
 13	digna	dignus	ADJ	a-s---fv-	Case=Voc|Gender=Fem|Number=Sing	11	amod	_	LId=dignus1
@@ -4764,7 +4764,7 @@
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@95
 # text = Quare tengomenas faciamus.
-1	Quare	quare	INTJ	e--------	_	3	advmod	_	LId=quare1
+1	Quare	quare	INTJ	e--------	_	3	discourse	_	LId=quare1
 2	tengomenas	tengomena	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	LId=tengomena1
 3	faciamus	facio	VERB	v1ppsa---	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=facio1
 4	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
@@ -6056,7 +6056,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@289
 # text = Non mehercules hodie buccam panis invenire potui.
 1	Non	non	ADV	d--------	_	7	advmod	_	LId=non1
-2	mehercules	Hercules	INTJ	e--------	_	7	advmod	_	LId=Hercules1
+2	mehercules	Hercules	INTJ	e--------	_	7	discourse	_	LId=Hercules1
 3	hodie	hodie	ADV	d--------	_	7	advmod	_	LId=hodie1
 4	buccam	bucca	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	LId=bucca1
 5	panis	panis	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	LId=panis1
@@ -6369,7 +6369,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@330
 # text = Non mehercules patria melior dici potest, si homines haberet.
 1	Non	non	ADV	d--------	_	6	advmod	_	LId=non1
-2	mehercules	Hercules	INTJ	e--------	_	6	advmod	_	LId=Hercules1
+2	mehercules	Hercules	INTJ	e--------	_	6	discourse	_	LId=Hercules1
 3	patria	patria	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=patria1
 4	melior	bonus	ADJ	a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	5	xcomp	_	LId=bonus1
 5	dici	dico	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	6	xcomp	_	LId=dico2
@@ -7901,7 +7901,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@608
 # text = Non mehercules soleo cito fervere, sed in molle carne vermes nascuntur.
 1	Non	non	ADV	d--------	_	3	advmod	_	LId=non1
-2	mehercules	Hercules	INTJ	e--------	_	3	advmod	_	LId=Hercules1
+2	mehercules	Hercules	INTJ	e--------	_	3	discourse	_	LId=Hercules1
 3	soleo	soleo	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=soleo1
 4	cito	cito	ADV	d--------	_	5	advmod	_	LId=cito1
 5	fervere	fervo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	SpaceAfter=No|LId=fervo1
@@ -8221,7 +8221,7 @@
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@649
 # text = Io Saturnalia, rogo, mensis december est?
-1	Io	io	INTJ	e--------	_	2	advmod	_	LId=io1
+1	Io	io	INTJ	e--------	_	2	discourse	_	LId=io1
 2	Saturnalia	Saturnalia	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	4	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	LId=comma1
 4	rogo	rogo	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=rogo1
@@ -9071,7 +9071,7 @@
 15	delicatus	delicatus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	LId=delicatus1
 16	decessit	decedo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=decedo1
 17	,	,	PUNCT	u--------	_	19	punct	_	LId=comma1
-18	mehercules	Hercules	INTJ	e--------	_	19	advmod	_	LId=Hercules1
+18	mehercules	Hercules	INTJ	e--------	_	19	discourse	_	LId=Hercules1
 19	margaritum	margaritum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	15	appos	_	SpaceAfter=No|LId=margaritum1
 20	,	,	PUNCT	u--------	_	21	punct	_	LId=comma1
 21	zacritus	zacritus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	LId=zacritus1
@@ -9457,7 +9457,7 @@
 3	duo	duo	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	LId=duo1
 4	sustuli	tollo	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=tollo1
 5	et	et	CCONJ	c--------	_	4	cc	_	LId=et1
-6	ecce	ecce	INTJ	e--------	_	10	advmod	_	LId=ecce1
+6	ecce	ecce	INTJ	e--------	_	10	discourse	_	LId=ecce1
 7	in	in	ADP	r--------	_	8	case	_	LId=in1
 8	mappa	mappa	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	LId=mappa1
 9	alligata	alligo	VERB	v-prppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	xcomp	_	LId=alligo1
@@ -9855,7 +9855,7 @@
 3	defraudit	defraudo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
 5	et	et	CCONJ	c--------	_	3	cc	_	LId=et1
-6	mehercules	Hercules	INTJ	e--------	_	7	advmod	_	LId=Hercules1
+6	mehercules	Hercules	INTJ	e--------	_	7	discourse	_	LId=Hercules1
 7	laudo	laudo	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LId=laudo1
 8	illum	ille	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No|LId=ille1
 9	;	;	PUNCT	u--------	_	3	punct	_	LId=punc1
@@ -11817,7 +11817,7 @@
 2	Vos	tu	PRON	p-p---mv-	Case=Voc|Gender=Masc|Number=Plur	11	nsubj	_	_
 3	quoque	quoque	ADV	d--------	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	6	punct	_	_
-5	o	o	INTJ	e--------	_	6	advmod	_	LId=o2
+5	o	o	INTJ	e--------	_	6	discourse	_	LId=o2
 6	cives	civis	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	8	punct	_	_
 8	ait	aio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	SpaceAfter=No
@@ -12081,7 +12081,7 @@
 
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@60
 # text = O quanta species, inquit, cerebrum non habet!
-1	O	o	INTJ	e--------	_	2	advmod	_	LId=o2
+1	O	o	INTJ	e--------	_	2	discourse	_	LId=o2
 2	quanta	quantus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	species	species	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	5	punct	_	_
@@ -12529,7 +12529,7 @@
 
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@101
 # text = O qui tuarum, corve, pennarum est nitor!
-1	O	o	INTJ	e--------	_	2	advmod	_	LId=o2
+1	O	o	INTJ	e--------	_	2	discourse	_	LId=o2
 2	qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LId=qui1
 3	tuarum	tuus	PRON	p-p---fg-	Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	5	punct	_	_
@@ -13423,7 +13423,7 @@
 
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@191
 # text = O canis, merito iaces, Qui concupisti subito regales opes, Trivio conceptus, educatus stercore.
-1	O	o	INTJ	e--------	_	2	advmod	_	LId=o2
+1	O	o	INTJ	e--------	_	2	discourse	_	LId=o2
 2	canis	canis	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	SpaceAfter=No|LId=canis1
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	merito	mereo	ADV	d--------	_	5	advmod	_	_

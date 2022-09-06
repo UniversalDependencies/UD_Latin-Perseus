@@ -68,10 +68,10 @@
     <feat name="Voice" value="Pass" upos="VERB">1279</feat><!-- videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="24">
+  <deps unique="25">
     <dep name="acl">302</dep>
     <dep name="advcl">1101</dep>
-    <dep name="advmod">2577</dep>
+    <dep name="advmod">2546</dep>
     <dep name="amod">2146</dep>
     <dep name="appos">30</dep>
     <dep name="aux">5</dep>
@@ -81,6 +81,7 @@
     <dep name="conj">1366</dep>
     <dep name="cop">363</dep>
     <dep name="csubj">140</dep>
+    <dep name="discourse">31</dep>
     <dep name="iobj">234</dep>
     <dep name="mark">742</dep>
     <dep name="nmod">1891</dep>
