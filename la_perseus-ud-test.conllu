@@ -217,7 +217,7 @@
 
 # sent_id = phi0690.phi003.perseus-lat1.tb.xml@72
 # text = Quin, ut te supplex peterem et tua limina adirem, idem orans mandata dabat.
-1	Quin	quin	SCONJ	c--------	_	15	advmod	_	SpaceAfter=No
+1	Quin	quin	SCONJ	c--------	_	15	mark	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	1	punct	_	LId=comma1
 3	ut	ut	ADV	d--------	_	6	mark	_	_
 4	te	tu	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	LId=tu1
@@ -1725,7 +1725,7 @@
 3	diu	diu	ADV	d--------	_	2	advmod	_	LId=diu1
 4	terris	terra	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	2	nsubj	_	SpaceAfter=No|LId=terra1
 5	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
-6	ubi	ubi	SCONJ	c--------	_	7	advmod	_	LId=ubi1
+6	ubi	ubi	SCONJ	c--------	_	7	mark	_	LId=ubi1
 7	sistere	sisto	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	LId=sisto1
 8	possit	possum	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	SpaceAfter=No|LId=possum1
 9	,	,	PUNCT	u--------	_	2	punct	_	LId=comma1
@@ -4422,7 +4422,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@47
 # text = subducta enim sibi vestimenta dispensatoris in balneo, quae vix fuissent decem sestertiorum.
 1	subducta	subduco	VERB	v-prppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LId=subduco1
-2	enim	enim	SCONJ	c--------	_	1	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	1	mark	_	LId=enim1
 3	sibi	sui	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	1	obj	_	LId=sui1
 4	vestimenta	vestimentum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	1	nsubj	_	LId=vestimentum1
 5	dispensatoris	dispensator	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	LId=dispensator1
@@ -4467,7 +4467,7 @@
 2	experiri	experior	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	3	xcomp	_	LId=experior1
 3	volui	volo	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=volo1
 4	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
-5	an	an	SCONJ	c--------	_	8	advmod	_	LId=an1
+5	an	an	SCONJ	c--------	_	8	mark	_	LId=an1
 6	tota	totus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	amod	_	LId=totus2
 7	familia	familia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	LId=familia1
 8	cantaret	canto	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	SpaceAfter=No|LId=canto1
@@ -4511,7 +4511,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@68
 # text = Pallio enim coccineo adrasum excluserat caput que circa oneratas veste cervices laticlaviam immiserat mappam fimbriis hinc atque illinc pendentibus.
 1	Pallio	pallium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	LId=pallium1
-2	enim	enim	SCONJ	c--------	_	5	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	5	mark	_	LId=enim1
 3	coccineo	coccineus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	1	amod	_	LId=coccineus1
 4	adrasum	adrado	VERB	v-srppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	nmod	_	LId=adrado1
 5	excluserat	excludo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=excludo1
@@ -4612,7 +4612,7 @@
 # text = Pro calculis enim albis ac nigris aureos que argenteos habebat denarios.
 1	Pro	pro	ADP	r--------	_	2	case	_	LId=pro1
 2	calculis	calculus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	10	obl	_	LId=calculus1
-3	enim	enim	SCONJ	c--------	_	10	advmod	_	LId=enim1
+3	enim	enim	SCONJ	c--------	_	10	mark	_	LId=enim1
 4	albis	albus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	2	amod	_	LId=albus1
 5	ac	atque	CCONJ	c--------	_	4	cc	_	LId=atque1
 6	nigris	niger	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	4	conj	_	LId=niger1
@@ -4747,7 +4747,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@88
 # text = aquam enim nemo porrexit.
 1	aquam	aqua	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LId=aqua1
-2	enim	enim	SCONJ	c--------	_	4	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	4	mark	_	LId=enim1
 3	nemo	nemo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=nemo1
 4	porrexit	porrigo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=porrigo1
 5	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
@@ -4822,7 +4822,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@106
 # text = Rotundum enim repositorium duodecim habebat signa in orbe disposita, super quae proprium que convenientem materiae structor imposuerat cibum:
 1	Rotundum	rotundus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	LId=rotundus1
-2	enim	enim	SCONJ	c--------	_	5	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	5	mark	_	LId=enim1
 3	repositorium	repositorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LId=repositorium1
 4	duodecim	duodecim	NUM	m--------	_	6	nummod	_	LId=duodecim1
 5	habebat	habeo	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=habeo1
@@ -5278,7 +5278,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@162
 # text = ipso enim homo melior non est;
 1	ipso	ipse	PRON	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LId=ipse1
-2	enim	enim	SCONJ	c--------	_	4	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	4	mark	_	LId=enim1
 3	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=homo1
 4	melior	bonus	ADJ	a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	0	root	_	LId=bonus1
 5	non	non	ADV	d--------	_	4	advmod	_	LId=non1
@@ -5771,7 +5771,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@236
 # text = baliscus enim fullo est, aqua dentes habet, et cor nostrum cotidie liquescit.
 1	baliscus	baliscus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=baliscus1
-2	enim	enim	SCONJ	c--------	_	3	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	3	mark	_	LId=enim1
 3	fullo	fullo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LId=fullo1
 4	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	SpaceAfter=No|LId=sum1
 5	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
@@ -6321,7 +6321,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@321
 # text = aut ne tu aut nunquam:
 1	aut	aut	CCONJ	c--------	_	4	advmod	_	LId=aut1
-2	ne	ne	SCONJ	c--------	_	3	advmod	_	LId=ne1
+2	ne	ne	SCONJ	c--------	_	3	mark	_	LId=ne1
 3	tu	tu	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	LId=tu1
 4	aut	aut	CCONJ	c--------	_	0	root	_	LId=aut1
 5	nunquam	numquam	ADV	d--------	_	4	advmod	_	SpaceAfter=No|LId=numquam1
@@ -6518,16 +6518,16 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@354
 # text = itaque quamdiu vixerit, habebit stigmam, c ne illam nisi Orcus delebit.
 1	itaque	ita	ADV	d--------	_	3	mark	_	LId=ita1
-2	quamdiu	quamdiu	SCONJ	c--------	_	3	advmod	_	LId=quamdiu1
+2	quamdiu	quamdiu	SCONJ	c--------	_	3	mark	_	LId=quamdiu1
 3	vixerit	vivo	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No|LId=vivo1
 4	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
 5	habebit	habeo	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=habeo1
 6	stigmam	stigma	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No|LId=stigma1
 7	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
 8	c	que	CCONJ	c--------	_	5	cc	_	LId=que1
-9	ne	ne	SCONJ	c--------	_	13	advmod	_	LId=ne1
+9	ne	ne	SCONJ	c--------	_	13	mark	_	LId=ne1
 10	illam	ille	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	LId=ille1
-11	nisi	nisi	SCONJ	c--------	_	13	advmod	_	LId=nisi1
+11	nisi	nisi	SCONJ	c--------	_	13	mark	_	LId=nisi1
 12	Orcus	Orcus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	LId=Orcus1
 13	delebit	deleo	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No|LId=deleo1
 14	.	.	PUNCT	u--------	_	5	punct	_	LId=punc1
@@ -7046,7 +7046,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@420
 # text = gallum enim gallinaceum, penthiacum et eiusmodi nenias rustici faciunt:
 1	gallum	gallus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	LId=gallus1
-2	enim	enim	SCONJ	c--------	_	10	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	10	mark	_	LId=enim1
 3	gallinaceum	gallinaceus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No|LId=gallinaceus1
 4	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
 5	penthiacum	penthiacus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	LId=penthiacus1
@@ -7798,7 +7798,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@580
 # text = Apes enim ego divinas bestias puto, quae mel vomunt, etiam si dicuntur illud a Iove afferre;
 1	Apes	apis	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	6	nsubj	_	LId=apis1
-2	enim	enim	SCONJ	c--------	_	6	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	6	mark	_	LId=enim1
 3	ego	ego	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LId=ego1
 4	divinas	divinus	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	LId=divinus1
 5	bestias	bestia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	6	xcomp	_	LId=bestia1
@@ -7889,7 +7889,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@603
 # text = Tu enim beatior es et convivare melius soles.
 1	Tu	tu	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=tu1
-2	enim	enim	SCONJ	c--------	_	3	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	3	mark	_	LId=enim1
 3	beatior	beo	ADJ	a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	0	root	_	LId=beo1
 4	es	sum	AUX	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=sum1
 5	et	et	CCONJ	c--------	_	3	cc	_	LId=et1
@@ -8719,7 +8719,7 @@
 3	nunc	nunc	ADV	d--------	_	4	advmod	_	LId=nunc1
 4	taces	taceo	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=taceo1
 5	c	que	X	---------	_	4	cc	_	LId=que1
-6	ne	nec	SCONJ	c--------	_	7	advmod	_	LId=nec1
+6	ne	nec	SCONJ	c--------	_	7	mark	_	LId=nec1
 7	muttis	mutio	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|LId=mutio1
 8	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 
@@ -8754,7 +8754,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@727
 # text = quid enim mihi aufert, qui ridet?
 1	quid	quis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LId=quis2
-2	enim	enim	SCONJ	c--------	_	4	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	4	mark	_	LId=enim1
 3	mihi	ego	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	LId=ego1
 4	aufert	aufero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=aufero1
 5	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
@@ -8954,7 +8954,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@757
 # text = lupus enim villam intravit et omnia pecora perculit, tanquam lanius sanguinem illis misit.
 1	lupus	lupus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=lupus1
-2	enim	enim	SCONJ	c--------	_	4	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	4	mark	_	LId=enim1
 3	villam	villa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LId=villa1
 4	intravit	intro	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=intro2
 5	et	et	CCONJ	c--------	_	4	advmod	_	LId=et1
@@ -8972,7 +8972,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@758
 # text = c Ne tamen derisit, etiam si fugit;
 1	c	que	CCONJ	c--------	_	4	cc	_	LId=que1
-2	Ne	nec	SCONJ	c--------	_	4	advmod	_	LId=nec1
+2	Ne	nec	SCONJ	c--------	_	4	mark	_	LId=nec1
 3	tamen	tamen	ADV	d--------	_	4	advmod	_	LId=tamen1
 4	derisit	derideo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=derideo1
 5	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
@@ -9011,7 +9011,7 @@
 4	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	cop	_	SpaceAfter=No|LId=sum1
 5	,	,	PUNCT	u--------	_	6	punct	_	LId=comma1
 6	c	que	CCONJ	c--------	_	1	cc	_	LId=que1
-7	ne	nec	SCONJ	c--------	_	13	advmod	_	LId=nec1
+7	ne	nec	SCONJ	c--------	_	13	mark	_	LId=nec1
 8	postea	postea	ADV	d--------	_	13	advmod	_	LId=postea1
 9	cum	cum	ADP	r--------	_	10	case	_	LId=cum1
 10	illo	ille	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	12	obl	_	LId=ille1
@@ -9292,7 +9292,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@801
 # text = c Ne intra rixam tumultus constitit, sed candelabrum etiam super mensam eversum et vasa omnia crystallina comminuit et oleo ferventi aliquot convivas respersit.
 1	c	que	CCONJ	c--------	_	6	advmod	_	LId=que1
-2	Ne	ne	SCONJ	c--------	_	6	advmod	_	LId=ne1
+2	Ne	ne	SCONJ	c--------	_	6	mark	_	LId=ne1
 3	intra	intra	ADP	r--------	_	4	case	_	LId=intra1
 4	rixam	rixa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	LId=rixa1
 5	tumultus	tumultus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LId=tumultus1
@@ -9953,7 +9953,7 @@
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@913
 # text = Etiam nobis potestatem fecit, ut mucronem ad buccam probaremus.
-1	Etiam	etiam	SCONJ	c--------	_	4	advmod	_	LId=etiam1
+1	Etiam	etiam	SCONJ	c--------	_	4	mark	_	LId=etiam1
 2	nobis	nos	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	LId=nos1
 3	potestatem	potestas	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LId=potestas1
 4	fecit	facio	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=facio1
@@ -10049,7 +10049,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@921
 # text = inaudito enim more pueri capillati attulerunt unguentum in argentea pelve que pedes recumbentium unxerunt, cum ante crura que talos corollis vinxissent.
 1	inaudito	inaudio	VERB	v-srppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	nmod	_	LId=inaudio1
-2	enim	enim	SCONJ	c--------	_	6	advmod	_	LId=enim1
+2	enim	enim	SCONJ	c--------	_	6	mark	_	LId=enim1
 3	more	mos	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	LId=mos1
 4	pueri	puer	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	LId=puer1
 5	capillati	capillatus	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
@@ -10440,7 +10440,7 @@
 10	ianuam	janua	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	LId=janua1
 11	venimus	venio	VERB	v1pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=venio1
 12	,	,	PUNCT	u--------	_	19	punct	_	LId=comma1
-13	ubi	ubi	SCONJ	c--------	_	19	advmod	_	LId=ubi1
+13	ubi	ubi	SCONJ	c--------	_	19	mark	_	LId=ubi1
 14	canis	canis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	LId=canis1
 15	catenarius	catenarius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	amod	_	LId=catenarius1
 16	tanto	tantus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	18	amod	_	LId=tantus1
@@ -12223,7 +12223,7 @@
 4	semel	semel	NUM	m--------	_	5	advmod	_	_
 5	innotuit	innotesco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	csubj	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
-7	Etiam	etiam	SCONJ	c--------	_	8	advmod	_	_
+7	Etiam	etiam	SCONJ	c--------	_	8	mark	_	_
 8	si	si	SCONJ	c--------	_	10	mark	_	_
 9	verum	verus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
 10	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	SpaceAfter=No|LId=dico2
