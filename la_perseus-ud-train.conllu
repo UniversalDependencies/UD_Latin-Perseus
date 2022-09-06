@@ -1400,7 +1400,7 @@
 15	Notescet	notesco	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	acl	_	_
 16	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	LId=qui1
 17	nunc	nunc	ADV	d--------	_	15	advmod	_	_
-18	primum	primus	NUM	m--------	_	15	advmod	_	_
+18	primum	primus	NUM	m--------	_	15	obl	_	_
 19	fabella	fabella	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	_
 20	mea	meus	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	u--------	_	8	punct	_	_
@@ -3539,7 +3539,7 @@
 3	duodevicensimum	duodevicensimum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	3	punct	_	LId=punc1
 5	consul	consul	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
-6	XII	duodecim	NUM	m-----na-	Case=Acc|Gender=Neut	5	advmod	_	SpaceAfter=No
+6	XII	duodecim	NUM	m-----na-	Case=Acc|Gender=Neut	5	obl	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	5	punct	_	LId=punc1
 8	trecentis	trecenti	ADJ	a-p---nd-	Case=Dat|Gender=Neut|Number=Plur	11	amod	_	_
 9	et	et	CCONJ	c--------	_	8	cc	_	_
@@ -10072,7 +10072,7 @@
 16	suis	suus	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	15	nmod	_	_
 17	non	non	ADV	d--------	_	18	advmod	_	LId=non1
 18	amplius	amplus	ADV	d-------c	Degree=Cmp	22	advmod	_	_
-19	milibus	mille	NUM	m-p---nb-	Case=Abl|Gender=Neut|Number=Plur	18	advmod	_	_
+19	milibus	mille	NUM	m-p---nb-	Case=Abl|Gender=Neut|Number=Plur	18	obl	_	_
 20	passuum	passus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	LId=passus3
 21	X	decem	NUM	m--------	_	19	nummod	_	_
 22	abesse	absum	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	9	ccomp	_	SpaceAfter=No|LId=absum1
@@ -21200,7 +21200,7 @@
 26	non	non	ADV	d--------	_	30	advmod	_	LId=non1
 27	amplius	amplus	ADJ	a-s---nac	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	30	obj	_	LId=amplus1
 28	duobus	duo	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	29	amod	_	LId=duo1
-29	milibus	mille	NUM	m--------	_	27	advmod	_	LId=mille1
+29	milibus	mille	NUM	m--------	_	27	obl	_	LId=mille1
 30	habuisset	habeo	VERB	v3slsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	22	advcl	_	SpaceAfter=No|LId=habeo1
 31	.	.	PUNCT	u--------	_	14	punct	_	LId=punc1
 

@@ -12101,7 +12101,7 @@
 5	improbis	improbus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	_
 6	desiderat	desidero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	6	punct	_	_
-8	Bis	bis	NUM	m--------	_	9	advmod	_	_
+8	Bis	bis	NUM	m--------	_	9	obl	_	_
 9	peccat	pecco	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 10	:	:	PUNCT	u--------	_	9	punct	_	_
 
@@ -12220,7 +12220,7 @@
 1	Quicumque	quicumque	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	turpi	turpis	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	3	amod	_	_
 3	fraude	fraus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	LId=fraus1
-4	semel	semel	NUM	m--------	_	5	advmod	_	_
+4	semel	semel	NUM	m--------	_	5	obl	_	_
 5	innotuit	innotesco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	csubj	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	Etiam	etiam	SCONJ	c--------	_	8	mark	_	_
@@ -13104,7 +13104,7 @@
 7	ferre	fero	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	_
 8	certe	certus	ADV	d--------	_	9	advmod	_	_
 9	cogor	cogo	VERB	v1spip---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	11	advcl	_	_
-10	bis	bis	NUM	m--------	_	12	advmod	_	_
+10	bis	bis	NUM	m--------	_	12	obl	_	_
 11	videor	video	VERB	v1spip---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 12	mori	morior	VERB	v--pnd---	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	SpaceAfter=No
 13	.	.	PUNCT	u--------	_	11	punct	_	_
