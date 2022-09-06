@@ -82,6 +82,7 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 * 2022-11-15 v2.11
   * Fixed adverbially used nominals from advmod to obl.
+  * Fixed non-projective punctuation using Udapi ud.FixPunct.
 * 2018-04-15 v2.2
   * Repository renamed from UD_Latin to UD_Latin-Perseus.
   * Numerical suffixes of senses removed from lemmas and stored as LId attributes in the MISC column.
