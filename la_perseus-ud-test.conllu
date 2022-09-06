@@ -1552,7 +1552,7 @@
 
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@70
 # text = c Ne caelo contenta suo est Iovis ira, sed illum caeruleus frater iuvat auxiliaribus undis.
-1	c	que	X	---------	_	4	advmod	_	LId=que1
+1	c	que	ADV	---------	_	4	advmod	_	LId=que1
 2	Ne	ne	ADV	d--------	_	4	advmod	_	LId=ne1
 3	caelo	caelum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LId=caelum1
 4	contenta	contineo	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LId=contineo1
@@ -1797,7 +1797,7 @@
 
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@98
 # text = c Ne maris ira manet, que posito tricuspide telo mulcet aquas rector pelagi que supra profundum exstantem atque umeros innato murice tectum caeruleum Tritona vocat que conchae sonanti inspirare iubet que fluctus et flumina signo iam revocare dato.
-1	c	que	X	---------	_	5	advmod	_	LId=que1
+1	c	que	ADV	---------	_	5	advmod	_	LId=que1
 2	Ne	ne	ADV	d--------	_	5	advmod	_	LId=ne1
 3	maris	mare	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	LId=mare1
 4	ira	ira	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LId=ira1
@@ -3341,7 +3341,7 @@
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@263
 # text = Retices c ne mutua nostris dicta refers, alto tantum suspiria ducis pectore, quodque unum potes, ad mea verba remugis.
 1	Retices	reticeo	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=reticeo1
-2	c	que	X	---------	_	1	advmod	_	LId=que1
+2	c	que	ADV	---------	_	1	advmod	_	LId=que1
 3	ne	ne	ADV	d--------	_	7	advmod	_	LId=ne1
 4	mutua	mutuus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	amod	_	LId=mutuus1
 5	nostris	noster	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	LId=noster1
@@ -9153,7 +9153,7 @@
 3	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
 4	etplane	plane	X	---------	_	1	cc	_	_
 5	non	non	ADV	d--------	_	6	advmod	_	LId=non1
-6	mentiaripsas	mentior	X	---------	_	8	advmod	_	_
+6	mentiaripsas	mentior	ADV	---------	_	8	advmod	_	_
 7	non	non	ADV	d--------	_	8	advmod	_	LId=non1
 8	vidimus	video	VERB	v1pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|LId=video1
 9	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
@@ -9400,7 +9400,7 @@
 6	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
 7	Habinnamque	Habinnas	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
 8	intrantem	intro	VERB	v-sppama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	nmod	_	LId=intro2
-9	cumadmiratione	admiratio	X	---------	_	11	advmod	_	_
+9	cumadmiratione	admiratio	ADV	---------	_	11	advmod	_	_
 10	ingenti	ingens	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	amod	_	LId=ingens1
 11	spectabam	specto	VERB	v1siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No|LId=specto1
 12	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
@@ -10225,7 +10225,7 @@
 # text = Ceterum erit mih icurae, ut testamento caveam, ne mortuus iniuriam accipiam.
 1	Ceterum	ceterus	ADV	d--------	_	4	advmod	_	LId=ceterus1
 2	erit	sum	AUX	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	cop	_	LId=sum1
-3	mih	unknown	X	---------	_	4	advmod	_	LId=unknown1
+3	mih	unknown	ADV	---------	_	4	advmod	_	LId=unknown1
 4	icurae	unknown	X	---------	_	0	root	_	SpaceAfter=No|LId=unknown1
 5	,	,	PUNCT	u--------	_	6	punct	_	LId=comma1
 6	ut	ut	SCONJ	c--------	_	8	mark	_	LId=ut1
@@ -10922,7 +10922,7 @@
 # text = si quid perperam feci, in faciem meam inspue.
 1	si	si	SCONJ	c--------	_	4	mark	_	LId=si1
 2	quid	quis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LId=quis2
-3	perperam	perperam	X	---------	_	4	advmod	_	_
+3	perperam	perperam	ADV	---------	_	4	advmod	_	_
 4	feci	facio	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	SpaceAfter=No|LId=facio1
 5	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
 6	in	in	ADP	r--------	_	7	case	_	LId=in1
