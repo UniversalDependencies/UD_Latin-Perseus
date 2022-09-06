@@ -3162,7 +3162,7 @@
 8	,	,	PUNCT	u--------	_	7	punct	_	LId=punc1
 9	conservare	conservo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	_
 10	quam	quam	ADV	d--------	_	11	mark	_	_
-11	excidere	excido	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	12	advmod	_	LId=excido1
+11	excidere	excido	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	12	advcl	_	LId=excido1
 12	malui	malo	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	u--------	_	12	punct	_	LId=punc1
 
@@ -8597,7 +8597,7 @@
 6	blasphemias	blasphemia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	LId=blasphemia1
 7	ad	ad	ADP	r--------	_	8	case	_	LId=ad1
 8	Deum	deus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	LId=deus1
-9	blasphemare	blasphemo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	2	advmod	_	LId=blasphemo1
+9	blasphemare	blasphemo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	LId=blasphemo1
 10	nomen	nomen	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	LId=nomen1
 11	eius	is	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	LId=is1
 12	et	et	CCONJ	c--------	_	10	advmod	_	LId=et1
@@ -11004,7 +11004,7 @@
 19	infestis	infestus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	21	amod	_	LId=infestus1
 20	omnium	omnis	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	21	amod	_	_
 21	oculis	oculus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	22	obl	_	LId=oculus1
-22	conspici	conspicio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	23	advmod	_	LId=conspicio1
+22	conspici	conspicio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	23	advcl	_	LId=conspicio1
 23	mallem	malo	VERB	v1sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=malo1
 24	:	:	PUNCT	u--------	_	23	punct	_	LId=punc1
 
@@ -12355,7 +12355,7 @@
 17	mallet	malo	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=malo1
 18	quam	quam	ADV	d--------	_	20	mark	_	_
 19	exsulem	exsul	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	20	xcomp	_	LId=exsul1
-20	vivere	vivo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	16	advmod	_	SpaceAfter=No|LId=vivo1
+20	vivere	vivo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	16	advcl	_	SpaceAfter=No|LId=vivo1
 21	.	.	PUNCT	u--------	_	17	punct	_	LId=punc1
 
 # sent_id = phi0474.phi013.perseus-lat1.tb.xml@299
@@ -14243,7 +14243,7 @@
 # text = an te nescio quis simulatis ignibus hostis sustulit e nostris, Cynthia, carminibus?
 1	an	an	SCONJ	c--------	_	8	cc	_	LId=an1
 2	te	tu	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	LId=tu1
-3	nescio	nescio	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advmod	_	LId=nescio1
+3	nescio	nescio	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	LId=nescio1
 4	quis	quis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	LId=quis1
 5	simulatis	simulo	VERB	v-prppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	LId=simulo1
 6	ignibus	ignis	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	5	nsubj	_	LId=ignis1
@@ -16677,7 +16677,7 @@
 17	urbis	urbs	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	21	obj	_	LId=urbs1
 18	natura	natura	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	19	obl	_	LId=natura1
 19	munitas	munio	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	LId=munio1
-20	pugnando	pugno	VERB	v-sp-anb-	Case=Abl|Gender=Neut|Number=Sing|Tense=Pres|Voice=Act	21	advmod	_	LId=pugno1
+20	pugnando	pugno	VERB	v-sp-anb-	Case=Abl|Gender=Neut|Number=Sing|Tense=Pres|Voice=Act	21	advcl	_	LId=pugno1
 21	ceperit	capio	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No|LId=capio1
 22	,	,	PUNCT	u--------	_	14	punct	_	LId=comma1
 23	ni	ni	ADV	d--------	_	30	mark	_	LId=ni1
@@ -18955,7 +18955,7 @@
 # sent_id = phi0631.phi001.perseus-lat1.tb.xml@380
 # text = illos dubitando et dies prolatando magnas opportunitates corrumpere;
 1	illos	ille	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	nsubj	_	LId=ille1
-2	dubitando	dubito	VERB	v-sp-anb-	Case=Abl|Gender=Neut|Number=Sing|Tense=Pres|Voice=Act	8	advmod	_	LId=dubito1
+2	dubitando	dubito	VERB	v-sp-anb-	Case=Abl|Gender=Neut|Number=Sing|Tense=Pres|Voice=Act	8	advcl	_	LId=dubito1
 3	et	et	CCONJ	c--------	_	2	cc	_	LId=et1
 4	dies	dies	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	LId=dies1
 5	prolatando	prolato	VERB	v-sp-anb-	Case=Abl|Gender=Neut|Number=Sing|Tense=Pres|Voice=Act	2	conj	_	LId=prolato1
@@ -20435,7 +20435,7 @@
 10	in	in	ADP	r--------	_	11	case	_	LId=in1
 11	illos	ille	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	LId=ille1
 12	statuamus	statuo	VERB	v1ppsa---	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	LId=statuo1
-13	consultare	consulto	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	advmod	_	SpaceAfter=No|LId=consulto2
+13	consultare	consulto	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	SpaceAfter=No|LId=consulto2
 14	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
 
 # sent_id = phi0631.phi001.perseus-lat1.tb.xml@532

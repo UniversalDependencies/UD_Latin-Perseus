@@ -2637,7 +2637,7 @@
 # text = Moderatius, oro, curre que fugam inhibe;
 1	Moderatius	moderatus	ADV	d--------	_	5	advmod	_	SpaceAfter=No|LId=moderatus1
 2	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
-3	oro	oro	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advmod	_	SpaceAfter=No|LId=oro1
+3	oro	oro	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No|LId=oro1
 4	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
 5	curre	curro	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=curro1
 6	que	que	CCONJ	c--------	_	5	cc	_	LId=que1
@@ -3019,7 +3019,7 @@
 14	que	que	CCONJ	c--------	_	13	cc	_	LId=que1
 15	tuo	tuus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	20	amod	_	LId=tuus1
 16	beatum	beatus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	19	xcomp	_	LId=beatus1
-17	nescio	nescio	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	advmod	_	LId=nescio1
+17	nescio	nescio	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	LId=nescio1
 18	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	LId=qui1
 19	factura	facio	VERB	v-sfpafv-	Case=Voc|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	13	conj	_	LId=facio1
 20	toro	torus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No|LId=torus1
@@ -4186,7 +4186,7 @@
 # text = Cum ergo auferretur, ad caput eius symphoniacus cum minimis tibiis accessit et tanquam in aurem aliquid secreto diceret, toto itinere cantavit.
 1	Cum	cum	SCONJ	c--------	_	3	mark	_	LId=cum1
 2	ergo	ergo	ADV	d--------	_	12	advmod	_	LId=ergo1
-3	auferretur	aufero	VERB	v3si-p---	Aspect=Imp|Number=Sing|Person=3|Tense=Past|Voice=Pass	12	advmod	_	SpaceAfter=No|LId=aufero1
+3	auferretur	aufero	VERB	v3si-p---	Aspect=Imp|Number=Sing|Person=3|Tense=Past|Voice=Pass	12	advcl	_	SpaceAfter=No|LId=aufero1
 4	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
 5	ad	ad	ADP	r--------	_	6	case	_	LId=ad1
 6	caput	caput	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	LId=caput1
@@ -6981,7 +6981,7 @@
 6	tormentum	tormentum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	nsubj	_	LId=tormentum1
 7	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	LId=sum1
 8	quam	quam	ADV	d--------	_	9	mark	_	LId=quam1
-9	continere	contineo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	advmod	_	SpaceAfter=No|LId=contineo1
+9	continere	contineo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	SpaceAfter=No|LId=contineo1
 10	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@409
@@ -9257,7 +9257,7 @@
 3	ad	ad	ADP	r--------	_	4	case	_	LId=ad1
 4	os	os	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	LId=os2
 5	manu	manus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	nsubj	_	LId=manus1
-6	nescio	nescio	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advmod	_	LId=nescio1
+6	nescio	nescio	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	LId=nescio1
 7	quid	quis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	LId=quis2
 8	taetrum	taeter	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	amod	_	LId=taeter1
 9	exsibilavit	exsibilo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -9749,7 +9749,7 @@
 7	,	,	PUNCT	u--------	_	6	punct	_	LId=comma1
 8	iussus	jubeo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	SpaceAfter=No|LId=jubeo1
 9	,	,	PUNCT	u--------	_	10	punct	_	LId=comma1
-10	credo	credo	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advmod	_	SpaceAfter=No|LId=credo1
+10	credo	credo	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	SpaceAfter=No|LId=credo1
 11	,	,	PUNCT	u--------	_	13	punct	_	LId=comma1
 12	a	ab	ADP	r--------	_	13	case	_	LId=ab1
 13	domino	dominus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	LId=dominus1

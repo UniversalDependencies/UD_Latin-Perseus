@@ -25,10 +25,10 @@
     <tag name="NUM">186</tag><!-- unus, mille, septem, quattuor, primus, tres, singuli, viginti, centum, decem -->
     <tag name="PRON">2459</tag><!-- qui, ego, hic, ille, is, tu, quis, sui, ipse, nos -->
     <tag name="PROPN">1</tag><!-- Aefulanus -->
-    <tag name="PUNCT">4467</tag><!-- ,, ., :, ;, ?, ', !, (, ), punc -->
-    <tag name="SCONJ">724</tag><!-- ut, si, cum, ne, quod, dum, nisi, enim, ubi, quia -->
+    <tag name="PUNCT">4483</tag><!-- ,, ., :, ;, ?, ', !, (, ), punc -->
+    <tag name="SCONJ">714</tag><!-- ut, si, cum, ne, quod, dum, nisi, enim, ubi, quia -->
     <tag name="VERB">5801</tag><!-- dico, habeo, facio, video, possum, do, volo, venio, coepio, jubeo -->
-    <tag name="X">48</tag><!-- ,, que, C, L, M, unknown, Aulus, Cn, Q, Tiberius -->
+    <tag name="X">42</tag><!-- que, C, L, M, unknown, Aulus, Cn, Q, Tiberius, Trimalchio -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="34">
@@ -70,8 +70,8 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="24">
     <dep name="acl">302</dep>
-    <dep name="advcl">1087</dep>
-    <dep name="advmod">2591</dep>
+    <dep name="advcl">1101</dep>
+    <dep name="advmod">2577</dep>
     <dep name="amod">2146</dep>
     <dep name="appos">30</dep>
     <dep name="aux">5</dep>
