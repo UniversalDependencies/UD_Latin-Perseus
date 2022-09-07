@@ -18,7 +18,7 @@
     <tag name="ADJ">2779</tag><!-- magnus, omnis, suus, meus, multus, publicus, alius, bonus, malus, tantus -->
     <tag name="ADP">1329</tag><!-- in, ad, ab, de, ex, per, cum, super, pro, inter -->
     <tag name="ADV">2213</tag><!-- non, jam, ne, ita, tamen, quam, nunc, sic, modo, etiam -->
-    <tag name="AUX">363</tag><!-- sum -->
+    <tag name="AUX">367</tag><!-- sum, foro, edo -->
     <tag name="CCONJ">1694</tag><!-- et, que, atque, sed, aut, neque, nam, etiam, autem, at -->
     <tag name="INTJ">43</tag><!-- Hercules, o, ah, vae, heu!, ecce, hei, heu, heus!, io -->
     <tag name="NOUN">7041</tag><!-- res, vox, terra, homo, manus, animus, dies, amor, deus, bellum -->
@@ -27,7 +27,7 @@
     <tag name="PROPN">1</tag><!-- Aefulanus -->
     <tag name="PUNCT">4483</tag><!-- ,, ., :, ;, ?, ', !, (, ), punc -->
     <tag name="SCONJ">714</tag><!-- ut, si, cum, ne, quod, dum, nisi, enim, ubi, quia -->
-    <tag name="VERB">5801</tag><!-- dico, habeo, facio, video, possum, do, volo, venio, coepio, jubeo -->
+    <tag name="VERB">5797</tag><!-- dico, habeo, facio, video, possum, do, volo, venio, coepio, jubeo -->
     <tag name="X">32</tag><!-- C, L, M, que, unknown, Aulus, Cn, Q, Tiberius, Trimalchio -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->

@@ -17556,7 +17556,7 @@
 13	condicio	condicio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	LId=condicio1
 14	vitae	vita	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	LId=vita1
 15	futura	sum	AUX	v-sfpafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	12	cop	_	LId=sum1
-16	sit	sum	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	SpaceAfter=No|LId=sum1
+16	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	SpaceAfter=No|LId=sum1
 17	,	,	PUNCT	u--------	_	18	punct	_	LId=comma1
 18	nisi	nisi	SCONJ	c--------	_	21	mark	_	LId=nisi1
 19	nosmet	nos	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	LId=nos1
@@ -17828,7 +17828,7 @@
 14	,	,	PUNCT	u--------	_	15	punct	_	LId=comma1
 15	si	si	SCONJ	c--------	_	16	mark	_	LId=si1
 16	designatus	designo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	LId=designo1
-17	foret	foro	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	SpaceAfter=No|LId=foro1
+17	foret	foro	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	SpaceAfter=No|LId=foro1
 18	,	,	PUNCT	u--------	_	24	punct	_	LId=comma1
 19	facile	facilis	ADV	d--------	_	24	advmod	_	LId=facilis1
 20	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	24	nsubj	_	LId=sui1
@@ -18092,7 +18092,7 @@
 8	sicut	sicut	SCONJ	c--------	_	10	mark	_	LId=sicut1
 9	iurgio	jurgium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	10	obj	_	LId=jurgium1
 10	lacessitus	lacesso	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	LId=lacesso1
-11	foret	foro	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	SpaceAfter=No|LId=foro1
+11	foret	foro	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	SpaceAfter=No|LId=foro1
 12	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
 13	in	in	ADP	r--------	_	14	case	_	LId=in1
 14	senatum	senatus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	LId=senatus1
@@ -18312,7 +18312,7 @@
 2	exemplum	exemplum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LId=exemplum1
 3	infra	infra	ADV	d--------	_	4	advmod	_	LId=infra1
 4	scriptum	scribo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LId=scribo1
-5	est	edo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	SpaceAfter=No|LId=edo1
+5	est	edo	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	SpaceAfter=No|LId=edo1
 6	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
 
 # sent_id = phi0631.phi001.perseus-lat1.tb.xml@310
