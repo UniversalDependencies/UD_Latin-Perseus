@@ -16465,7 +16465,7 @@
 13	que	que	CCONJ	c--------	_	11	cc	_	LId=que1
 14	magis	magis	ADV	d--------	_	20	advmod	_	LId=magis1
 15	dandis	do	VERB	v-ppgpnb-	Case=Abl|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Gdv|Voice=Pass	14	advcl	_	LId=do1
-16	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	mark	_	LId=qui1
+16	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	LId=qui1
 17	accipiundis	accipio	VERB	v-ppgpnb-	Case=Abl|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Gdv|Voice=Pass	14	advcl	_	LId=accipio1
 18	beneficiis	beneficium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	17	nsubj	_	LId=beneficium1
 19	amicitias	amicitia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	20	obj	_	LId=amicitia1
@@ -16600,7 +16600,7 @@
 24	et	et	CCONJ	c--------	_	23	cc	_	LId=et1
 25	militaribus	militaris	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	26	amod	_	LId=militaris1
 26	equis	equus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	23	conj	_	LId=equus1
-27	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	mark	_	LId=qui1
+27	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	LId=qui1
 28	in	in	ADP	r--------	_	29	case	_	LId=in1
 29	scortis	scortum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	20	obl	_	LId=scortum1
 30	atque	atque	CCONJ	c--------	_	29	cc	_	LId=atque1

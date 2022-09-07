@@ -558,7 +558,7 @@
 
 # sent_id = phi0690.phi003.perseus-lat1.tb.xml@118
 # text = Quale solet silvis brumali frigore viscum fronde virere nova, quod non sua seminat arbos, et croceo fetu teretis circumdare truncos, talis erat species auri frondentis opaca ilice, sic leni crepitabat brattea vento.
-1	Quale	qualis	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	mark	_	_
+1	Quale	qualis	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	obl	_	_
 2	solet	soleo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	LId=soleo1
 3	silvis	silva	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	2	obl	_	LId=silva1
 4	brumali	brumalis	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	amod	_	LId=brumalis1

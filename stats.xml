@@ -83,12 +83,12 @@
     <dep name="csubj">140</dep>
     <dep name="discourse">31</dep>
     <dep name="iobj">234</dep>
-    <dep name="mark">821</dep>
+    <dep name="mark">818</dep>
     <dep name="nmod">1891</dep>
     <dep name="nsubj">2426</dep>
     <dep name="nummod">133</dep>
     <dep name="obj">2873</dep>
-    <dep name="obl">2048</dep>
+    <dep name="obl">2051</dep>
     <dep name="parataxis">206</dep>
     <dep name="punct">4483</dep>
     <dep name="root">2273</dep>
