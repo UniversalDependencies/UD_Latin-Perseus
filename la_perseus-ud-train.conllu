@@ -18312,7 +18312,7 @@
 2	exemplum	exemplum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LId=exemplum1
 3	infra	infra	ADV	d--------	_	4	advmod	_	LId=infra1
 4	scriptum	scribo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LId=scribo1
-5	est	edo	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	SpaceAfter=No|LId=edo1
+5	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	SpaceAfter=No|LId=edo1
 6	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
 
 # sent_id = phi0631.phi001.perseus-lat1.tb.xml@310
