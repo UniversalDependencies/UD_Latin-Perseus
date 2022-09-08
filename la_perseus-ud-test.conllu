@@ -1995,7 +1995,7 @@
 20	precibus	prex	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	27	obl	_	LId=prex1
 21	'	'	PUNCT	u--------	_	20	punct	_	LId=QUOTE1
 22	dixerunt	dico	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	LId=dico2
-23	'	'	PUNCT	u--------	_	25	punct	_	LId=QUOTE1
+23	'	'	PUNCT	u--------	_	27	punct	_	LId=QUOTE1
 24	numina	numen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	27	nsubj	_	LId=numen1
 25	iustis	justus	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	20	amod	_	LId=justus1
 26	victa	vivo	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	nmod	_	LId=vivo1
@@ -2498,12 +2498,12 @@
 21	'	'	PUNCT	u--------	_	22	punct	_	LId=QUOTE1
 22	da	do	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	30	ccomp	_	LId=do1
 23	mihi	ego	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing	22	iobj	_	LId=ego1
-24	perpetua	perpetuus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	32	amod	_	SpaceAfter=No|LId=perpetuus1
+24	perpetua	perpetuus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No|LId=perpetuus1
 25	,	,	PUNCT	u--------	_	26	punct	_	LId=comma1
 26	genitor	genitor	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	22	vocative	_	LId=genitor1
 27	carissime	carus	ADJ	a-s---mvs	Case=Voc|Degree=Sup|Gender=Masc|Number=Sing	26	amod	_	SpaceAfter=No|LId=carus1
 28	,	,	PUNCT	u--------	_	26	punct	_	LId=comma1
-29	'	'	PUNCT	u--------	_	24	punct	_	LId=QUOTE1
+29	'	'	PUNCT	u--------	_	22	punct	_	LId=QUOTE1
 30	dixit	dico	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	parataxis	_	LId=dico2
 31	'	'	PUNCT	u--------	_	32	punct	_	LId=QUOTE1
 32	virginitate	virginitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	33	obj	_	LId=virginitas1
@@ -2860,16 +2860,16 @@
 # text = Cui deus ' at quoniam coniunx mea non potes esse, arbor eris certe ' dixit ' mea.
 1	Cui	qui	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing	16	iobj	_	LId=qui1
 2	deus	deus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	LId=deus1
-3	'	'	PUNCT	u--------	_	6	punct	_	LId=QUOTE1
-4	at	at	CCONJ	c--------	_	12	advmod	_	LId=at1
-5	quoniam	quoniam	SCONJ	c--------	_	6	mark	_	LId=quoniam1
-6	coniunx	conjunx	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	LId=conjunx1
+3	'	'	PUNCT	u--------	_	12	punct	_	LId=QUOTE1
+4	at	at	CCONJ	c--------	_	9	advmod	_	LId=at1
+5	quoniam	quoniam	SCONJ	c--------	_	9	mark	_	LId=quoniam1
+6	coniunx	conjunx	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	xcomp	_	LId=conjunx1
 7	mea	meus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	LId=meus1
 8	non	non	ADV	d--------	_	9	advmod	_	LId=non1
-9	potes	possum	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	LId=possum1
+9	potes	possum	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	LId=possum1
 10	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	SpaceAfter=No|LId=sum1
 11	,	,	PUNCT	u--------	_	10	punct	_	LId=comma1
-12	arbor	arbor	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	LId=arbor1
+12	arbor	arbor	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	16	ccomp	_	LId=arbor1
 13	eris	sum	AUX	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	12	cop	_	LId=sum1
 14	certe	certus	ADV	d--------	_	12	advmod	_	LId=certus1
 15	'	'	PUNCT	u--------	_	12	punct	_	LId=QUOTE1
