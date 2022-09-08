@@ -6603,7 +6603,7 @@
 2	hic	hic	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	quidem	quidem	ADV	d--------	_	2	advmod	_	_
 4	Romae	Roma	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-5	,	,	PUNCT	u--------	_	7	punct	_	_
+5	,	,	PUNCT	u--------	_	9	punct	_	_
 6	tamquam	tamquam	ADV	d--------	_	9	advmod	_	_
 7	in	in	ADP	r--------	_	9	case	_	_
 8	tanta	tantus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	amod	_	_
@@ -11112,7 +11112,7 @@
 11	nonne	nonne	ADV	d--------	_	13	advmod	_	LId=nonne1
 12	impetrare	impetro	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	LId=impetro1
 13	debeat	debeo	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=debeo1
-14	,	,	PUNCT	u--------	_	16	punct	_	LId=comma1
+14	,	,	PUNCT	u--------	_	20	punct	_	LId=comma1
 15	etiam	etiam	CCONJ	c--------	_	20	advmod	_	_
 16	si	si	SCONJ	c--------	_	20	mark	_	LId=si1
 17	vim	vis	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	LId=vis1
@@ -12933,7 +12933,7 @@
 5	nostrae	noster	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
 6	gratissima	gratus	ADJ	a-s---fns	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	0	root	_	LId=gratus1
 7	vitae	vita	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
-8	,	,	PUNCT	u--------	_	12	punct	_	LId=comma1
+8	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
 9	taedia	taedium	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	xcomp	_	LId=taedium1
 10	dum	dum	SCONJ	c--------	_	6	mark	_	LId=dum1
 11	miserae	miser	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	14	amod	_	LId=miser1
@@ -14409,7 +14409,7 @@
 1	Cynthia	Cynthia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	LId=Cynthia1
 2	prima	primus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 3	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No|LId=sum1
-4	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
+4	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
 5	Cynthia	Cynthia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	LId=Cynthia1
 6	finis	finis	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	xcomp	_	LId=finis1
 7	erit	sum	AUX	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No|LId=sum1
@@ -15656,7 +15656,7 @@
 23	remorentur	remoror	VERB	v3ppsp---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	LId=remoror1
 24	fata	fatum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	23	obj	_	LId=fatum1
 25	senectae	senecta	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	24	nmod	_	SpaceAfter=No|LId=senecta1
-26	,	,	PUNCT	u--------	_	23	punct	_	LId=punc1
+26	,	,	PUNCT	u--------	_	27	punct	_	LId=punc1
 27	cara	carus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	10	xcomp	_	LId=carus1
 28	tamen	tamen	ADV	d--------	_	10	advmod	_	LId=tamen1
 29	lacrimis	lacrima	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	27	obj	_	LId=lacrima1
@@ -16154,7 +16154,7 @@
 4	facere	facio	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	LId=facio1
 5	rei	res	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	4	obj	_	LId=res1
 6	publicae	publicus	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No|LId=publicus1
-7	,	,	PUNCT	u--------	_	13	punct	_	LId=comma1
+7	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
 8	etiam	etiam	ADV	d--------	_	1	advmod	_	LId=etiam1
 9	bene	bene	ADV	d--------	_	10	advmod	_	LId=bene1
 10	dicere	dico	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	LId=dico2
@@ -18622,7 +18622,7 @@
 28	aere	aer	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	30	obj	_	LId=aer1
 29	alieno	alienus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	28	amod	_	LId=alienus1
 30	oppresses	opprimo	VERB	v-prppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	xcomp	_	SpaceAfter=No
-31	,	,	PUNCT	u--------	_	33	punct	_	LId=comma1
+31	,	,	PUNCT	u--------	_	46	punct	_	LId=comma1
 32	praeterea	praeterea	ADV	d--------	_	37	advmod	_	LId=praeterea1
 33	quod	quod	SCONJ	c--------	_	37	mark	_	LId=quod1
 34	natura	natura	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	37	obl	_	LId=natura1
@@ -21786,7 +21786,7 @@
 21	,	,	PUNCT	u--------	_	23	punct	_	LId=comma1
 22	pro	pro	ADP	r--------	_	23	case	_	LId=pro1
 23	liberis	liberi	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	20	conj	_	SpaceAfter=No|LId=liberi1
-24	,	,	PUNCT	u--------	_	27	punct	_	LId=comma1
+24	,	,	PUNCT	u--------	_	25	punct	_	LId=comma1
 25	pro	pro	ADP	r--------	_	20	case	_	LId=pro1
 26	aris	ara	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	20	obl	_	LId=ara1
 27	atque	atque	CCONJ	c--------	_	20	cc	_	LId=atque1
