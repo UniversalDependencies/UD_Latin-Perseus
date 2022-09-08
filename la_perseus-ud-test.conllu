@@ -1995,7 +1995,7 @@
 20	precibus	prex	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	27	obl	_	LId=prex1
 21	'	'	PUNCT	u--------	_	20	punct	_	LId=QUOTE1
 22	dixerunt	dico	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	LId=dico2
-23	'	'	PUNCT	u--------	_	27	punct	_	LId=QUOTE1
+23	'	'	PUNCT	u--------	_	24	punct	_	LId=QUOTE1
 24	numina	numen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	27	nsubj	_	LId=numen1
 25	iustis	justus	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	20	amod	_	LId=justus1
 26	victa	vivo	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	nmod	_	LId=vivo1
