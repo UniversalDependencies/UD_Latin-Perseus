@@ -175,7 +175,7 @@
 # sent_id = phi0690.phi003.perseus-lat1.tb.xml@64
 # text = Ut primum cessit furor et rabida ora quierunt, incipit Aeneas heros:
 1	Ut	ut	ADV	d--------	_	3	mark	_	_
-2	primum	primus	ADV	d--------	_	1	advmod	_	LId=primus1
+2	primum	primus	ADV	d--------	_	3	advmod	_	LId=primus1
 3	cessit	cedo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	LId=cedo1
 4	furor	furor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=furor2
 5	et	et	CCONJ	c--------	_	3	cc	_	LId=et1
@@ -3665,7 +3665,7 @@
 # text = Quem simul ac tetigit, positis in margine ripae procubuit genibus que resupino ardua collo, quos potuit solos, tollens ad sidera vultus et gemitu et lacrimis et luctisono mugitu cum Iove visa queri que finem orare malorum.
 1	Quem	quis	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LId=quis2
 2	simul	simul	ADV	d--------	_	4	mark	_	LId=simul1
-3	ac	atque	CCONJ	c--------	_	2	advmod	_	LId=atque1
+3	ac	atque	CCONJ	c--------	_	4	advmod	_	LId=atque1
 4	tetigit	tango	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No|LId=tango1
 5	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
 6	positis	pono	VERB	v-prppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	nmod	_	LId=pono1
@@ -5034,7 +5034,7 @@
 3	lupatria	lupatria	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=lupatria1
 4	providet	provideo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=provideo1
 5	omnia	omnis	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	LId=omnis1
-6	et	et	ADV	d--------	_	7	advmod	_	LId=et1
+6	et	et	ADV	d--------	_	9	advmod	_	LId=et1
 7	ubi	ubi	SCONJ	c--------	_	9	mark	_	LId=ubi1
 8	non	non	ADV	d--------	_	9	advmod	_	LId=non1
 9	putes	puto	VERB	v2spsa---	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No|LId=puto1
@@ -6261,7 +6261,7 @@
 8	meos	meus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	amod	_	LId=meus1
 9	comedi	comedo	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=comedo1
 10	,	,	PUNCT	u--------	_	12	punct	_	LId=comma1
-11	et	et	CCONJ	c--------	_	12	advmod	_	LId=et1
+11	et	et	CCONJ	c--------	_	13	advmod	_	LId=et1
 12	si	si	SCONJ	c--------	_	13	mark	_	LId=si1
 13	perseverat	persevero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	LId=persevero1
 14	haec	hic	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	15	nmod	_	LId=hic1
@@ -6734,7 +6734,7 @@
 4	bono	bonus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	5	amod	_	LId=bonus1
 5	filo	filum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	1	conj	_	SpaceAfter=No|LId=filum1
 6	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
-7	etiam	etiam	ADV	d--------	_	8	advmod	_	LId=etiam1
+7	etiam	etiam	ADV	d--------	_	11	advmod	_	LId=etiam1
 8	si	si	SCONJ	c--------	_	11	mark	_	LId=si1
 9	in	in	ADP	r--------	_	10	case	_	LId=in1
 10	aves	avis	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	nmod	_	LId=avis1
@@ -6884,7 +6884,7 @@
 7	venalia	venalis	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	amod	_	SpaceAfter=No|LId=venalis1
 8	,	,	PUNCT	u--------	_	14	punct	_	LId=comma1
 9	nunc	nunc	ADV	d--------	_	14	advmod	_	LId=nunc1
-10	etiam	etiam	ADV	d--------	_	11	advmod	_	LId=etiam1
+10	etiam	etiam	ADV	d--------	_	12	advmod	_	LId=etiam1
 11	adversus	adversus	ADP	r--------	_	12	case	_	LId=adversus2
 12	Norbanum	Norbanus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	LId=Norbanus1
 13	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	LId=sui1
@@ -7125,7 +7125,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@434
 # text = Ego etiam si causas non ago, in domusionem tamen litteras didici.
 1	Ego	ego	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	LId=ego1
-2	etiam	etiam	ADV	d--------	_	3	advmod	_	LId=etiam1
+2	etiam	etiam	ADV	d--------	_	6	advmod	_	LId=etiam1
 3	si	si	SCONJ	c--------	_	6	mark	_	LId=si1
 4	causas	causa	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	LId=causa1
 5	non	non	ADV	d--------	_	6	advmod	_	LId=non1
@@ -7637,7 +7637,7 @@
 6	minus	parvus	ADV	d--------	_	7	advmod	_	LId=parvus1
 7	convivae	conviva	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No|LId=conviva1
 8	,	,	PUNCT	u--------	_	10	punct	_	LId=comma1
-9	non	non	ADV	d--------	_	10	advmod	_	LId=non1
+9	non	non	ADV	d--------	_	11	advmod	_	LId=non1
 10	propter	propter	ADP	r--------	_	11	case	_	LId=propter1
 11	hominem	homo	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	LId=homo1
 12	tam	tam	ADV	d--------	_	13	advmod	_	LId=tam1
@@ -7679,7 +7679,7 @@
 11	aliquod	aliqui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	LId=aliqui1
 12	exiret	exeo	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	SpaceAfter=No|LId=exeo1
 13	,	,	PUNCT	u--------	_	15	punct	_	LId=comma1
-14	utique	utique	ADV	d--------	_	15	advmod	_	LId=utique2
+14	utique	utique	ADV	d--------	_	18	advmod	_	LId=utique2
 15	postquam	postquam	SCONJ	c--------	_	18	mark	_	LId=postquam1
 16	servus	servus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	LId=servus2
 17	verberari	verbero	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	18	xcomp	_	LId=verbero1
@@ -7690,7 +7690,7 @@
 22	domini	dominus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	LId=dominus1
 23	contusum	contundo	VERB	v-srppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	nmod	_	LId=contundo1
 24	alba	albus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	29	amod	_	LId=albus1
-25	potius	potis	ADV	d--------	_	26	advmod	_	LId=potis1
+25	potius	potis	ADV	d--------	_	27	advmod	_	LId=potis1
 26	quam	quam	ADV	d--------	_	27	mark	_	LId=quam1
 27	conchyliata	conchyliatus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	24	amod	_	LId=conchyliatus1
 28	involverat	involvo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	16	acl	_	LId=involvo1
@@ -7808,7 +7808,7 @@
 9	mel	mel	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	LId=mel1
 10	vomunt	vomo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	SpaceAfter=No|LId=vomo1
 11	,	,	PUNCT	u--------	_	13	punct	_	LId=comma1
-12	etiam	etiam	ADV	d--------	_	13	advmod	_	LId=etiam1
+12	etiam	etiam	ADV	d--------	_	14	advmod	_	LId=etiam1
 13	si	si	SCONJ	c--------	_	14	mark	_	LId=si1
 14	dicuntur	dico	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	advcl	_	LId=dico2
 15	illud	ille	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	LId=ille1
@@ -8976,7 +8976,7 @@
 3	tamen	tamen	ADV	d--------	_	4	advmod	_	LId=tamen1
 4	derisit	derideo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=derideo1
 5	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
-6	etiam	etiam	CCONJ	c--------	_	7	advmod	_	LId=etiam1
+6	etiam	etiam	CCONJ	c--------	_	8	advmod	_	LId=etiam1
 7	si	si	SCONJ	c--------	_	8	mark	_	LId=si1
 8	fugit	fugio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No|LId=fugio1
 9	;	;	PUNCT	u--------	_	4	punct	_	LId=punc1
@@ -9019,7 +9019,7 @@
 12	gustare	gusto	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	LId=gusto1
 13	potui	possum	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|LId=possum1
 14	,	,	PUNCT	u--------	_	16	punct	_	LId=comma1
-15	non	non	ADV	d--------	_	16	advmod	_	LId=non1
+15	non	non	ADV	d--------	_	18	advmod	_	LId=non1
 16	si	si	SCONJ	c--------	_	18	mark	_	LId=si1
 17	me	ego	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	LId=ego1
 18	occidisses	occido	VERB	v2slsa---	Mood=Sub|Number=Sing|Person=2|Tense=Pqp|VerbForm=Fin|Voice=Act	13	advcl	_	SpaceAfter=No|LId=occido2
@@ -9179,7 +9179,7 @@
 17	caesus	caedo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	SpaceAfter=No|LId=caedo1
 18	,	,	PUNCT	u--------	_	19	punct	_	LId=comma1
 19	quia	quia	SCONJ	c--------	_	22	mark	_	LId=quia1
-20	scilicet	scilicet	ADV	d--------	_	19	advmod	_	LId=scilicet1
+20	scilicet	scilicet	ADV	d--------	_	22	advmod	_	LId=scilicet1
 21	illum	ille	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	LId=ille1
 22	tetigerat	tango	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	14	advcl	_	LId=tango1
 23	mala	malus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	24	amod	_	LId=malus1
@@ -10937,7 +10937,7 @@
 2	basiavi	basio	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=basio1
 3	frugalissimum	frugalis	ADJ	a-s---mas	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No|LId=frugalis1
 4	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
-5	non	non	ADV	d--------	_	6	advmod	_	LId=non1
+5	non	non	ADV	d--------	_	7	advmod	_	LId=non1
 6	propter	propter	ADP	r--------	_	7	case	_	LId=propter1
 7	formal	forma	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No|LId=forma1
 8	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
@@ -12223,7 +12223,7 @@
 4	semel	semel	NUM	m--------	_	5	obl	_	_
 5	innotuit	innotesco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	csubj	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
-7	Etiam	etiam	SCONJ	c--------	_	8	mark	_	_
+7	Etiam	etiam	SCONJ	c--------	_	10	mark	_	_
 8	si	si	SCONJ	c--------	_	10	mark	_	_
 9	verum	verus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
 10	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	SpaceAfter=No|LId=dico2

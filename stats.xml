@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>939</sentences><tokens>10954</tokens><words>10954</words><fused>0</fused></test>
   </size>
-  <lemmas unique="4635" /><!-- ,, ., et, qui, in, sum, :, que, ;, ego, non, hic, ille, is, tu -->
+  <lemmas unique="4634" /><!-- ,, ., et, qui, in, sum, :, que, ;, ego, non, hic, ille, is, tu -->
   <forms unique="9994" /><!-- ,, ., et, in, :, ;, que, non, ut, cum, qui, ad, ne, ?, si -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">2779</tag><!-- magnus, omnis, suus, meus, multus, publicus, alius, bonus, malus, tantus -->
     <tag name="ADP">1329</tag><!-- in, ad, ab, de, ex, per, cum, super, pro, inter -->
     <tag name="ADV">2213</tag><!-- non, jam, ne, ita, tamen, quam, nunc, sic, modo, etiam -->
-    <tag name="AUX">367</tag><!-- sum, foro, edo -->
+    <tag name="AUX">367</tag><!-- sum -->
     <tag name="CCONJ">1694</tag><!-- et, que, atque, sed, aut, neque, nam, etiam, autem, at -->
     <tag name="INTJ">43</tag><!-- Hercules, o, ah, vae, heu!, ecce, hei, heu, heus!, io -->
     <tag name="NOUN">7041</tag><!-- res, vox, terra, homo, manus, animus, dies, amor, deus, bellum -->
@@ -69,12 +69,12 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="25">
-    <dep name="acl">302</dep>
+    <dep name="acl">303</dep>
     <dep name="advcl">1101</dep>
     <dep name="advmod">2460</dep>
     <dep name="amod">2146</dep>
     <dep name="appos">30</dep>
-    <dep name="aux">5</dep>
+    <dep name="aux">4</dep>
     <dep name="case">1346</dep>
     <dep name="cc">1293</dep>
     <dep name="ccomp">323</dep>
