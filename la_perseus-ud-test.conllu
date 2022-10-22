@@ -461,7 +461,7 @@
 8	Dardanio	Dardanius	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	9	amod	_	LId=Dardanius1
 9	Aeneae	Aeneas	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	LId=Aeneas1
 10	sese	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
-11	fortissimus	fortis	ADJ	a-s---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	12	amod	_	LId=fortis1
+11	fortissimus	fortis	ADJ	a-s---mns	Case=Nom|Degree=Abs|Gender=Masc|Number=Sing	12	amod	_	LId=fortis1
 12	heros	heros	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	LId=heros1
 13	addiderat	addo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=addo1
 14	socium	socius	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No|LId=socius1
@@ -610,7 +610,7 @@
 10	et	et	CCONJ	c--------	_	8	cc	_	LId=et1
 11	cineri	cinis	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	14	iobj	_	LId=cinis1
 12	ingrato	ingratus	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	11	amod	_	LId=ingratus1
-13	suprema	superus	ADJ	a-p---nas	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	14	obj	_	_
+13	suprema	superus	ADJ	a-p---nas	Case=Acc|Degree=Abs|Gender=Neut|Number=Plur	14	obj	_	_
 14	ferebant	fero	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No|LId=fero1
 15	.	.	PUNCT	u--------	_	8	punct	_	LId=punc1
 
@@ -706,7 +706,7 @@
 10	Charon	Charon	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No|LId=Charon1
 11	,	,	PUNCT	u--------	_	17	punct	_	LId=comma1
 12	cui	qui	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	17	obj	_	LId=qui1
-13	plurima	multus	ADJ	a-s---fns	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	15	amod	_	LId=multus1
+13	plurima	multus	ADJ	a-s---fns	Case=Nom|Degree=Abs|Gender=Fem|Number=Sing	15	amod	_	LId=multus1
 14	mento	mentum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	17	obl	_	LId=mentum1
 15	canities	canities	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	LId=canities1
 16	inculta	incultus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	15	amod	_	LId=incultus1
@@ -2023,7 +2023,7 @@
 48	fer	fero	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	34	ccomp	_	LId=fero1
 49	opem	ops	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	48	obj	_	SpaceAfter=No|LId=ops1
 50	,	,	PUNCT	u--------	_	51	punct	_	LId=comma1
-51	mitissima	mitis	ADJ	a-s---fvs	Case=Voc|Degree=Sup|Gender=Fem|Number=Sing	34	vocative	_	SpaceAfter=No|LId=mitis1
+51	mitissima	mitis	ADJ	a-s---fvs	Case=Voc|Degree=Abs|Gender=Fem|Number=Sing	34	vocative	_	SpaceAfter=No|LId=mitis1
 52	,	,	PUNCT	u--------	_	51	punct	_	LId=comma1
 53	rebus	res	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	48	iobj	_	SpaceAfter=No|LId=res1
 54	.	.	PUNCT	u--------	_	34	punct	_	LId=punc1
@@ -2501,7 +2501,7 @@
 24	perpetua	perpetuus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No|LId=perpetuus1
 25	,	,	PUNCT	u--------	_	26	punct	_	LId=comma1
 26	genitor	genitor	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	22	vocative	_	LId=genitor1
-27	carissime	carus	ADJ	a-s---mvs	Case=Voc|Degree=Sup|Gender=Masc|Number=Sing	26	amod	_	SpaceAfter=No|LId=carus1
+27	carissime	carus	ADJ	a-s---mvs	Case=Voc|Degree=Abs|Gender=Masc|Number=Sing	26	amod	_	SpaceAfter=No|LId=carus1
 28	,	,	PUNCT	u--------	_	26	punct	_	LId=comma1
 29	'	'	PUNCT	u--------	_	22	punct	_	LId=QUOTE1
 30	dixit	dico	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	parataxis	_	LId=dico2
@@ -3046,7 +3046,7 @@
 41	medio	medius	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	45	amod	_	LId=medius1
 42	sol	sol	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	LId=sol1
 43	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	cop	_	LId=sum1
-44	altissimus	altus	ADJ	a-s---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	39	conj	_	LId=altus1
+44	altissimus	altus	ADJ	a-s---mns	Case=Nom|Degree=Abs|Gender=Masc|Number=Sing	39	conj	_	LId=altus1
 45	orbe	orbis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	44	obl	_	SpaceAfter=No|LId=orbis1
 46	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 
@@ -4154,7 +4154,7 @@
 11	palliis	pallium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	8	conj	_	LId=pallium1
 12	ex	ex	ADP	r--------	_	13	case	_	LId=ex1
 13	lana	lana	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	LId=lana1
-14	mollissima	mollis	ADJ	a-s---fbs	Case=Abl|Degree=Sup|Gender=Fem|Number=Sing	13	amod	_	LId=mollis1
+14	mollissima	mollis	ADJ	a-s---fbs	Case=Abl|Degree=Abs|Gender=Fem|Number=Sing	13	amod	_	LId=mollis1
 15	factis	facio	VERB	v-prppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	SpaceAfter=No|LId=facio1
 16	.	.	PUNCT	u--------	_	5	punct	_	LId=punc1
 
@@ -4605,7 +4605,7 @@
 11	notavi	noto	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	LId=noto1
 12	rem	res	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	LId=res1
 13	omnium	omnis	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	12	amod	_	LId=omnis1
-14	delicatissimam	delicatus	ADJ	a-s---fas	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No|LId=delicatus1
+14	delicatissimam	delicatus	ADJ	a-s---fas	Case=Acc|Degree=Abs|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No|LId=delicatus1
 15	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@74
@@ -4870,7 +4870,7 @@
 1	Atque	atque	CCONJ	c--------	_	10	cc	_	LId=atque1
 2	ipse	ipse	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LId=ipse1
 3	etiam	etiam	ADV	d--------	_	10	advmod	_	LId=etiam1
-4	taeterrima	taeter	ADJ	a-s---fbs	Case=Abl|Degree=Sup|Gender=Fem|Number=Sing	5	amod	_	LId=taeter1
+4	taeterrima	taeter	ADJ	a-s---fbs	Case=Abl|Degree=Abs|Gender=Fem|Number=Sing	5	amod	_	LId=taeter1
 5	voice	vox	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	LId=vox1
 6	de	de	ADP	r--------	_	8	case	_	LId=de1
 7	Laserpiciario	laserpiciarius	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	8	amod	_	LId=laserpiciarius1
@@ -4907,7 +4907,7 @@
 6	inceptum	incipio	VERB	v-srppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	LId=incipio1
 7	et	et	CCONJ	c--------	_	1	cc	_	LId=et1
 8	res	res	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	LId=res1
-9	electissimas	electus	ADJ	a-p---fas	Case=Acc|Degree=Sup|Gender=Fem|Number=Plur	8	amod	_	LId=electus1
+9	electissimas	electus	ADJ	a-p---fas	Case=Acc|Degree=Abs|Gender=Fem|Number=Plur	8	amod	_	LId=electus1
 10	ridentes	rideo	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	LId=rideo1
 11	aggredimur	aggredior	VERB	v1ppip---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	1	conj	_	SpaceAfter=No|LId=aggredior1
 12	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
@@ -4939,7 +4939,7 @@
 2	nihilo	nihilum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	obl	_	LId=nihilum1
 3	minus	parvus	ADV	d--------	_	1	advmod	_	LId=parvus1
 4	Trimalchio	Trimalchio	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=Trimalchio1
-5	lentissima	lentus	ADJ	a-s---fbs	Case=Abl|Degree=Sup|Gender=Fem|Number=Sing	6	amod	_	LId=lentus1
+5	lentissima	lentus	ADJ	a-s---fbs	Case=Abl|Degree=Abs|Gender=Fem|Number=Sing	6	amod	_	LId=lentus1
 6	voce	vox	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No|LId=vox1
 7	:	:	PUNCT	u--------	_	1	punct	_	LId=punc1
 
@@ -9278,7 +9278,7 @@
 5	usus	utor	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	LId=utor1
 6	ingenio	ingenium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No|LId=ingenium1
 7	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
-8	taeterrimo	taeter	ADJ	a-s---mbs	Case=Abl|Degree=Sup|Gender=Masc|Number=Sing	9	amod	_	LId=taeter1
+8	taeterrimo	taeter	ADJ	a-s---mbs	Case=Abl|Degree=Abs|Gender=Masc|Number=Sing	9	amod	_	LId=taeter1
 9	latratu	latratus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	LId=latratus1
 10	triclinium	triclinium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	LId=triclinium1
 11	implevit	impleo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=impleo1
@@ -9672,7 +9672,7 @@
 3	in	in	ADP	r--------	_	4	case	_	LId=in1
 4	gremio	gremium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	1	obl	_	LId=gremium1
 5	Scintillae	scintilla	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	LId=scintilla1
-6	incensissimam	incensus	ADJ	a-s---fas	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	8	amod	_	_
+6	incensissimam	incensus	ADJ	a-s---fas	Case=Acc|Degree=Abs|Gender=Fem|Number=Sing	8	amod	_	_
 7	rubore	rubor	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	LId=rubor1
 8	faciem	facies	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	LId=facies1
 9	sudario	sudarium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	LId=sudarium1
@@ -10032,7 +10032,7 @@
 7	et	et	CCONJ	c--------	_	6	cc	_	LId=et1
 8	tremula	tremulus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	11	amod	_	LId=tremulus1
 9	que	que	CCONJ	c--------	_	8	cc	_	LId=que1
-10	taeterrima	taeter	ADJ	a-s---fbs	Case=Abl|Degree=Sup|Gender=Fem|Number=Sing	8	conj	_	LId=taeter1
+10	taeterrima	taeter	ADJ	a-s---fbs	Case=Abl|Degree=Abs|Gender=Fem|Number=Sing	8	conj	_	LId=taeter1
 11	voce	vox	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	LId=vox1
 12	cantavit	canto	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No|LId=canto1
 13	.	.	PUNCT	u--------	_	6	punct	_	LId=punc1
@@ -10486,7 +10486,7 @@
 5	dudum	dudum	ADV	d--------	_	9	advmod	_	LId=dudum1
 6	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	LId=sui1
 7	ratione	ratio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	LId=ratio1
-8	acutissima	acutus	ADJ	a-s---fbs	Case=Abl|Degree=Sup|Gender=Fem|Number=Sing	7	amod	_	LId=acutus1
+8	acutissima	acutus	ADJ	a-s---fbs	Case=Abl|Degree=Abs|Gender=Fem|Number=Sing	7	amod	_	LId=acutus1
 9	redemerat	redemo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=redemo1
 10	a	ab	ADP	r--------	_	11	case	_	LId=ab1
 11	cane	canis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No|LId=canis1
@@ -10497,7 +10497,7 @@
 1	Quid	quis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LId=quis1
 2	faciamus	facio	VERB	v1ppsa---	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=facio1
 3	homines	homo	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	LId=homo1
-4	miserrimi	miser	ADJ	a-p---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	3	amod	_	LId=miser1
+4	miserrimi	miser	ADJ	a-p---mns	Case=Nom|Degree=Abs|Gender=Masc|Number=Plur	3	amod	_	LId=miser1
 5	et	et	CCONJ	c--------	_	4	cc	_	LId=et1
 6	novi	novus	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	7	amod	_	LId=novus1
 7	generis	genus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	LId=genus1
@@ -10561,7 +10561,7 @@
 2	ne	ne	ADV	d--------	_	4	advmod	_	LId=ne1
 3	sic	sic	ADV	d--------	_	9	advmod	_	LId=sic1
 4	quidem	quidem	ADV	d--------	_	8	advmod	_	LId=quidem1
-5	putidissimam	putidus	ADJ	a-s---fas	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	7	amod	_	LId=putidus1
+5	putidissimam	putidus	ADJ	a-s---fas	Case=Acc|Degree=Abs|Gender=Fem|Number=Sing	7	amod	_	LId=putidus1
 6	eius	is	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	LId=is1
 7	iactationem	jactatio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	LId=jactatio1
 8	licuit	liqueo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=liqueo1
@@ -10935,7 +10935,7 @@
 # text = Puerum basiavi frugalissimum, non propter formal, sed quia frugi est:
 1	Puerum	puer	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	LId=puer1
 2	basiavi	basio	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=basio1
-3	frugalissimum	frugalis	ADJ	a-s---mas	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No|LId=frugalis1
+3	frugalissimum	frugalis	ADJ	a-s---mas	Case=Acc|Degree=Abs|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No|LId=frugalis1
 4	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
 5	non	non	ADV	d--------	_	7	advmod	_	LId=non1
 6	propter	propter	ADP	r--------	_	7	case	_	LId=propter1
@@ -11570,7 +11570,7 @@
 # text = Nos occasionem opportunissimam nacti Agamemnoni verba dedimus que raptim tam plane quam ex incendio fugimus.
 1	Nos	nos	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	LId=nos1
 2	occasionem	occasio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LId=occasio1
-3	opportunissimam	opportunus	ADJ	a-s---fas	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	2	amod	_	LId=opportunus1
+3	opportunissimam	opportunus	ADJ	a-s---fas	Case=Acc|Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	LId=opportunus1
 4	nacti	nanciscor	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	LId=nanciscor1
 5	Agamemnoni	Agamemnon	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	LId=Agamemnon1
 6	verba	verbum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	LId=verbum1
@@ -12257,7 +12257,7 @@
 3	se	sui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	_
 4	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	LId=sum1
 5	culpae	culpa	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	obj	_	_
-6	proximam	propior	ADJ	a-s---fas	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+6	proximam	propior	ADJ	a-s---fas	Case=Acc|Degree=Abs|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
 7	.	.	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@80
@@ -13042,7 +13042,7 @@
 7	cum	cum	SCONJ	c--------	_	8	mark	_	_
 8	iaceret	jaceo	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	_
 9	spiritum	spiritus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
-10	extremum	exter	ADJ	a-s---mas	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	9	amod	_	_
+10	extremum	exter	ADJ	a-s---mas	Case=Acc|Degree=Abs|Gender=Masc|Number=Sing	9	amod	_	_
 11	trahens	traho	VERB	v-spp-mn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	8	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	u--------	_	8	punct	_	_
 13	Aper	aper	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	LId=aper1
@@ -13251,7 +13251,7 @@
 
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@172
 # text = Novissime indignata dum vult validius Inflare sese, rupto iacuit corpore.
-1	Novissime	novus	ADV	d-------s	Degree=Sup	10	advmod	_	_
+1	Novissime	novus	ADV	d-------s	Degree=Abs	10	advmod	_	_
 2	indignata	indignor	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	_	_
 3	dum	dum	SCONJ	c--------	_	4	mark	_	_
 4	vult	volo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	LId=volo1

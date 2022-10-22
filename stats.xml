@@ -41,9 +41,9 @@
     <feat name="Case" value="Loc" upos="NOUN">18</feat><!-- Romae, domi, militiae, animi -->
     <feat name="Case" value="Nom" upos="ADJ,AUX,NOUN,NUM,PRON,VERB">3597</feat><!-- qui, ego, quae, ille, quis, illa, tu, ipse, res, haec -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN,PRON,VERB">110</feat><!-- Cynthia, Catilina, conscripti, patres, Galle, amici, Quirites, Tulle, canis, infelix -->
+    <feat name="Degree" value="Abs" upos="ADJ,ADV">89</feat><!-- extremo, summa, Novissime, extrema, maxime, maximus, plurimum, proxima, proximam, proximis -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,VERB">162</feat><!-- minus, magis, prius, amplius, maiore, melior, plura, plus, diutius, maior -->
     <feat name="Degree" value="Pos" upos="ADJ,VERB">16</feat><!-- Aliam, Augustalia, Capenam, Hadriano, Marcia, Martiales, Narbonensi, Reducis, Romani, Romanorum -->
-    <feat name="Degree" value="Sup" upos="ADJ,ADV">89</feat><!-- extremo, summa, Novissime, extrema, maxime, maximus, plurimum, proxima, proximam, proximis -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,VERB">4627</feat><!-- quae, illa, res, rem, quam, ea, magna, mea, rei, vocem -->
     <feat name="Gender" value="Masc" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">5925</feat><!-- qui, mihi, me, ego, se, te, ille, tibi, quis, nos -->
     <feat name="Gender" value="Neut" upos="ADJ,AUX,NOUN,NUM,PRON,VERB">3061</feat><!-- quid, quod, hoc, quae, haec, omnia, id, nihil, caelo, bello -->
@@ -72,12 +72,12 @@
     <dep name="acl">303</dep>
     <dep name="advcl">1101</dep>
     <dep name="advmod">2460</dep>
-    <dep name="amod">2146</dep>
+    <dep name="amod">2145</dep>
     <dep name="appos">30</dep>
     <dep name="aux">4</dep>
     <dep name="case">1346</dep>
     <dep name="cc">1293</dep>
-    <dep name="ccomp">323</dep>
+    <dep name="ccomp">324</dep>
     <dep name="conj">1366</dep>
     <dep name="cop">363</dep>
     <dep name="csubj">140</dep>
@@ -87,12 +87,12 @@
     <dep name="nmod">1891</dep>
     <dep name="nsubj">2426</dep>
     <dep name="nummod">133</dep>
-    <dep name="obj">2873</dep>
+    <dep name="obj">2872</dep>
     <dep name="obl">2051</dep>
     <dep name="parataxis">206</dep>
     <dep name="punct">4483</dep>
     <dep name="root">2273</dep>
     <dep name="vocative">99</dep>
-    <dep name="xcomp">745</dep>
+    <dep name="xcomp">746</dep>
   </deps>
 </treebank>
