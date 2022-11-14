@@ -80,10 +80,16 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed adverbially used nominals from advmod to obl.
+  * Fixed adverbially used verbs from advmod to advcl.
+  * Fixed interjections from advmod to discourse.
+  * Fixed non-projective punctuation using Udapi ud.FixPunct.
+  * Fixed UPOS tags of copulae: from VERB to AUX.
+  * Degree=Sup has been renamed to Degree=Abs in the Latin treebanks.
 * 2018-04-15 v2.2
   * Repository renamed from UD_Latin to UD_Latin-Perseus.
   * Numerical suffixes of senses removed from lemmas and stored as LId attributes in the MISC column.
-
 * Since UD v1.2 new texts have been added. More information on the changes in the official github repository (see link above).
 
 
