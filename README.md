@@ -105,8 +105,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
+Contributors: Celano, Giuseppe G. A.; Zeman, Daniel; Gamba, Federica
 Contributing: elsewhere
-Contact: celano@informatik.uni-leipzig.de
+Contact: gamba@ufal.mff.cuni.cz
 ===============================================================================
 </pre>
