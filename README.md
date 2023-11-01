@@ -80,6 +80,24 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * Orthographic univerbation of the conjunctional clitics *que* and *ue*, introducing multi-word tokens.
+
+* 2023-05-15 v2.12
+  * Introduced missing UPOS tags: DET for determiners, PART for particles; modified deprels accordingly (e.g., `det`). Generalised the use of PROPN for proper nouns, and AUX for auxiiaries (mostly *sum*); modified deprels accordingly (e.g. `flat`/`flat:name` for proper nouns).
+  * Reannotated compound numerals (e.g. *viginti quattuor*) from `nummod` to `flat`.
+  * Replaced `iobj` with `obl`/`obl:arg`.
+  * Added `:relcl` subtype to `acl` relative clauses.
+  * Added `:abs` subtype for so-called ablativus absolutus, now annotated as `advcl:abs`.
+  * Replaced `parataxis` to `conj` when used for coordination.
+  * Restored correct order of conjunctions *neque* and *nec*, previously found in the text as *que ne* and *c ne*.
+  * Reattached conjunctions to the second conjunct instead of the first one.
+  * Added `:neg` subtype for negations such as *non*, now annotated as `advmod:neg`.
+  * Reannotated gerund and gerundive forms as participles (`VerbForm=Part`) with `Aspect=Prosp`, of supines as `VerbForm=Conv` with `Aspect=Prosp`; based on (Cecchini, 2021).
+  * Sistematically added `PronType` to pronouns.
+  * General improvement of morphological annotation. The following morphological features have been added if missing, corrected, or deleted if non relevant: `Aspect`, `Tense`, `Voice` for verbs; `Gender`; `Person` for pronouns.
+  * Overall, implementation of syntactic and morphologic harmonisation interventions as described in (Gamba & Zeman 2023a) and (Gamba & Zeman 2023b).
+
 * 2022-11-15 v2.11
   * Fixed adverbially used nominals from advmod to obl.
   * Fixed adverbially used verbs from advmod to advcl.
