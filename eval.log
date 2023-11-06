@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Latin-Perseus:
-commit e8ade1187ccc2d85006538e9c731425c728552c1
-Merge: e37b5c7 555f4fc
+commit a7adc04e71e6963e027b3ba1cc56e6f720102e68
+Merge: f8a3c62 f63c374
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 29186 of 29186 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.74737828449111.
+Size: counted 29221 of 29221 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.74977525774359.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,14 +15,14 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 19087 out of 29186 total words have one or more features.
+Features: 19087 out of 29221 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 28 out of 37 found in the corpus.
+Universal relations: 27 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        128
-Udapi: found 128 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 29186 words.
+               TOTAL        125
+Udapi: found 125 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 29221 words.
 Genres: found 3 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-test.conllu
 *** PASSED ***
@@ -32,11 +32,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.48839152604472) = 0.125228596421723
+(weight=0.256410256410256) * (score{size}=0.48856502475419) = 0.125273083270305
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.956143356403755) = 0.29419795581654
-(weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.69492530891349) * (availability=1) * (validity=1) = 0.69492530891349
+(weight=0.307692307692308) * (score{udapi}=0.957222545429657) = 0.294530013978356
+(weight=0.0769230769230769) * (score{udeprels}=0.583783783783784) = 0.0449064449064449
+(TOTAL score=0.693638652260687) * (availability=1) * (validity=1) = 0.693638652260687
 STARS = 3.5
-UD_Latin-Perseus	0.69492530891349	3.5
+UD_Latin-Perseus	0.693638652260687	3.5
