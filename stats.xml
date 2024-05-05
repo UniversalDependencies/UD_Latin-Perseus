@@ -74,24 +74,24 @@
     <feat name="Person[psor]" value="3" upos="DET">129</feat><!-- suis, sua, suo, suum, suam, suos, suas, suae, sui, suarum -->
     <feat name="Polarity" value="Neg" upos="PART,PRON">28</feat><!-- nihil, nil, non -->
     <feat name="Poss" value="Yes" upos="DET">393</feat><!-- mea, suis, sua, suo, suum, suam, tua, meo, meae, meam -->
-    <feat name="PronType" value="Con" upos="DET">122</feat><!-- alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros -->
+    <feat name="PronType" value="Con" upos="DET">135</feat><!-- alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros -->
     <feat name="PronType" value="Dem" upos="DET">723</feat><!-- haec, hoc, illa, ille, illi, ipse, illum, hanc, illis, his -->
-    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">347</feat><!-- quis, nihil, multa, nulla, nullo, quae, quicquam, quidam, quisque, quid -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">334</feat><!-- quis, nihil, multa, nulla, nullo, quae, quicquam, quidam, quisque, quid -->
     <feat name="PronType" value="Int" upos="PRON">83</feat><!-- quid, quis, quidnam, quo, Quem, ecquis, quae, quibus, quoius -->
     <feat name="PronType" value="Prs" upos="DET,PRON">1274</feat><!-- mihi, me, ego, se, te, tibi, eius, nos, sibi, tu -->
     <feat name="PronType" value="Rcp" upos="PRON">4</feat><!-- invicem -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON,SCONJ">527</feat><!-- qui, quae, quod, quam, quem, quibus, quos, quid, quo, quas -->
     <feat name="PronType" value="Tot" upos="DET">163</feat><!-- omnia, omnes, omnis, omnium, omnibus, omni, tota, totum, cuncta, omnem -->
     <feat name="Reflex" value="Yes" upos="PRON">130</feat><!-- se, sibi, sese, sui -->
-    <feat name="Tense" value="Fut" upos="AUX,VERB">296</feat><!-- erit, fore, eris, faciet, poterunt, curabo, dabo, dicet, venient, veniet -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">1804</feat><!-- erat, dixit, fuit, vidi, inquit, audivi, fecit, iussit, coepit, dedit -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">289</feat><!-- erit, eris, faciet, poterunt, curabo, dabo, dicet, venient, veniet, volent -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">1734</feat><!-- erat, dixit, fuit, vidi, inquit, audivi, fecit, iussit, coepit, dedit -->
     <feat name="Tense" value="Pqp" upos="AUX,VERB">220</feat><!-- aperuisset, fecerat, dixerat, habuerat, fuerat, iussisset, viderat, censuerat, ceperat, coeperat -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">2559</feat><!-- est, esse, habet, sunt, habere, sit, dicere, potest, facere, iubet -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">1856</feat><!-- est, habet, sunt, sit, potest, iubet, dicit, es, fit, inquit -->
     <feat name="Typo" value="Yes" upos="VERB">1</feat><!-- mitarentur -->
+    <feat name="VerbForm" value="Conv" upos="VERB">1</feat><!-- cubitum -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">4099</feat><!-- est, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit, audivi -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">780</feat><!-- esse, habere, dicere, facere, posse, ire, vivere, fore, fuisse, afferri -->
     <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,VERB">1293</feat><!-- dicens, dicentem, dicentes, sedentem, amantis, conscripti, scriptum, facta, falso, mota -->
-    <feat name="VerbForm" value="Sup" upos="VERB">1</feat><!-- cubitum -->
     <feat name="Voice" value="Act" upos="VERB">4451</feat><!-- habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, iussit -->
     <feat name="Voice" value="Pass" upos="VERB">1336</feat><!-- videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum -->
   </feats>
