@@ -290,7 +290,7 @@
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@257
 # text = Hunc quoque timore postquam complevit locum, Dolosa tuto condidit sese cavo.
 1	Hunc	hic	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-2	quoque	quoque	ADV	c--------	_	6	discourse	_	_
+2	quoque	quoque	PART	c--------	Form=Emp	6	advmod:emph	_	_
 3	timore	timor	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	obj	_	_
 4	postquam	postquam	SCONJ	c--------	_	5	mark	_	_
 5	complevit	compleo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -788,7 +788,7 @@
 3	singula	singuli	ADJ	m-p---na-	Case=Acc|Gender=Neut|Number=Plur|NumType=Dist	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	2	punct	_	_
 5	Cervi	cervus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
-6	quoque	quoque	ADV	c--------	_	9	discourse	_	_
+6	quoque	quoque	PART	c--------	Form=Emp	9	advmod:emph	_	_
 7	alta	altus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	LId=altus1
 8	conspicatur	conspicor	VERB	v3spid---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	cornua	cornu	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	SpaceAfter=No
@@ -3316,7 +3316,7 @@
 # sent_id = phi1221.phi007.perseus-lat1.tb.xml@21
 # text = Consulatum quoque tum annuum et perpetuum mihi delatum non recepi.
 1	Consulatum	consulatus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
-2	quoque	quoque	ADV	d--------	_	8	advmod	_	_
+2	quoque	quoque	PART	d--------	Form=Emp	8	advmod:emph	_	_
 3	tum	tum	ADV	d--------	AdvType=Tim	8	advmod:tmod	_	_
 4	annuum	annuus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	_
 5	et	et	CCONJ	c--------	_	6	cc	_	_
@@ -3452,7 +3452,7 @@
 8	et	et	CCONJ	c--------	_	9	cc	_	_
 9	sacerdotes	sacerdos	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	LId=sacerdos1
 10	quinto	quintus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	LId=quintus1
-11	quoque	quisque	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|PronType=Ind	12	nmod	_	_
+11	quoque	quisque	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|PronType=Ind	12	det	_	_
 12	anno	annus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
 13	senatus	senatus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 14	decrevit	decerno	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -5806,7 +5806,7 @@
 # sent_id = phi1348.abo012.perseus-lat1.tb.xml@246
 # text = comitiorum quoque pristinum ius reduxit ac multiplici poena coercito ambitu, Fabianis et Scaptiensibus tribulibus suis die comitiorum, ne quid a quoquam candidato desiderarent, singula milia nummum a se diuidebat.
 1	comitiorum	comitium	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	_
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	_
 3	pristinum	pristinus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	amod	_	LId=pristinus1
 4	ius	ius	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LId=jus2
 5	reduxit	reduco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -6140,7 +6140,7 @@
 2	epistulas	epistula	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	18	obl	_	_
 3	omnis	omnis	DET	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	2	det	_	_
 4	horarum	hora	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	LId=hora1
-5	quoque	quoque	ADV	d--------	_	4	advmod	_	_
+5	quoque	quoque	PART	d--------	Form=Emp	4	advmod:emph	_	_
 6	momenta	momentum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	18	obj	_	_
 7	nec	neque	CCONJ	c--------	_	9	advmod:emph	_	_
 8	diei	dies	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -7251,7 +7251,7 @@
 # sent_id = phi1351.phi005.perseus-lat1.tb.xml@177
 # text = legati quoque ( nam senatus electionem Galbae permiserat ) foeda inconstantia nominati, excusati, substituti, ambitu remanendi aut eundi, ut quemque metus vel spes impulerat.
 1	legati	lego	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	12	nsubj:pass	_	LId=lego1|TraditionalMood=Participium|TraditionalTense=Perfectum
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	_
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	_
 3	(	(	PUNCT	u--------	_	8	punct	_	_
 4	nam	nam	PART	c--------	_	8	discourse	_	_
 5	senatus	senatus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -13610,7 +13610,7 @@
 9	quorum	qui	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	10	nmod	_	LId=qui1
 10	numero	numerus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	LId=numerus1
 11	me	ego	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	LId=ego1
-12	quoque	quoque	ADV	d--------	_	11	advmod	_	LId=quoque1
+12	quoque	quoque	PART	d--------	Form=Emp	11	advmod:emph	_	LId=quoque1
 13	terra	terra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	LId=terra1
 14	tegat	tego	VERB	v3spsa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	LId=tego1|SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 15	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
@@ -15073,7 +15073,7 @@
 6	mores	mos	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No|LId=mos1
 7	,	,	PUNCT	u--------	_	11	punct	_	LId=comma1
 8	tu	tu	PRON	p-s---fn-	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj:pass	_	LId=tu1
-9	quoque	quoque	ADV	d--------	_	8	advmod	_	LId=quoque1
+9	quoque	quoque	PART	d--------	Form=Emp	8	advmod:emph	_	LId=quoque1
 10	uti	ut	SCONJ	d--------	_	11	mark	_	_
 11	fieres	fio	VERB	v2sisp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	4	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 12	nobilis	nobilis	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	LId=nobilis1
@@ -22310,7 +22310,7 @@
 # sent_id = phi0690.phi003.perseus-lat1.tb.xml@17
 # text = Tu quoque magnam partem opere in tanto, sineret dolor, Icare, haberes.
 1	Tu	tu	PRON	p-s---mn-	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	LId=tu1
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	LId=quoque1
 3	magnam	magnus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	LId=magnus1
 4	partem	pars	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	LId=pars1
 5	opere	opus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	LId=opus1

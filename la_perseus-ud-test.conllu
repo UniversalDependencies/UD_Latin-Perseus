@@ -2,7 +2,7 @@
 # sent_id = phi0690.phi003.perseus-lat1.tb.xml@41
 # text = Te quoque magna manent regnis penetralia nostris:
 1	Te	tu	PRON	p-s---fa-	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	LId=tu1
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	LId=quoque1
 3	magna	magnus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	amod	_	LId=magnus1
 4	manent	maneo	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=maneo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	regnis	regnum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	obl	_	LId=regnum1
@@ -1337,7 +1337,7 @@
 13	pecudes	pecus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	obl	_	LId=pecus2
 14	et	et	CCONJ	c--------	_	18	cc	_	LId=et1
 15	nunc	nunc	ADV	d--------	AdvType=Tim	18	advmod:tmod	_	LId=nunc1
-16	quoque	quoque	ADV	d--------	_	18	advmod	_	LId=quoque1
+16	quoque	quoque	PART	d--------	Form=Emp	18	advmod:emph	_	LId=quoque1
 17	sanguine	sanguis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	LId=sanguis1
 18	gaudet	gaudeo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LId=gaudeo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 19	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
@@ -1701,7 +1701,7 @@
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@83
 # text = deerant quoque litora ponto.
 1	deerant	desum	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=desum1|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	LId=quoque1
 3	litora	litus	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	LId=litus3
 4	ponto	pontus	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No|LId=pontus1
 5	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
@@ -1885,7 +1885,7 @@
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@106
 # text = Haec quoque adhuc vitae non est fiducia nostrae certa satis;
 1	Haec	hic	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	LId=hic1
-2	quoque	quoque	ADV	d--------	_	7	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	7	advmod:emph	_	LId=quoque1
 3	adhuc	adhuc	ADV	d--------	_	9	advmod	_	LId=adhuc1
 4	vitae	vita	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	LId=vita1
 5	non	non	PART	d--------	_	9	advmod:neg	_	LId=non1
@@ -2311,7 +2311,7 @@
 4	,	,	PUNCT	u--------	_	13	punct	_	LId=comma1
 5	sed	sed	CCONJ	c--------	_	13	cc	_	LId=sed1
 6	te	tu	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=2|PronType=Prs	13	obj	_	LId=tu1
-7	quoque	quoque	ADV	d--------	_	6	advmod	_	SpaceAfter=No|LId=quoque1
+7	quoque	quoque	PART	d--------	Form=Emp	6	advmod:emph	_	SpaceAfter=No|LId=quoque1
 8	,	,	PUNCT	u--------	_	10	punct	_	LId=comma1
 9	maxime	magnus	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	10	amod	_	LId=magnus1
 10	Python	Python	PROPN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	13	vocative	_	SpaceAfter=No|LId=Python1
@@ -2809,7 +2809,7 @@
 11	reliquit	relinquo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	LId=relinquo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 12	,	,	PUNCT	u--------	_	15	punct	_	LId=comma1
 13	tum	tum	ADV	d--------	AdvType=Tim	15	advmod:tmod	_	LId=tum1
-14	quoque	quoque	ADV	d--------	_	13	advmod	_	LId=quoque1
+14	quoque	quoque	PART	d--------	Form=Emp	13	advmod:emph	_	LId=quoque1
 15	visa	video	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	6	conj	_	LId=video1|TraditionalMood=Participium|TraditionalTense=Perfectum
 16	decens	decet	VERB	v-sppafn-	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	15	xcomp	_	LId=decet1|SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
 17	.	.	PUNCT	u--------	_	6	punct	_	LId=punc1
@@ -2892,7 +2892,7 @@
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@208
 # text = Hanc quoque Phoebus amat, positaque in stipite dextra sentit adhuc trepidare novo sub cortice pectus conplexusque suis ramos, ut membra, lacertis oscula dat ligno:
 1	Hanc	hic	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	obj	_	LId=hic1
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	LId=quoque1
 3	Phoebus	Phoebus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=Phoebus1
 4	amat	amo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=amo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	,	,	PUNCT	u--------	_	6	punct	_	LId=comma1
@@ -3212,7 +3212,7 @@
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@235
 # text = Bos quoque formosa est.
 1	Bos	bos	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LId=bos1
-2	quoque	quoque	ADV	d--------	_	3	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	3	advmod:emph	_	LId=quoque1
 3	formosa	formosus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	LId=formosus1
 4	est	sum	AUX	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LId=sum1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
@@ -3597,7 +3597,7 @@
 # sent_id = phi0959.phi006.perseus-lat1.tb.xml@283
 # text = Sic quoque fallebat.
 1	Sic	sic	ADV	d--------	_	3	advmod	_	LId=sic1
-2	quoque	quoque	ADV	d--------	_	3	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	3	advmod:emph	_	LId=quoque1
 3	fallebat	fallo	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=fallo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 4	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
 
@@ -5463,7 +5463,7 @@
 # sent_id = phi0972.phi001.perseus-lat1.xml@172
 # text = Inclinatis quoque rebus suis, cum timeret ne creditores ilium conturbare existimarent, hoc titulo auctionem proscripsit:
 1	Inclinatis	inclino	VERB	v-prppfb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	17	advcl:abs	_	LId=inclino1|TraditionalMood=Participium|TraditionalTense=Perfectum
-2	quoque	quoque	ADV	d--------	_	17	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	17	advmod:emph	_	LId=quoque1
 3	rebus	res	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	1	nsubj:pass	_	LId=res1
 4	suis	suus	DET	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No|LId=suus1
 5	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
@@ -10296,7 +10296,7 @@
 7	suam	suus	DET	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	SpaceAfter=No|LId=suus1
 8	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
 9	Carioni	Cario	PROPN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	4	conj	_	LId=Cario1
-10	quoque	quoque	ADV	d--------	_	9	advmod	_	LId=quoque1
+10	quoque	quoque	PART	d--------	Form=Emp	9	advmod:emph	_	LId=quoque1
 11	insulam	insula	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	LId=insula1
 12	et	et	CCONJ	c--------	_	14	advmod:emph	_	LId=et1
 13	vicesimam	vicesimus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	LId=vicesimus1
@@ -10973,7 +10973,7 @@
 # text = Immo puer quoque officiosus urceolum frigidum ad malam eius admovit, super quem incumbens Fortunata gemere ac flere coepit.
 1	Immo	immo	ADV	d--------	_	10	advmod	_	LId=immo1
 2	puer	puer	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LId=puer1
-3	quoque	quoque	ADV	d--------	_	2	advmod	_	LId=quoque1
+3	quoque	quoque	PART	d--------	Form=Emp	2	advmod:emph	_	LId=quoque1
 4	officiosus	officiosus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	LId=officiosus1
 5	urceolum	urceolum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	LId=urceolum1
 6	frigidum	frigidus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	amod	_	LId=frigidus1
@@ -12001,7 +12001,7 @@
 # text = — Vos quoque, o cives, ait, Hoc sustinete, maius ne veniat malum.
 1	—	—	PUNCT	u--------	_	11	punct	_	_
 2	Vos	tu	PRON	p-p---mv-	Case=Voc|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
-3	quoque	quoque	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+3	quoque	quoque	PART	d--------	Form=Emp	2	advmod:emph	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	6	punct	_	_
 5	o	o	PART	e--------	_	6	advmod:emph	_	LId=o2
 6	cives	civis	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
@@ -13147,7 +13147,7 @@
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@141
 # text = Hoc quoque consumpto flagitari validius Cubile coepit.
 1	Hoc	hic	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj:pass	_	_
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	_
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	_
 3	consumpto	consumo	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 4	flagitari	flagito	VERB	v--pnp---	Aspect=Imp|VerbForm=Inf|Voice=Pass	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	validius	validus	ADV	d-------c	Degree=Cmp	4	advmod	_	_
@@ -13183,7 +13183,7 @@
 8	Sed	sed	CCONJ	c--------	_	13	cc	_	_
 9	ad	ad	ADP	r--------	_	10	case	_	_
 10	perniciem	pernicies	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
-11	quoque	quoque	ADV	d--------	_	13	advmod	_	_
+11	quoque	quoque	PART	d--------	Form=Emp	13	advmod:emph	_	_
 12	mortalis	mortalis	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
 13	devocat	devoco	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 14	.	.	PUNCT	u--------	_	6	punct	_	_
