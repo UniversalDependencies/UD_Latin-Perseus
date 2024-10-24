@@ -10116,9 +10116,9 @@
 # text = Non potest esse pretiosior homo.
 1	Non	non	PART	d--------	_	2	advmod:neg	_	LId=non1
 2	potest	possum	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=possum1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-3	esse	sum	AUX	v--pna---	Aspect=Imp|VerbForm=Inf	5	cop	_	LId=sum1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
-4	pretiosior	pretiosus	ADJ	a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	5	amod	_	LId=pretiosus1
-5	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No|LId=homo1
+3	esse	sum	AUX	v--pna---	Aspect=Imp|VerbForm=Inf	4	cop	_	LId=sum1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	pretiosior	pretiosus	ADJ	a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	2	xcomp	_	LId=pretiosus1
+5	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No|LId=homo1
 6	.	.	PUNCT	u--------	_	2	punct	_	LId=punc1
 
 # sent_id = phi0972.phi001.perseus-lat1.xml@913
