@@ -6902,7 +6902,7 @@
 # text = Invenit tamen alias nenias, et libentissime pingit.
 1	Invenit	invenio	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=invenio1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 2	tamen	tamen	ADV	d--------	_	1	advmod	_	LId=tamen1
-3	alias	alius	DET a-p---fa-	Case=Acc|Gender=Fem|Number=Plur|PronType=Con	4	det	_	LId=Alius1
+3	alias	alius	DET	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur|PronType=Con	4	det	_	LId=Alius1
 4	nenias	nenia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No|LId=nenia1
 5	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
 6	et	et	CCONJ	c--------	_	8	cc	_	LId=et1
