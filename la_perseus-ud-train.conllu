@@ -15,7 +15,7 @@
 12	debeas	debeo	VERB	v2spsa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 13	,	,	PUNCT	u--------	_	16	punct	_	_
 14	Modestis	modestus	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	16	obl:arg	_	_
-15	etiam	etiam	ADV	c--------	_	19	advmod	_	_
+15	etiam	etiam	ADV	c--------	_	19	advmod:emph	_	_
 16	offerre	offero	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	10	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 17	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	19	obj	_	LId=qui1
 18	non	non	PART	d--------	_	19	advmod:neg	_	_
@@ -709,7 +709,7 @@
 # sent_id = phi0975.phi001.perseus-lat1.tb.xml@305
 # text = transit etiam vilicus, Nec ille quicquam sentit.
 1	transit	transeo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-2	etiam	etiam	ADV	c--------	_	3	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	3	advmod:emph	_	_
 3	vilicus	vilicus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	8	punct	_	_
 5	Nec	neque	CCONJ	c--------	_	7	advmod:emph	_	_
@@ -2249,7 +2249,7 @@
 1	Hoc	hic	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
 2	admonere	admoneo	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 3	simplices	simplex	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
-4	etiam	etiam	ADV	c--------	_	3	advmod	_	_
+4	etiam	etiam	ADV	c--------	_	3	advmod:emph	_	_
 5	potest	possum	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	,	,	PUNCT	u--------	_	11	punct	_	_
 7	Opinione	opinio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	_
@@ -3461,7 +3461,7 @@
 # sent_id = phi1221.phi007.perseus-lat1.tb.xml@35
 # text = Privatim etiam et municipatim universi cives unanimiter continenter apud omnia pulvinaria pro valetudine mea supplicaverunt.
 1	Privatim	privatim	ADV	d--------	_	15	advmod	_	_
-2	etiam	etiam	ADV	c--------	_	4	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	4	advmod:emph	_	_
 3	et	et	CCONJ	c--------	_	4	cc	_	_
 4	municipatim	municipatim	ADV	d--------	_	1	conj	_	_
 5	universi	universus	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	_
@@ -4153,7 +4153,7 @@
 3	Antonius	Antonius	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	5	punct	_	_
 5	despiciens	despicio	VERB	v-spp-mn-	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	24	advcl	_	TraditionalMood=Participium|TraditionalTense=Praesens
-6	etiam	etiam	ADV	c--------	_	9	advmod	_	_
+6	etiam	etiam	ADV	c--------	_	9	advmod:emph	_	_
 7	maternam	maternus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	LId=maternus1
 8	Augusti	Augustus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	LId=Augustus2
 9	originem	origo	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No|LId=origo1
@@ -4335,7 +4335,7 @@
 20	paucissimis	paucus	DET	a-p---mbs	Case=Abl|Degree=Abs|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	21	det	_	_
 21	comitibus	comes	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	25	obl	_	_
 22	naufragio	naufragium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	24	nsubj:pass	_	_
-23	etiam	etiam	ADV	c--------	_	22	advmod	_	_
+23	etiam	etiam	ADV	c--------	_	22	advmod:emph	_	_
 24	facto	facio	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	25	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 25	subsecutus	subsequor	VERB	v-srpdmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	28	advcl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Perfectum
 26	,	,	PUNCT	u--------	_	25	punct	_	_
@@ -4344,7 +4344,7 @@
 29	,	,	PUNCT	u--------	_	30	punct	_	_
 30	approbata	approbo	VERB	v-srppfb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	28	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 31	cito	cieo	ADV	d--------	_	30	advmod	_	_
-32	etiam	etiam	ADV	c--------	_	34	advmod	_	_
+32	etiam	etiam	ADV	c--------	_	34	advmod:emph	_	_
 33	morum	mos	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	34	nmod	_	_
 34	indole	indoles	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	30	nsubj:pass	_	_
 35	super	super	ADP	r--------	_	37	case	_	LId=super2
@@ -4764,7 +4764,7 @@
 6	magnopere	magnopere	ADV	d--------	_	7	advmod	_	_
 7	cupiebat	cupio	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 8	,	,	PUNCT	u--------	_	7	punct	_	_
-9	etiam	etiam	ADV	c--------	_	10	advmod	_	_
+9	etiam	etiam	ADV	c--------	_	10	advmod:emph	_	_
 10	psyllos	Psylli	PROPN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
 11	admouit	admoveo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 12	,	,	PUNCT	u--------	_	17	punct	_	LId=punc1
@@ -4823,7 +4823,7 @@
 # sent_id = phi1348.abo012.perseus-lat1.tb.xml@104
 # text = Delmatico etiam uulnera excepit, una acie dextrum genu lapide ictus, altera et crus et utrumque brachium ruina pontis consauciatus.
 1	Delmatico	Delmaticus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
-2	etiam	etiam	ADV	c--------	_	3	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	3	advmod:emph	_	_
 3	uulnera	vulnus	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 4	excepit	excipio	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 5	,	,	PUNCT	u--------	_	11	punct	_	_
@@ -5353,7 +5353,7 @@
 7	ratione	ratio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obj	_	_
 8	potuit	possum	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 9	,	,	PUNCT	u--------	_	8	punct	_	_
-10	etiam	etiam	ADV	c--------	_	12	advmod	_	_
+10	etiam	etiam	ADV	c--------	_	12	advmod:emph	_	_
 11	in	in	ADP	r--------	_	12	case	_	_
 12	posterum	posterus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
 13	praestitit	praesto	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=praesto2|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -5375,7 +5375,7 @@
 12	non	non	PART	d--------	_	13	advmod:neg	_	_
 13	sufficientibus	sufficio	VERB	v-ppp-nb-	Aspect=Imp|Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act	11	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Praesens
 14	duobus	duo	NUM	m-p---nb-	Case=Abl|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	13	nsubj	_	_
-15	etiam	etiam	ADV	c--------	_	16	advmod	_	_
+15	etiam	etiam	ADV	c--------	_	16	advmod:emph	_	_
 16	tertio	tertius	ADJ	m-s---nb-	Case=Abl|Gender=Neut|Number=Sing|NumType=Ord	17	obj	_	_
 17	indigere	indigeo	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 18	;	;	PUNCT	u--------	_	8	punct	_	_
@@ -5479,7 +5479,7 @@
 # sent_id = phi1348.abo012.perseus-lat1.tb.xml@196
 # text = nonnulla etiam ex antiquis caerimonis paulatim abolita restituit, ut Salutis augurium, Diale flaminium, sacrum Lupercale, ludos Saeculares et Compitalicios.
 1	nonnulla	nonnullus	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	8	obj	_	_
-2	etiam	etiam	ADV	c--------	_	1	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	1	advmod:emph	_	_
 3	ex	ex	ADP	r--------	_	5	case	_	_
 4	antiquis	antiquus	ADJ	a-p---nb-	Case=Abl|Gender=Neut|Number=Plur	5	amod	_	_
 5	caerimonis	caerimonium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	1	nmod	_	_
@@ -5661,7 +5661,7 @@
 # sent_id = phi1348.abo012.perseus-lat1.tb.xml@232
 # text = exegit etiam, ut quotiens consulatus sibi daretur, binos pro singulis collegas haberet, nec optinuit, reclamantibus cunctis satis maiestatem eius imminui, quod honorem eum non solus sed cum altero gereret.
 1	exegit	exigo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-2	etiam	etiam	ADV	c--------	_	1	advmod	_	SpaceAfter=No
+2	etiam	etiam	ADV	c--------	_	1	advmod:emph	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	4	punct	_	_
 4	ut	ut	SCONJ	c--------	_	14	mark	_	_
 5	quotiens	quotiens	ADV	d--------	_	8	mark	_	_
@@ -6264,7 +6264,7 @@
 
 # sent_id = phi1348.abo012.perseus-lat1.tb.xml@338
 # text = etiam discedens eodem modo sedentibus ualere dicebat.
-1	etiam	etiam	ADV	c--------	_	2	advmod	_	_
+1	etiam	etiam	ADV	c--------	_	2	advmod:emph	_	_
 2	discedens	discedo	VERB	v-spp-mn-	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	advcl	_	TraditionalMood=Participium|TraditionalTense=Praesens
 3	eodem	idem	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	modo	modus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	_
@@ -6449,7 +6449,7 @@
 11	seditionibus	seditio	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
 12	,	,	PUNCT	u--------	_	16	punct	_	_
 13	ipsa	ipse	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
-14	etiam	etiam	ADV	c--------	_	15	advmod	_	_
+14	etiam	etiam	ADV	c--------	_	15	advmod:emph	_	_
 15	pace	pax	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	16	obl	_	_
 16	saevum	saevus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	SpaceAfter=No
 17	.	.	PUNCT	u--------	_	2	punct	_	_
@@ -6479,7 +6479,7 @@
 13	,	,	PUNCT	u--------	_	14	punct	_	_
 14	mota	moveo	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	1	conj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 15	prope	prope	ADV	d--------	_	14	advmod	_	_
-16	etiam	etiam	ADV	c--------	_	18	advmod	_	_
+16	etiam	etiam	ADV	c--------	_	18	advmod:emph	_	_
 17	Parthorum	Parthi	PROPN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
 18	arma	arma	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	14	nsubj:pass	_	_
 19	falsi	fallo	VERB	v-srppmg-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	20	nmod	_	TraditionalMood=Participium|TraditionalTense=Perfectum
@@ -6694,7 +6694,7 @@
 10	habitae	habeo	VERB	v-prppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Perfectum
 11	,	,	PUNCT	u--------	_	23	punct	_	_
 12	quaedam	quidam	DET	p-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	23	nsubj	_	_
-13	etiam	etiam	ADV	c--------	_	15	advmod	_	_
+13	etiam	etiam	ADV	c--------	_	15	advmod:emph	_	_
 14	finibus	finis	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	15	nsubj:pass	_	_
 15	ademptis	adimo	VERB	v-prppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	23	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 16	pari	par	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	17	amod	_	_
@@ -6722,7 +6722,7 @@
 1	Fonteium	Fonteius	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
 2	Capitonem	Capito	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	flat:name	_	LId=Capito2
 3	occisum	occido	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	11	ccomp	_	LId=occido1|TraditionalMood=Participium|TraditionalTense=Perfectum
-4	etiam	etiam	ADV	c--------	_	8	advmod	_	_
+4	etiam	etiam	ADV	c--------	_	8	advmod:emph	_	_
 5	qui	qui	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	8	nsubj	_	LId=qui1
 6	queri	queror	VERB	v--pnd---	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	non	non	PART	d--------	_	8	advmod:neg	_	_
@@ -7065,7 +7065,7 @@
 4	providendum	provideo	VERB	v-s-g-nn-	Aspect=Prosp|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Gerundivum
 5	est	sum	AUX	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	LId=edo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	ne	ne	SCONJ	d--------	_	10	mark	_	LId=ne1
-7	etiam	etiam	ADV	c--------	_	8	advmod	_	_
+7	etiam	etiam	ADV	c--------	_	8	advmod:emph	_	_
 8	a	ab	ADP	r--------	_	9	case	_	_
 9	bonis	bonus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	10	obl	_	_
 10	desideretur	desidero	VERB	v3spsp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	csubj:pass	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
@@ -7425,7 +7425,7 @@
 19	omnes	omnis	DET	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	20	det	_	LId=omnis1
 20	tribus	tribus	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	LId=tribus1
 21	terrae	terra	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	LId=terra1
-22	etiam	etiam	ADV	d--------	_	15	advmod	_	LId=etiam1
+22	etiam	etiam	ADV	d--------	_	15	advmod:emph	_	LId=etiam1
 23	amen	amen	ADV	d--------	_	15	advmod	_	SpaceAfter=No|LId=amen1
 24	.	.	PUNCT	u--------	_	2	punct	_	LId=punc1
 
@@ -8690,7 +8690,7 @@
 3	signa	signum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	LId=signum1
 4	magna	magnus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	LId=magnus1
 5	ut	ut	SCONJ	c--------	_	8	mark	_	LId=ut1
-6	etiam	etiam	ADV	d--------	_	8	advmod	_	LId=etiam1
+6	etiam	etiam	ADV	d--------	_	8	advmod:emph	_	LId=etiam1
 7	ignem	ignis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	LId=ignis1
 8	faceret	facio	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	LId=facio1|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 9	de	de	ADP	r--------	_	10	case	_	LId=de1
@@ -10327,7 +10327,7 @@
 # text = quam diu etiam furor iste tuus nos eludet?
 1	quam	quam	ADV	d--------	_	2	advmod	_	LId=quam1
 2	diu	diu	ADV	d--------	_	8	advmod	_	LId=diu1
-3	etiam	etiam	ADV	c--------	_	8	advmod	_	LId=etiam1
+3	etiam	etiam	ADV	c--------	_	8	advmod:emph	_	LId=etiam1
 4	furor	furor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	LId=furor2
 5	iste	iste	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	LId=iste1
 6	tuus	tuus	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	4	det	_	_
@@ -10688,7 +10688,7 @@
 2	ego	ego	PRON	p-s---mn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	LId=ego1
 3	omnia	omnis	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	9	obj	_	_
 4	vixdum	vix	ADV	d--------	_	8	advmod	_	_
-5	etiam	etiam	ADV	d--------	_	8	advmod	_	LId=etiam1
+5	etiam	etiam	ADV	d--------	_	8	advmod:emph	_	LId=etiam1
 6	coetu	coitus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	8	nsubj:pass	_	LId=coitus2
 7	vestro	vester	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	6	det	_	_
 8	dimisso	dimitto	VERB	v-srppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Perfectum
@@ -10957,7 +10957,7 @@
 11-12	nonne	_	_	_	_	_	_	_	LId=nonne1
 11	non	non	PART	d--------	Polarity=Neg	19	advmod:neg	_	_
 12	ne	ne	PART	_	PartType=Int	19	discourse	_	_
-13	etiam	etiam	ADV	d--------	_	19	advmod	_	LId=etiam1
+13	etiam	etiam	ADV	d--------	_	19	advmod:emph	_	LId=etiam1
 14	alio	alius	DET	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing|PronType=Con	16	det	_	LId=alius2
 15	incredibili	incredibilis	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	16	amod	_	LId=incredibilis1
 16	scelere	scelus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	19	obl	_	LId=scelus1
@@ -11206,7 +11206,7 @@
 14	impetrare	impetro	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	LId=impetro1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	debeat	debeo	VERB	v3spsa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=debeo1|SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 16	,	,	PUNCT	u--------	_	18	punct	_	LId=comma1
-17	etiam	etiam	ADV	c--------	_	18	advmod	_	_
+17	etiam	etiam	ADV	c--------	_	18	advmod:emph	_	_
 18	si	si	SCONJ	c--------	_	22	mark	_	LId=si1
 19	vim	vis	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	LId=vis1
 20	adhibere	adhibeo	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	22	xcomp	_	LId=adhibeo1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
@@ -11581,7 +11581,7 @@
 # text = at persaepe etiam privati in hac re publica perniciosos civis morte multarunt.
 1	at	at	CCONJ	c--------	_	12	cc	_	LId=at1
 2	persaepe	persaepe	ADV	d--------	_	12	advmod	_	LId=persaepe1
-3	etiam	etiam	ADV	c--------	_	4	advmod	_	_
+3	etiam	etiam	ADV	c--------	_	4	advmod:emph	_	_
 4	privati	privo	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	12	nsubj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 5	in	in	ADP	r--------	_	7	case	_	LId=in1
 6	hac	hic	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	LId=hic1
@@ -11847,7 +11847,7 @@
 20	invidiae	invidia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	LId=invidia1
 21	meae	meus	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	20	det	_	_
 22	verum	verus	SCONJ	c--------	_	24	cc	_	LId=verus1
-23	etiam	etiam	ADV	c--------	_	24	advmod	_	LId=etiam1
+23	etiam	etiam	ADV	c--------	_	24	advmod:emph	_	LId=etiam1
 24	vitae	vita	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	20	conj	_	LId=vita1
 25	periculo	periculum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	26	obl	_	LId=periculum1
 26	sustulissem	tollo	VERB	v1slsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	LId=tollo1|SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Plusquamperfectum
@@ -11898,7 +11898,7 @@
 11	curiam	curia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No|LId=curia1
 12	,	,	PUNCT	u--------	_	17	punct	_	LId=comma1
 13	quos	qui	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	17	nsubj	_	LId=qui1
-14	etiam	etiam	ADV	c--------	_	17	advmod	_	_
+14	etiam	etiam	ADV	c--------	_	17	advmod:emph	_	_
 15	in	in	ADP	r--------	_	16	case	_	LId=in1
 16	senatum	senatus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	LId=senatus1
 17	venire	venio	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	LId=venio1|SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
@@ -11973,7 +11973,7 @@
 # sent_id = phi0474.phi013.perseus-lat1.tb.xml@235
 # text = unum etiam nunc concedam:
 1	unum	unus	NUM	m-s---na-	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	4	obj	_	_
-2	etiam	etiam	ADV	c--------	_	3	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	3	advmod:emph	_	_
 3	nunc	nunc	ADV	d--------	AdvType=Tim	4	advmod:tmod	_	LId=nunc1
 4	concedam	concedo	VERB	v1sfia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=concedo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 5	:	:	PUNCT	u--------	_	4	punct	_	LId=punc1
@@ -12113,7 +12113,7 @@
 7	ex	ex	ADP	r--------	_	8	case	_	LId=ex1
 8	urbe	urbs	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	17	obl	_	LId=urbs1
 9	verum	verus	SCONJ	c--------	_	12	cc	_	LId=verus1
-10	etiam	etiam	ADV	c--------	_	12	advmod	_	_
+10	etiam	etiam	ADV	c--------	_	12	advmod:emph	_	_
 11	ex	ex	ADP	r--------	_	12	case	_	LId=ex1
 12	agris	ager	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	8	conj	_	LId=ager1
 13	ingentem	ingens	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	amod	_	LId=ingens1
@@ -12225,7 +12225,7 @@
 12	,	,	PUNCT	u--------	_	11	punct	_	LId=comma1
 13	non	non	PART	d--------	_	14	advmod:neg	_	LId=non1
 14	breve	brevis	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	amod	_	LId=brevis1
-15	nescio	nescio	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl	_	LId=nescio1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+15	nescio	nescio	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl	_	LId=nescio1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 16	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	17	det	_	LId=qui1
 17	tempus	tempus	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	21	obl	_	LId=tempus1
 18	sed	sed	CCONJ	c--------	_	20	cc	_	LId=sed1
@@ -12325,7 +12325,7 @@
 3	videlicet	videlicet	ADV	d--------	_	12	advmod	_	LId=videlicet1
 4	timidus	timidus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	LId=timidus1
 5	aut	aut	CCONJ	c--------	_	7	cc	_	LId=aut1
-6	etiam	etiam	ADV	c--------	_	7	advmod	_	_
+6	etiam	etiam	ADV	c--------	_	7	advmod:emph	_	_
 7	permodestus	permodestus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LId=permodestus1
 8	vocem	vox	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	LId=vox1
 9	consulis	consul	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	LId=consul1
@@ -12367,7 +12367,7 @@
 # sent_id = phi0474.phi013.perseus-lat1.tb.xml@276
 # text = quin etiam principes eius ordinis partem illam subselliorum ad quam ille accesserat nudam atque inanem reliquerunt.
 1	quin	quin	SCONJ	c--------	_	16	mark	_	LId=quin1
-2	etiam	etiam	ADV	c--------	_	1	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	1	advmod:emph	_	_
 3	principes	princeps	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
 4	eius	is	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	LId=is1
 5	ordinis	ordo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LId=ordo1
@@ -12756,7 +12756,7 @@
 # sent_id = phi0620.phi001.perseus-lat1.tb.xml@6
 # text = ille etiam Hylaei percussus vulnere rami saucius Arcadiis rupibus ingemuit.
 1	ille	ille	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	LId=ille1
-2	etiam	etiam	ADV	c--------	_	10	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	10	advmod:emph	_	_
 3	Hylaei	Hylaeus	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	LId=Hylaeus1
 4	percussus	percutio	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	advcl	_	LId=percutio1|TraditionalMood=Participium|TraditionalTense=Perfectum
 5	vulnere	vulnus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LId=vulnus1
@@ -13087,7 +13087,7 @@
 2	ego	ego	PRON	p-s---mn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	SpaceAfter=No|LId=ego1
 3	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
 4	nondum	nondum	ADV	d--------	_	7	advmod	_	LId=nondum1
-5	etiam	etiam	ADV	c--------	_	4	advmod	_	_
+5	etiam	etiam	ADV	c--------	_	4	advmod:emph	_	_
 6	sensus	sensus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	LId=sensus2
 7	deperditus	deperdo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	12	advcl	_	LId=deperdo1|TraditionalMood=Participium|TraditionalTense=Perfectum
 8	omnis	omnis	DET	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	6	det	_	SpaceAfter=No
@@ -13181,7 +13181,7 @@
 12	qualis	qualis	DET	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	14	obj	_	_
 13	semper	semper	ADV	d--------	AdvType=Tim	15	advmod:tmod	_	LId=semper1
 14	habere	habeo	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	15	ccomp	_	LId=habeo1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
-15	iubes	iubeo	VERB	v2spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	LId=jubeo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+15	iubes	iubeo	VERB	v2spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	LId=jubeo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 16	!	!	PUNCT	u--------	_	4	punct	_	LId=punc1
 
 # sent_id = phi0620.phi001.perseus-lat1.tb.xml@52
@@ -14378,7 +14378,7 @@
 # text = an te nescio quis simulatis ignibus hostis sustulit e nostris, Cynthia, carminibus?
 1	an	an	PART	c--------	_	8	discourse	_	LId=an1
 2	te	tu	PRON	p-s---fa-	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obj	_	LId=tu1
-3	nescio	nescio	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	LId=nescio1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	nescio	nescio	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	LId=nescio1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 4	quis	quis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	7	det	_	LId=quis1
 5	simulatis	simulo	VERB	v-prppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	8	advcl:abs	_	LId=simulo1|TraditionalMood=Participium|TraditionalTense=Perfectum
 6	ignibus	ignis	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	5	nsubj:pass	_	LId=ignis1
@@ -15376,7 +15376,7 @@
 # sent_id = phi0620.phi001.perseus-lat1.tb.xml@289
 # text = quin etiam absenti prosunt tibi, Cynthia, venti:
 1	quin	quin	SCONJ	c--------	_	4	cc	_	LId=quin1
-2	etiam	etiam	ADV	c--------	_	4	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	4	advmod:emph	_	_
 3	absenti	absum	VERB	v-sppafd-	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	nmod	_	LId=absum1|TraditionalMood=Participium|TraditionalTense=Praesens
 4	prosunt	prosum	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=prosum1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	tibi	tu	PRON	p-s---fd-	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	SpaceAfter=No|LId=tu1
@@ -16188,7 +16188,7 @@
 
 # sent_id = phi0631.phi001.perseus-lat1.tb.xml@11
 # text = etiam tum vita hominum sine cupiditate agitabatur;
-1	etiam	etiam	ADV	c--------	_	2	advmod	_	LId=etiam1
+1	etiam	etiam	ADV	c--------	_	2	advmod:emph	_	LId=etiam1
 2	tum	tum	ADV	d--------	AdvType=Tim	7	advmod:tmod	_	LId=tum1
 3	vita	vita	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	LId=vita1
 4	hominum	homo	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	LId=homo1
@@ -20903,7 +20903,7 @@
 # text = vos cunctamini etiam nunc et dubitatis, quid intra moenia deprensis hostibus faciatis?
 1	vos	tu	PRON	p-p---mn-	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	LId=tu1
 2	cunctamini	cunctor	VERB	v2ppip---	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=cunctor1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-3	etiam	etiam	ADV	d--------	_	4	advmod	_	LId=etiam1
+3	etiam	etiam	ADV	d--------	_	4	advmod:emph	_	LId=etiam1
 4	nunc	nunc	ADV	d--------	AdvType=Tim	2	advmod:tmod	_	LId=nunc1
 5	et	et	CCONJ	c--------	_	6	cc	_	LId=et1
 6	dubitatis	dubito	VERB	v2ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LId=dubito1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
@@ -20926,7 +20926,7 @@
 6	per	per	ADP	r--------	_	7	case	_	LId=per1
 7	ambitionem	ambitio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	LId=ambitio1
 8	atque	atque	CCONJ	c--------	_	11	cc	_	LId=atque1
-9	etiam	etiam	ADV	d--------	_	10	advmod	_	LId=etiam1
+9	etiam	etiam	ADV	d--------	_	10	advmod:emph	_	LId=etiam1
 10	armatos	armatus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	LId=armatus1
 11	dimittatis	dimitto	VERB	v2ppsa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=dimitto1|SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 12	:	:	PUNCT	u--------	_	2	punct	_	LId=punc1
@@ -21859,7 +21859,7 @@
 9	necessitudo	necessitudo	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No|LId=necessitudo1
 10	,	,	PUNCT	u--------	_	15	punct	_	LId=comma1
 11	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=qui1
-12	etiam	etiam	ADV	d--------	_	13	advmod	_	LId=etiam1
+12	etiam	etiam	ADV	d--------	_	13	advmod:emph	_	LId=etiam1
 13	timidos	timidus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	15	obj	_	LId=timidus1
 14	fortis	fortis	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	15	xcomp	_	LId=fortis1
 15	facit	facio	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	LId=facio1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
