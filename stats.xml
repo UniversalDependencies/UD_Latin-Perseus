@@ -10,30 +10,30 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>939</sentences><tokens>10775</tokens><words>10962</words><fused>187</fused></test>
   </size>
-  <lemmas unique="4638" /><!-- ,, ., et, qui, in, sum, :, que, ;, ego, non, hic, ille, is, tu -->
+  <lemmas unique="4639" /><!-- ,, ., et, qui, in, sum, :, que, ;, ego, non, hic, ille, is, tu -->
   <forms unique="9980" /><!-- ,, ., et, in, :, ;, que, non, ne, cum, ut, qui, ad, ?, si -->
   <fusions unique="218" /><!-- neque, nec, mecum, seque, secum, magisque, itemque, manusque, militiaeque, nonne, Dumque, ceterosque, digitosque, ibique, magnaque -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">2133</tag><!-- magnus, publicus, bonus, malus, novus, primus, parvus, superus, unus, gravis -->
+    <tag name="ADJ">2132</tag><!-- magnus, publicus, bonus, malus, novus, primus, parvus, superus, unus, gravis -->
     <tag name="ADP">1347</tag><!-- in, ad, ab, de, ex, per, cum, super, pro, inter -->
-    <tag name="ADV">1873</tag><!-- ne, iam, etiam, ita, tamen, nunc, sic, modo, tum, ergo -->
+    <tag name="ADV">1849</tag><!-- ne, iam, etiam, ita, tamen, nunc, sic, modo, tum, ergo -->
     <tag name="AUX">369</tag><!-- sum -->
     <tag name="CCONJ">1576</tag><!-- et, que, atque, sed, aut, neque, at, vel, sive, neve -->
-    <tag name="DET">1722</tag><!-- hic, ille, suus, meus, omnis, ipse, tuus, noster, multus, qui -->
+    <tag name="DET">1724</tag><!-- hic, ille, suus, meus, omnis, ipse, tuus, noster, multus, qui -->
     <tag name="INTJ">34</tag><!-- Hercules, ah, O, vae, heu!, hei, heu, heus!, io, laecasin -->
     <tag name="NOUN">6255</tag><!-- res, vox, terra, homo, manus, animus, dies, amor, deus, bellum -->
     <tag name="NUM">167</tag><!-- duo, unus, mille, septem, quattuor, tres, viginti, centum, decem, sex -->
-    <tag name="PART">453</tag><!-- non, nam, autem, enim, quidem, igitur, haud, o, ecce, an -->
+    <tag name="PART">477</tag><!-- non, nam, autem, enim, quoque, quidem, igitur, haud, o, ecce -->
     <tag name="PRON">1480</tag><!-- qui, ego, tu, is, sui, quis, nos, nihil, aliquis, quisquis -->
-    <tag name="PROPN">739</tag><!-- Catilina, Trimalchio, Cynthia, Iuppiter, Caesar, Roma, Antonius, Cicero, Fortunata, Italia -->
+    <tag name="PROPN">738</tag><!-- Catilina, Trimalchio, Cynthia, Iuppiter, Caesar, Roma, Antonius, Cicero, Fortunata, Italia -->
     <tag name="PUNCT">4507</tag><!-- ,, ., :, ;, ?, ', !, (, ), punc -->
     <tag name="SCONJ">778</tag><!-- ut, si, cum, ne, quod, dum, quam, nisi, ubi, quia -->
     <tag name="VERB">5787</tag><!-- dico, habeo, facio, video, possum, do, volo, venio, coepio, iubeo -->
     <tag name="X">1</tag><!-- unknown -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="60">
+  <feats unique="61">
     <feat name="AdpType" value="Post" upos="ADP">17</feat><!-- cum -->
     <feat name="AdvType" value="Loc" upos="ADV">56</feat><!-- unde, hinc, ibi, quo, ubi, hic, inde, qua, huc, procul -->
     <feat name="AdvType" value="Tim" upos="ADV">231</feat><!-- iam, nunc, semper, tum, ante, saepe, olim, postea, post, pridem -->
@@ -50,6 +50,7 @@
     <feat name="Compound" value="Yes" upos="PRON">4</feat><!-- invicem -->
     <feat name="Degree" value="Abs" upos="ADJ,ADV,DET">89</feat><!-- extremo, summa, Novissime, extrema, maxime, maximus, plurimum, proxima, proximam, proximis -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,DET,VERB">188</feat><!-- magis, amplius, minus, prius, maiore, melior, plura, plus, diutius, maior -->
+    <feat name="Form" value="Emp" upos="PART">24</feat><!-- quoque -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">4551</feat><!-- quae, illa, res, rem, ea, magna, mea, rei, vocem, quam -->
     <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">5334</feat><!-- qui, ille, quis, eius, illi, quem, ipse, eos, Catilina, Trimalchio -->
     <feat name="Gender" value="Neut" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3075</feat><!-- quod, quid, hoc, quae, haec, omnia, id, nihil, caelo, bello -->
@@ -74,7 +75,7 @@
     <feat name="Person[psor]" value="3" upos="DET">129</feat><!-- suis, sua, suo, suum, suam, suos, suas, suae, sui, suarum -->
     <feat name="Polarity" value="Neg" upos="PART,PRON">28</feat><!-- nihil, nil, non -->
     <feat name="Poss" value="Yes" upos="DET">393</feat><!-- mea, suis, sua, suo, suum, suam, tua, meo, meae, meam -->
-    <feat name="PronType" value="Con" upos="DET">135</feat><!-- alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros -->
+    <feat name="PronType" value="Con" upos="DET">137</feat><!-- alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros -->
     <feat name="PronType" value="Dem" upos="DET">723</feat><!-- haec, hoc, illa, ille, illi, ipse, illum, hanc, illis, his -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">334</feat><!-- quis, nihil, multa, nulla, nullo, quae, quicquam, quidam, quisque, quid -->
     <feat name="PronType" value="Int" upos="PRON">83</feat><!-- quid, quis, quidnam, quo, Quem, ecquis, quae, quibus, quoius -->
@@ -96,44 +97,46 @@
     <feat name="Voice" value="Pass" upos="VERB">1336</feat><!-- videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
+  <deps unique="45">
     <dep name="acl">79</dep>
     <dep name="acl:relcl">288</dep>
     <dep name="advcl">919</dep>
     <dep name="advcl:abs">164</dep>
     <dep name="advcl:cmp">63</dep>
-    <dep name="advcl:pred">7</dep>
-    <dep name="advmod">1441</dep>
-    <dep name="advmod:emph">78</dep>
+    <dep name="advcl:pred">8</dep>
+    <dep name="advmod">1353</dep>
+    <dep name="advmod:emph">168</dep>
     <dep name="advmod:lmod">56</dep>
     <dep name="advmod:neg">274</dep>
     <dep name="advmod:tmod">231</dep>
-    <dep name="amod">1635</dep>
-    <dep name="appos">50</dep>
+    <dep name="amod">1634</dep>
+    <dep name="appos">46</dep>
     <dep name="aux">4</dep>
     <dep name="aux:pass">15</dep>
     <dep name="case">1347</dep>
     <dep name="cc">1523</dep>
     <dep name="ccomp">354</dep>
     <dep name="ccomp:reported">1</dep>
-    <dep name="conj">1569</dep>
+    <dep name="conj">1573</dep>
     <dep name="conj:expl">8</dep>
     <dep name="cop">350</dep>
     <dep name="csubj">135</dep>
     <dep name="csubj:pass">1</dep>
-    <dep name="det">977</dep>
-    <dep name="discourse">242</dep>
+    <dep name="det">980</dep>
+    <dep name="det:numgov">1</dep>
+    <dep name="discourse">240</dep>
     <dep name="flat">16</dep>
     <dep name="flat:name">73</dep>
+    <dep name="flat:redup">1</dep>
     <dep name="mark">804</dep>
-    <dep name="nmod">1317</dep>
+    <dep name="nmod">1314</dep>
     <dep name="nsubj">1954</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">440</dep>
     <dep name="nummod">130</dep>
-    <dep name="obj">2574</dep>
+    <dep name="obj">2571</dep>
     <dep name="obl">2250</dep>
-    <dep name="obl:arg">308</dep>
+    <dep name="obl:arg">309</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">45</dep>
     <dep name="punct">4507</dep>
