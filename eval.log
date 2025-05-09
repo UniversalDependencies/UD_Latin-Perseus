@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Latin-Perseus:
-commit 83a83e499738aff5deda8934ea0d47c6acdfacbb
-Merge: 45ee37c 352ad6d
+commit b3c7f9b6751c404db3b1f9e436ba4557d8b945c5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 11 16:10:41 2024 +0100
 Size: counted 29221 of 29221 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.74977525774359.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,25 +20,26 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 27 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        123
-Udapi: found 123 bugs.
+               TOTAL         63
+Udapi: found 63 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 29221 words.
-Genres: found 3 out of 17 known.
+Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-train.conllu
-[Line 15789 Sent phi0620.phi001.perseus-lat1.tb.xml@328 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:nulla:det --> 1:quarum:nmod)
-Warnings: 1
-*** PASSED ***
-Validity: 1
+[Line 15789 Sent phi0620.phi001.perseus-lat1.tb.xml@328 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:nulla:det --> 1:quarum:nmod)
+Syntax errors: 1
+*** FAILED *** with 1 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
+(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.48856502475419) = 0.125273083270305
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.957906984702782) = 0.294740610677779
+(weight=0.307692307692308) * (score{udapi}=0.978440162896547) = 0.301058511660476
 (weight=0.0769230769230769) * (score{udeprels}=0.583783783783784) = 0.0449064449064449
-(TOTAL score=0.69384924896011) * (availability=1) * (validity=1) = 0.69384924896011
-STARS = 3.5
-UD_Latin-Perseus	0.69384924896011	3.5
+(TOTAL score=0.699413002129835) * (availability=1) * (validity=0.01) = 0.00699413002129835
+STARS = 0
+UD_Latin-Perseus	0.00699413002129835	0
