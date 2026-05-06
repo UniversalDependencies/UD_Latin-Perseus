@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Latin-Perseus:
-commit 8d29059691ca6ecac4dae4ac3a71e3d452664949
-Merge: 3287726 1e7ccf2
+commit fb981430ccf15679a1fa1f315e7f1e9c617e4296
+Merge: 92dc1aa a296f01
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'la_perseus'
 Language code (from CoNLL-U file name) = 'la'
 Found the following data files: la_perseus-ud-test.conllu, la_perseus-ud-train.conllu
-Size: counted 29221 of 29221 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.74977525774359.
+Size: counted 29223 of 29223 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.74991214091386.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,29 +19,23 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 19111 out of 29221 total words have one or more features.
+Features: 19111 out of 29223 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-test.conllu
-[Line 1171 Sent phi0959.phi006.perseus-lat1.tb.xml@33]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'infamia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1664 Sent phi0959.phi006.perseus-lat1.tb.xml@80]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'arbusta') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-Perseus/la_perseus-ud-train.conllu
-[Line 3569 Sent phi1221.phi007.perseus-lat1.tb.xml@47]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'consul') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 17184 Sent phi0631.phi001.perseus-lat1.tb.xml@119]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'ludibrio') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-Warnings: 2
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
 (weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
 (weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
-(weight=0.37037037037037) * (score{size}=0.48856502475419) = 0.180950009168219
+(weight=0.37037037037037) * (score{size}=0.488574932688442) = 0.180953678773497
 (weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
 (weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
 (weight=0.111111111111111) * (score{udeprels}=0.605405405405405) = 0.0672672672672673
-(TOTAL score=0.577803333080366) * (availability=1) * (validity=1) = 0.577803333080366
+(TOTAL score=0.577807002685645) * (availability=1) * (validity=1) = 0.577807002685645
 STARS = 3
-UD_Latin-Perseus	0.577803333080366	3
+UD_Latin-Perseus	0.577807002685645	3
